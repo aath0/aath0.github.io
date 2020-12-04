@@ -38,16 +38,25 @@ Informal inquiries are welcome.
 
 ## Master theses
 
-* [Machine learning for detecting pattern sequences in time series data](#machine-learning-for-detecting-pattern-sequences-in-time-series-data)
+* [Convolutional neural networks for analysing neural functions in coma](#convolutional-neural-networks-for-analysing-neural-functions-in-coma)
 * [Signal processing and classification techniques to analyze simultaneously acquired intracranial EEG data](#signal-processing-and-classification-techniques-to-analyze-simultaneously-acquired-intracranial-eeg-data)
 
-## Machine learning for detecting pattern sequences in time series data
+## Convolutional neural networks for analysing neural functions in coma
 
-Machine learning techniques are often used in the field of neuroscience to model patterns of neural activity. Electroencephalography -EEG- is a non-invasive neuroimaging technique that allows measuring time-series of electric activity of the human brain. Machine learning techniques are well established for analyzing EEG responses to external stimuli such as sounds, but there is a lack of techniques for analyzing spontaneous neural activity that occurs during rest.
+Deep learning techniques and in particular convolutional neural networks (CNNs) are increasingly used in the field of neuroscience. CNNs have promising clinical applications in automating the detection of pathological patterns of neural activiy from large amounts of data.
 
-The goal of this project is to use machine learning techniques for modeling patterns of EEG responses to sound sequences. These models will then be used to assess a possible reactivation of the detected patterns during rest. The student working on this project will gain experience with analyzing time-series data, machine learning techniques for classification and sequence detection, and handling biomedical data.
+One tool that is commonly used to measure neural functions is electroencephalography -EEG-. EEG is a non-invasive technique that measures time-series of electric activity of the brain, though electrodes placed on the scalp. EEG is used as a diagnostic tool in neurological disorders, like epilepsy or coma. EEG recordings in coma patients carry information about the integrity of neural functions in the absence of consciousness, and can be used to predict the patients' outcome and chances of survival. However, there is a lack of automatic techniques for detecting pathological patterns of EEG responses to external stimuli during coma.
 
-Please contact Athina Tzovara: athina.tzovara@inf.unibe.ch
+This master thesis will use CNNs for classifying EEG responses of coma patients to sounds, and for linking those to patients' outcome. In our previous work, we have developped a CNN-based pipeline for classifying EEG resposnes of healthy volunteers. This master thesis will build upon this pipeline and will fine-tune its parameters and CNNs architecture for the specific case of EEG data of coma patients, whose EEG responses have higher variability than those of healthy participants. 
+
+The student working on this project will gain experience in deep learning algorithms for biomedical data, data augmentation techniques, and in the development of clinical biomarkers.
+
+For more infomration please contact:
+
+Florence Aellen: florence.aellen@inf.unibe.ch
+
+Athina Tzovara: athina.tzovara@inf.unibe.ch
+
 
 ## Signal processing and classification techniques to analyze simultaneously acquired intracranial EEG data
 
