@@ -39,6 +39,7 @@ Informal inquiries are welcome.
 ## Master theses
 
 * [Convolutional neural networks for analysing neural functions in coma](#convolutional-neural-networks-for-analysing-neural-functions-in-coma)
+* [Information theory techniques to study neural functions in sleep](#information-theory-techniques-to-study-neural-functions-in-sleep)
 * [Signal processing and classification techniques to analyze simultaneously acquired intracranial EEG data](#signal-processing-and-classification-techniques-to-analyze-simultaneously-acquired-intracranial-eeg-data)
 
 ## Convolutional neural networks for analysing neural functions in coma
@@ -54,6 +55,21 @@ The student working on this project will gain experience in deep learning algori
 For more infomration please contact:
 
 Florence Aellen: florence.aellen@inf.unibe.ch
+
+Athina Tzovara: athina.tzovara@inf.unibe.ch
+
+
+## Information theory techniques to study neural functions in sleep
+
+When we sleep, we process auditory stimuli from the environment around us. However, the neural mechanisms that allow the human brain to process stimuli during sleep are under-explored. Recent studies suggest that responsiveness to external stimuli in sleep is related to complexity of neural activity and levels of neuronal noise. 
+
+Tools from the field of computer science, such as information theory or machine learning can be used to quantify the complexity of neural signals, recorded through electroencephalography (EEG). EEG is a non-invasive technique that measures electric activity of the brain through electrodes on the scalp. Measures of scale-free dynamics of neural activity can be applied on time-series of EEG signals to quantify the complexity of neural responses, or levels of neuronal noise. Interestingly, past studies suggest that the compexity of ongoing neural activity is modulated by sleep. However, it remains unknown how changes in neural complexity during sleep affect sensory processing of external stimuli (e.g. sounds). 
+
+The focus of this thesis will be on using techniques from information theory to study complexity of EEG responses to sounds during sleep and wakefulness. The student working on this project will analyse a dataset of high-density sleep EEG recordings using signal processing and information theory techniques. Also, the student will gain experience with Python programming, processing and visualizing time-series signals. No previous experience with sleep or EEG is necessary. 
+
+For more infomration please contact:
+
+Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
 
