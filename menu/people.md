@@ -17,7 +17,7 @@ title: Lab Members
 |:---:|:---|
 |<a href="https://aath0.github.io/menu/nnorori.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/NataliaNorori_Picture.jpg" alt="Smiley face"/> | **<a href="https://aath0.github.io/menu/nnorori.html">Natalia Norori</a>** <br/> **Open health data researcher**<br/><br/> |
 
-# Former member
+# Former members
 
 | | |
 |:---:|:---|
