@@ -3,6 +3,10 @@ layout: page
 title: Representative Publications
 ---
 
+**Tzovara A.**, Amarreh, I., Borghesani, V., Chakravarty, M. M., DuPre, E., Grefkes, C., Haugg A., Jollans L., Lee H.L., Newman S.D., Olsen R.K., Ratnanathern J. T., Rippon G., Uddin L., Q., Bringas Vega M.L., Veldsman M., White T., Badhwar, A. (**2021**). [Embracing diversity and inclusivity in an academic setting: Insights from the Organization for Human Brain Mapping](https://www.sciencedirect.com/science/article/pii/S1053811921000197?via%3Dihub). Neuroimage. In press.
+
+Johnson E.L., Kam J.W.Y., **Tzovara A.**, Knight R.T. (**2020**). [Insights into human cognition from intracranial EEG: A review of audition, memory, internal cognition, and causality](https://iopscience.iop.org/article/10.1088/1741-2552/abb7a5/meta), **Journal of Neural Engineering**, doi: 10.1088/1741-2552/abb7a5
+
 Castegnetti G., **Tzovara A.**, Khemka S., Melinščak F., Barnes G.R., Dolan R.J., Bach D.R. (**2020**). [Representation of probabilistic outcomes during risky decision-making](https://www.nature.com/articles/s41467-020-16202-y), **Nature Communications**.
 
 Fedele T.*, **Tzovara A.** *, Steiger B, Hilfiker P, Grunwald T, Stieglitz L, Jokeit H, Sarnthein J (**2020**). [The relation between neuronal firing, local field potentials and hemodynamic activity in the human amygdala in response to aversive dynamic visual stimuli](https://www.sciencedirect.com/science/article/pii/S1053811920301920), **Neuroimage**. * Equal contribution
