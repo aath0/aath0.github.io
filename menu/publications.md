@@ -5,7 +5,7 @@ title: Representative Publications
 
 **Tzovara A.**, Amarreh, I., Borghesani, V., Chakravarty, M. M., DuPre, E., Grefkes, C., Haugg A., Jollans L., Lee H.L., Newman S.D., Olsen R.K., Ratnanathern J. T., Rippon G., Uddin L., Q., Bringas Vega M.L., Veldsman M., White T., Badhwar, A. (**2021**). [Embracing diversity and inclusivity in an academic setting: Insights from the Organization for Human Brain Mapping](https://www.sciencedirect.com/science/article/pii/S1053811921000197?via%3Dihub). **Neuroimage**. In press.
 
-Johnson E.L., Kam J.W.Y., **Tzovara A.**, Knight R.T. (**2020**). [Insights into human cognition from intracranial EEG: A review of audition, memory, internal cognition, and causality](https://iopscience.iop.org/article/10.1088/1741-2552/abb7a5/meta), **Journal of Neural Engineering**, doi: 10.1088/1741-2552/abb7a5
+Johnson E.L., Kam J.W.Y., **Tzovara A.**, Knight R.T. (**2020**). [Insights into human cognition from intracranial EEG: A review of audition, memory, internal cognition, and causality](https://iopscience.iop.org/article/10.1088/1741-2552/abb7a5/meta), **Journal of Neural Engineering**.
 
 Castegnetti G., **Tzovara A.**, Khemka S., Melinščak F., Barnes G.R., Dolan R.J., Bach D.R. (**2020**). [Representation of probabilistic outcomes during risky decision-making](https://www.nature.com/articles/s41467-020-16202-y), **Nature Communications**.
 
@@ -33,7 +33,5 @@ De Lucia M.,**Tzovara A.** (**2015**). [Decoding auditory EEG responses in healt
 
 **Tzovara A.**, Murray M.M., Bourdaud N., Chavarriaga R., Del R. Millan J., DeLucia M. (**2012**). [The timing of exploratory decision-making revealed by single-trialtopographic EEG analyses](https://www.sciencedirect.com/science/article/pii/S1053811912001632), **Neuroimage**.
 
-Bernasconi F.*, De Lucia M.*,**Tzovara A.** *, Manuel A. L., Murray M.M., SpiererL. (**2011**). [Noise in brain activity engenders perception and influences discrimination sensitivity](http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=22159111), **J. of Neuroscience**.
-
- * Equal contribution
+Bernasconi F.*, De Lucia M.*,**Tzovara A.** *, Manuel A. L., Murray M.M., SpiererL. (**2011**). [Noise in brain activity engenders perception and influences discrimination sensitivity](http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=22159111), **J. of Neuroscience**. * Equal contribution
 
