@@ -3,7 +3,7 @@ layout: page
 title: Representative Publications
 ---
 
-**Tzovara A.**, Amarreh, I., Borghesani, V., Chakravarty, M. M., DuPre, E., Grefkes, C., Haugg A., Jollans L., Lee H.L., Newman S.D., Olsen R.K., Ratnanathern J. T., Rippon G., Uddin L., Q., Bringas Vega M.L., Veldsman M., White T., Badhwar, A. (**2021**). [Embracing diversity and inclusivity in an academic setting: Insights from the Organization for Human Brain Mapping](https://www.sciencedirect.com/science/article/pii/S1053811921000197?via%3Dihub). Neuroimage. In press.
+**Tzovara A.**, Amarreh, I., Borghesani, V., Chakravarty, M. M., DuPre, E., Grefkes, C., Haugg A., Jollans L., Lee H.L., Newman S.D., Olsen R.K., Ratnanathern J. T., Rippon G., Uddin L., Q., Bringas Vega M.L., Veldsman M., White T., Badhwar, A. (**2021**). [Embracing diversity and inclusivity in an academic setting: Insights from the Organization for Human Brain Mapping](https://www.sciencedirect.com/science/article/pii/S1053811921000197?via%3Dihub). **Neuroimage**. In press.
 
 Johnson E.L., Kam J.W.Y., **Tzovara A.**, Knight R.T. (**2020**). [Insights into human cognition from intracranial EEG: A review of audition, memory, internal cognition, and causality](https://iopscience.iop.org/article/10.1088/1741-2552/abb7a5/meta), **Journal of Neural Engineering**, doi: 10.1088/1741-2552/abb7a5
 
@@ -15,7 +15,7 @@ Fedele T.*, **Tzovara A.** *, Steiger B, Hilfiker P, Grunwald T, Stieglitz L, Jo
 
 Greshake Tzovaras B., Angrist M., Arvai K., Dulaney M., Estrada-Galiñanes V., Gunderson B., Head T., Lewis D., Nov O., Shaer O., **Tzovara A**, Bobe J., Price Ball M. (**2019**). [Open Humans: A platform for participant-centered research and personal data exploration](https://academic.oup.com/gigascience/article/8/6/giz076/5523201), **GigaScience**.
 
-Greshake Tzovaras B., **Tzovara A.** (**2019**). [The personal data is political. Book chapter in: The Ethics of Medical Data Donation](https://www.springer.com/de/book/9783030043629). Springer, pp 133-140.
+Greshake Tzovaras B., **Tzovara A.** (**2019**). [The personal data is political. Book chapter in: The Ethics of Medical Data Donation](https://www.springer.com/de/book/9783030043629). **Springer**, pp 133-140.
 
 **Tzovara A.**, Korn C.W. Bach D.R. (**2018**). [Human Pavlovian fear conditioning conforms to probabilistic learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243), **PLOS Computational Biology**.
 
