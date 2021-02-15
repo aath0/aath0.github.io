@@ -3,29 +3,29 @@ layout: page
 title: Open positions
 ---
 
-* [Postdoc position in neuroscience and machine learning](#postdoc-position-in-neuroscience-and-machine-learning)
+* [PhD position in neuroscience and machine learning](#postdoc-position-in-neuroscience-and-machine-learning)
 * [Master theses](#master-theses)
 
-## Postdoc position in neuroscience and machine learning
+## PhD position in neuroscience and machine learning
 
-A 2-year postdoc position is available for a researcher with an interest in cognitive neuroscience, electroencephalography (EEG), and machine learning. 
+A 3-year PhD position is available for a researcher with an interest in cognitive neuroscience, electroencephalography (EEG), and machine learning. 
 
 The position will be based at the University of Bern, Switzerland, at the [Institute of Computer Science](https://www.inf.unibe.ch/index_eng.html) and [sitem-insel](https://sitem-insel.ch/en), under the supervision of Athina Tzovara. Our [group](https://www.inf.unibe.ch/about_us/team/cognitive_computational_neuroscience_ccn/index_eng.html) is studying the neural mechanisms underlying predictive processes in humans and their link to consciousness or decisions. We are using high-density EEG, MEG and ECoG recordings, in combination with machine learning and computational modeling techniques.
 
-The open postdoc position will study the neural and computational mechanisms that allow humans to anticipate the outcome of their actions. Being able to plan future actions and anticipate their outcome is a crucial cross-species skill for survival. However, the temporal dynamics and computational processes underlying this neural ability in humans are underexplored.
+The open position will study the neural and computational mechanisms that allow humans to anticipate the outcome of their actions. Being able to plan future actions and anticipate their outcome is a crucial cross-species skill for survival. However, the temporal dynamics and computational processes underlying this neural ability in humans are underexplored.
 
 To address this question, the selected candidate will design novel EEG experiments and use signal processing and machine learning tools to analyze EEG data. This position could be ideal for candidates with a background in computer science and a strong interest in neuroscience, or with a background in neuroscience, but with strong computational and programming skills.
 
 *Qualifications:*
 
--	PhD in neuroscience, biomedical engineering, computer science, or a related discipline
+-	Masters in biomedical engineering, computer science, neuroscience, physics or a related discipline
 -	Experience with machine learning / computational modeling
 -	Experience with recording and analyzing electroencephalography (EEG) data is an advantage
 -	Programming skills in python or matlab
 
 *What we offer:*
 
--	Funding for 2 years following regulations of the University of Bern
+-	Funding for 3 years following regulations of the University of Bern
 -	Access to high-density scalp EEG and ECoG recordings
 -	Interdisciplinary & international research environment
 
