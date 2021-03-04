@@ -3,38 +3,11 @@ layout: page
 title: Open positions
 ---
 
-* [PhD position in neuroscience and machine learning](#postdoc-position-in-neuroscience-and-machine-learning)
+* [PhD and postdoc positions](#phd-and-postdoc-positions)
 * [Master theses](#master-theses)
 
-## PhD position in neuroscience and machine learning
-
-A 3-year PhD position is available for a researcher with an interest in cognitive neuroscience, electroencephalography (EEG), and machine learning. 
-
-The position will be based at the University of Bern, Switzerland, at the [Institute of Computer Science](https://www.inf.unibe.ch/index_eng.html) and [sitem-insel](https://sitem-insel.ch/en), under the supervision of Athina Tzovara. Our [group](https://www.inf.unibe.ch/about_us/team/cognitive_computational_neuroscience_ccn/index_eng.html) is studying the neural mechanisms underlying predictive processes in humans and their link to consciousness or decisions. We are using high-density EEG, MEG and ECoG recordings, in combination with machine learning and computational modeling techniques.
-
-The open position will study the neural and computational mechanisms that allow humans to anticipate the outcome of their actions. Being able to plan future actions and anticipate their outcome is a crucial cross-species skill for survival. However, the temporal dynamics and computational processes underlying this neural ability in humans are underexplored.
-
-To address this question, the selected candidate will design novel EEG experiments and use signal processing and machine learning tools to analyze EEG data. This position could be ideal for candidates with a background in computer science and a strong interest in neuroscience, or with a background in neuroscience, but with strong computational and programming skills.
-
-*Qualifications:*
-
--	Masters in biomedical engineering, computer science, neuroscience, physics or a related discipline
--	Experience with machine learning / computational modeling
--	Experience with recording and analyzing electroencephalography (EEG) data is an advantage
--	Programming skills in python or matlab
-
-*What we offer:*
-
--	Funding for 3 years following regulations of the University of Bern
--	Access to high-density scalp EEG and ECoG recordings
--	Interdisciplinary & international research environment
-
-*Applications:*
-Applications will be accepted until the positions are filled. If you are interested, please send one pdf-document including your CV, a brief statement of research interests, and the contact details of two referees to:  
-Athina Tzovara: athina.tzovara@inf.unibe.ch
-Informal inquiries are welcome.
-
-
+## PhD and Postdoc positions
+We do not have any open positions at the moment. 
 
 ## Master theses
 
