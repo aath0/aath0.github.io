@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+* **March 2021**: [Natalia Norori](https://neuro.inf.unibe.ch/menu/people.html) and Athina Tzovara are presenting a workshop on bias in artificial intelligence algorithms for medicine, at the [Mozilla Festival](https://schedule.mozillafestival.org/session/XSATSF-1).
+
+* **February 2021**: Join our [mentoring seminar for women PhD students in Computer science](https://sites.google.com/view/w-cse-mentor-seminars/home)!
+
+* **January 2021**: [Our article](https://www.sciencedirect.com/science/article/pii/S1053811921000197) describing the work done at the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1) to enhance diversity and inclusivity in an academic setting is published!
+
 * **September 2020**: We are starting a new project to investigate bias in machine learning algorithms for biomedical data, funded from [Mozilla Foundation](https://foundation.mozilla.org/en/). In collaboration with [Natalia Norori](https://neuro.inf.unibe.ch/menu/people.html), we will investigate how open science tools can be used to recognise and mitigate bias.
 
 * **September 2020**: New [review article](https://iopscience.iop.org/article/10.1088/1741-2552/abb7a5/meta) on the use of intracranial EEG to study congition in humans.
