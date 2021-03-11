@@ -3,7 +3,10 @@ layout: page
 title: News
 ---
 
+
 * **March 2021**: [Natalia Norori](https://neuro.inf.unibe.ch/menu/people.html) and Athina Tzovara are presenting a workshop on bias in artificial intelligence algorithms for medicine, at the [Mozilla Festival](https://schedule.mozillafestival.org/session/XSATSF-1).
+
+* **March 2021**: For the Brain Awareness Week, join us at the online event: ["Can your science pass a kid's review?"](https://www.brainfacts.org/for-educators/programs-and-events/can-your-science-pass-a-kids-review-students-review-submissions-to-frontiers-for-your-minds-030821). Children will be reviewing articles written for [Frontiers for Young Minds](https://kids.frontiersin.org), exploring functions of the brain.
 
 * **February 2021**: Join our [mentoring seminar for women PhD students in Computer science](https://sites.google.com/view/w-cse-mentor-seminars/home)!
 
