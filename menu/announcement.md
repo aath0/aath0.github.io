@@ -5,6 +5,32 @@ title: Open positions
 
 * [PhD and postdoc positions](#phd-and-postdoc-positions)
 * [Master theses](#master-theses)
+* [Research assistant](#research-assistant)
+
+# Research Assistant
+
+**Task:** Generation of data conversion scripts to facilitate scientifically highly interesting research questions in the sleep clinics of Inselspital (SWEZ).
+ 
+In order to automatize the data flow for scientific exploitation of our data, we need several scripts including the following:
+ 
+*       Integrate patient information into an existing FileMaker database
+*        Export of polysomnography derived and clinical variables from FileMaker
+*        Provide scripts for standardizing the clinical information
+*        Mapping of clinical variables to raw data folders
+*        De-identification of clinical variables in sync with raw data
+ 
+**Timeline:**
+*        We estimate a work load of 200-300 hours within the next six months, thus an engagement of one to two days per week is desired
+*        Additional projects are on the horizon, thus follow-up opportunities are expected
+ 
+**Skills needed:**
+*        Ability to write data conversion scripts autonomously (preferably in Python)
+*        Ability to cleverly manage relatively complex data sets (several thousand records, >100 variables, non-standardized)
+ 
+ **Applications:**
+To apply or to inquire more information please contact Dr. Julia van der Meer: julia.vandermeer@insel.ch
+ 
+ 
 
 ## PhD and Postdoc positions
 We do not have any open positions at the moment. 
