@@ -3,8 +3,11 @@ layout: page
 title: News
 ---
 
+* **June 2021**: Join our symposium on [Spatio-temporal Brain Dynamics Across Consciousness Levels in Clinical and Healthy Populations](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4060) at the annual meeting of the Organization for Human Brain Mapping!
 
-* **March 2021**: [Natalia Norori](https://neuro.inf.unibe.ch/menu/people.html) and Athina Tzovara are presenting a workshop on bias in artificial intelligence algorithms for medicine, at the [Mozilla Festival](https://schedule.mozillafestival.org/session/XSATSF-1).
+* **May 2021**: Pinar Goektepe will present her work on multivariate decoding of MEG signals to study auditory predictions at the [MEG-Nord meeting](https://megnord.org/).
+
+* **March 2021**: Natalia Norori and Athina Tzovara are presenting a workshop on bias in artificial intelligence algorithms for medicine, at the [Mozilla Festival](https://schedule.mozillafestival.org/session/XSATSF-1).
 
 * **March 2021**: For the Brain Awareness Week, join us at the online event: ["Can your science pass a kid's review?"](https://www.brainfacts.org/for-educators/programs-and-events/can-your-science-pass-a-kids-review-students-review-submissions-to-frontiers-for-your-minds-030821). Children will be reviewing articles written for [Frontiers for Young Minds](https://kids.frontiersin.org), exploring functions of the brain. 
 
