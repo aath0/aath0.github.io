@@ -4,7 +4,7 @@ title: Lab Members
 ---
 |||
 |:---:|:---|
-|<a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/TzovaraAthina_Picture.jpg" alt="Smiley face"/></a> | **[Athina Tzovara](https://aath0.github.io/menu/atzovara.html)** <br/> **Head**<br/><br/>Tel: <br/>Email: athina.tzovara@inf.unibe.ch|
+|<a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/TzovaraAthina_Picture.jpg" alt="Smiley face"/></a> | **[Athina Tzovara](https://aath0.github.io/menu/atzovara.html)** <br/> **Head**<br/><br/><br/>Email: athina.tzovara@inf.unibe.ch|
 |<a href="https://aath0.github.io/menu/rtivadar.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/RuxandraTivadar_Picture.jpg" alt="Smiley face"/> | **[Ruxandra Tivadar](https://aath0.github.io/menu/rtivadar.html)** <br/> **Postdoctoral fellow**<br/><br/>Email: ruxandrativadar@yahoo.com|
 |<a href="https://aath0.github.io/menu/FAellen.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/FlorenceAellen_Picture.jpeg" alt="Smiley face"/> | **[Florence (Flo) Aellen](https://aath0.github.io/menu/FAellen.html)** <br/> **PhD Student**<br/><br/>Email: florence.aellen@inf.unibe.ch|
 |<a href="https://aath0.github.io/menu/salnes.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AlnesSigurd_Picture.jpg" alt="Smiley face"/> | **[Sigurd Lerkerød Alnes](https://aath0.github.io/menu/salnes.html)** <br/> **PhD Student**<br/><br/>Email: sigurd.alnes@inf.unibe.ch|
