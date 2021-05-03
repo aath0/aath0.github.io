@@ -5,7 +5,7 @@ title: News
 
 * **June 2021**: Join our symposium on [Spatio-temporal Brain Dynamics Across Consciousness Levels in Clinical and Healthy Populations](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4060) at the annual meeting of the Organization for Human Brain Mapping!
 
-* **May 2021**: Pinar Goektepe will present her work on multivariate decoding of MEG signals to study auditory predictions at the [MEG-Nord meeting](https://megnord.org/).
+* **May 2021**: Pinar Goektepe will present her work on multivariate decoding of MEG signals to study auditory predictions at the [MEG Nord meeting](https://megnord.org/).
 
 * **March 2021**: Natalia Norori and Athina Tzovara are presenting a workshop on bias in artificial intelligence algorithms for medicine, at the [Mozilla Festival](https://schedule.mozillafestival.org/session/XSATSF-1).
 
