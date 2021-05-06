@@ -38,6 +38,7 @@ We do not have any open positions at the moment.
 ## Master theses
 
 * [Convolutional neural networks for analysing neural functions in coma](#convolutional-neural-networks-for-analysing-neural-functions-in-coma)
+* [Clustering human single neuron data during sleep](#clustering-human-single-neuron-data-during-sleep)
 * [Information theory techniques to study neural functions in sleep](#information-theory-techniques-to-study-neural-functions-in-sleep)
 * [Signal processing and classification techniques to analyze simultaneously acquired intracranial EEG data](#signal-processing-and-classification-techniques-to-analyze-simultaneously-acquired-intracranial-eeg-data)
 
@@ -54,6 +55,20 @@ The student working on this project will gain experience in deep learning algori
 For more infomration please contact:
 
 Florence Aellen: florence.aellen@inf.unibe.ch
+
+Athina Tzovara: athina.tzovara@inf.unibe.ch
+
+## Clustering human single neuron data during sleep
+
+When we sleep, we process auditory stimuli from the environment around us. However, the neural mechanisms that allow the human brain to process stimuli during sleep are under-explored. We are collecting single-unit and local field potential (LFP) responses from patients with epilepsy, with intracranially implanted electrodes, with the aim of better characterizing how the auditory response is modulated by sleep.
+
+This project, suitable for a master or bachelors thesis, will primarily focus on spike sorting of single-unit data and analysing firing rates and local field potentials in response to auditory stimuli.
+
+The student working on it will gain experience with processing and analysis of a rich electrophysiological dataset and contribute to expanding the understanding of how information processing is altered by the absence of consciousness. This thesis will give experience with Python/matlab programming, processing and visualizing time-series signals.
+
+For more infomration please contact:
+
+Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
 
