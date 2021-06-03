@@ -11,9 +11,9 @@ Johnson E.L., Kam J.W.Y., Tzovara A., Knight R.T. (**2020**). [Insights into hum
 
 Castegnetti G., Tzovara A., Khemka S., Melinščak F., Barnes G.R., Dolan R.J., Bach D.R. (**2020**). [Representation of probabilistic outcomes during risky decision-making](https://www.nature.com/articles/s41467-020-16202-y), **Nature Communications**.
 
-Fedele T.*, Tzovara A. *, Steiger B, Hilfiker P, Grunwald T, Stieglitz L, Jokeit H, Sarnthein J (**2020**). [The relation between neuronal firing, local field potentials and hemodynamic activity in the human amygdala in response to aversive dynamic visual stimuli](https://www.sciencedirect.com/science/article/pii/S1053811920301920), **Neuroimage**. * Equal contribution
+Fedele T. *, Tzovara A. *, Steiger B, Hilfiker P, Grunwald T, Stieglitz L, Jokeit H, Sarnthein J (**2020**). [The relation between neuronal firing, local field potentials and hemodynamic activity in the human amygdala in response to aversive dynamic visual stimuli](https://www.sciencedirect.com/science/article/pii/S1053811920301920), **Neuroimage**. * Equal contribution
 
-Ojala K.E.*, Tzovara A.*, Poser B.A., Lutti A., Bach D.R. (**2020**). [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.biorxiv.org/content/10.1101/2020.07.10.197665v1.abstract) **bioRxiv**.
+Ojala K.E. *, Tzovara A. *, Poser B.A., Lutti A., Bach D.R. (**2020**). [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.biorxiv.org/content/10.1101/2020.07.10.197665v1.abstract) **bioRxiv**. * Equal contribution
 
 Tzovara A., Meyer S.S., Bonaiuto J., Abivardi A., Dolan R., Barnes G.R., Bac D. R. (**2019**). [High‐precision magnetoencephalography for reconstructing amygdalar and hippocampal oscillations during prediction of safety and threat](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24689), **Human Brain Mapping**.
 
