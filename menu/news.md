@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+* **July 2021**: Our new [perspective article](https://www.cell.com/neuron/pdf/S0896-6273(21)00417-7.pdf) dealing with gender bias in academia and proposing concrete solutions to increase the representation of women in science is published in Neuron. We additionally have a [press release and interview](https://news.berkeley.edu/2021/07/07/for-neuroscientists-a-checklist-for-eliminating-gender-bias/) through University of California Berkeley.
+
 * **June 2021**: Join our symposium on [Spatio-temporal Brain Dynamics Across Consciousness Levels in Clinical and Healthy Populations](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4060) at the annual meeting of the Organization for Human Brain Mapping!
 
 * **May 2021**: Pinar Goektepe will present her work on multivariate decoding of MEG signals to study auditory predictions at the [MEG Nord meeting](https://megnord.org/).
