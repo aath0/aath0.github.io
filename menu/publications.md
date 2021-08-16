@@ -3,9 +3,9 @@ layout: page
 title: Representative Publications
 ---
 
-Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/pdf/S0896-6273(21)00417-7.pdf), **Neuron** * Equal contribution
+Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/pdf/S0896-6273(21)00417-7.pdf), **Neuron**. * Equal contribution
 
-Schindler K.A., Nef T., Baud M.O., Tzovara A., Yilmaz G., Tinkhauser G., Gerber S.M., Gnarra O., Warncke J.D., Schütz N., Knobel S.E.J., Schmidt M.H., Krack P., Fröhlich F., Sznitman R., Rothen S., Bassetti C.L.A. (**2021**). [NeuroTec Sitem-Insel Bern: Closing the Last Mile in Neurology](https://www.mdpi.com/2514-183X/5/2/13), **Clinical and Translational Neuroscience**, doi: /10.3390/ctn5020013
+Schindler K.A., Nef T., Baud M.O., Tzovara A., Yilmaz G., Tinkhauser G., Gerber S.M., Gnarra O., Warncke J.D., Schütz N., Knobel S.E.J., Schmidt M.H., Krack P., Fröhlich F., Sznitman R., Rothen S., Bassetti C.L.A. (**2021**). [NeuroTec Sitem-Insel Bern: Closing the Last Mile in Neurology](https://www.mdpi.com/2514-183X/5/2/13), **Clinical and Translational Neuroscience**.
 
 Dietmann A, Wenz E, van der Meer J, Ringli M, Warncke JD, Edwards E, Schmidt MH, Bernasconi CA, Nirkko A, Strub M, Miano S, Manconi M, Acker J, von Manitius S, Baumann CR, Valko PO, Yilmaz B, Brunner AD, Tzovara A, Zhang Z, Largiadèr CR, Tafti M, Latorre D, Sallusto F, Khatami R, Bassetti CLA. (**2021**). [The Swiss Primary Hypersomnolence and Narcolepsy Cohort study (SPHYNCS): Study protocol for a prospective, multicentre cohort observational study](https://onlinelibrary.wiley.com/doi/10.1111/jsr.13296), **Journal of Sleep Research**.
 
@@ -23,7 +23,7 @@ Tzovara A., Meyer S.S., Bonaiuto J., Abivardi A., Dolan R., Barnes G.R., Bac D. 
 
 Greshake Tzovaras B., Angrist M., Arvai K., Dulaney M., Estrada-Galiñanes V., Gunderson B., Head T., Lewis D., Nov O., Shaer O., Tzovara A, Bobe J., Price Ball M. (**2019**). [Open Humans: A platform for participant-centered research and personal data exploration](https://academic.oup.com/gigascience/article/8/6/giz076/5523201), **GigaScience**.
 
-Greshake Tzovaras B., Tzovara A. (**2019**). [The personal data is political. Book chapter in: The Ethics of Medical Data Donation](https://www.springer.com/de/book/9783030043629). **Springer**, pp 133-140.
+Greshake Tzovaras B., Tzovara A. (**2019**). [The personal data is political. Book chapter in: The Ethics of Medical Data Donation](https://www.springer.com/de/book/9783030043629). **Springer**.
 
 Tzovara A., Korn C.W. Bach D.R. (**2018**). [Human Pavlovian fear conditioning conforms to probabilistic learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243), **PLOS Computational Biology**.
 
