@@ -3,6 +3,8 @@ layout: page
 title: Representative Publications
 ---
 
+Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic Sensory Predictions: A Review of Predictive Mechanisms in the Brain and Their Link to Conscious Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
+
 Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/pdf/S0896-6273(21)00417-7.pdf), **Neuron**. * Equal contribution
 
 Schindler K.A., Nef T., Baud M.O., Tzovara A., Yilmaz G., Tinkhauser G., Gerber S.M., Gnarra O., Warncke J.D., Schütz N., Knobel S.E.J., Schmidt M.H., Krack P., Fröhlich F., Sznitman R., Rothen S., Bassetti C.L.A. (**2021**). [NeuroTec Sitem-Insel Bern: Closing the Last Mile in Neurology](https://www.mdpi.com/2514-183X/5/2/13), **Clinical and Translational Neuroscience**.
