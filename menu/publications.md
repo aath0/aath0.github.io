@@ -3,7 +3,9 @@ layout: page
 title: Representative Publications
 ---
 
-Aellen FM, Kavis-Göktepe P, Apostolopoulos S, Tzovara A (**2021**). [Convolutional neural networks for decoding electroencephalography responses and visualizing trial by trial changes in discriminant features](https://www.sciencedirect.com/science/article/pii/S0165027021003022), **Journal of Neuroscience Methods**.
+Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**, in press.
+
+Aellen FM, Kavis-Göktepe P, Apostolopoulos S, Tzovara A (**2021**). [Convolutional neural networks for decoding electroencephalography responses and visualizing trial by trial changes in discriminant features](https://www.sciencedirect.com/science/article/pii/S0165027021003022), **Journal of Neuroscience Methods**, in press.
 
 Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic Sensory Predictions: A Review of Predictive Mechanisms in the Brain and Their Link to Conscious Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
 
