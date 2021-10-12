@@ -12,24 +12,23 @@ We do not have any open positions at the moment.
 
 ## Master theses
 
-* [Convolutional neural networks for analysing neural functions in coma](#convolutional-neural-networks-for-analysing-neural-functions-in-coma)
+* [Computational and machine learning techniques to study neural functions in coma patients](#computational-and-machine-learning-techniques-to-study-neural-functions-in-coma-patients)
 * [Clustering human single neuron data during sleep](#clustering-human-single-neuron-data-during-sleep)
 * [Information theory techniques to study neural functions in sleep](#information-theory-techniques-to-study-neural-functions-in-sleep)
-* [Signal processing and classification techniques to analyze simultaneously acquired intracranial EEG data](#signal-processing-and-classification-techniques-to-analyze-simultaneously-acquired-intracranial-eeg-data)
 
-## Convolutional neural networks for analysing neural functions in coma
+## Computational and machine learning techniques to study neural functions in coma patients
 
-Deep learning techniques and in particular convolutional neural networks (CNNs) are increasingly used in the field of neuroscience. CNNs have promising clinical applications in automating the detection of pathological patterns of neural activiy from large amounts of data.
+Computational techniques are increasingly used in the field of neuroscience. Signal processing and machine learning have promising clinical applications in automating the detection and characterisation of pathological patterns of neural activiy.
 
-One tool that is commonly used to measure neural functions is electroencephalography -EEG-. EEG is a non-invasive technique that measures time-series of electric activity of the brain, though electrodes placed on the scalp. EEG is used as a diagnostic tool in neurological disorders, like epilepsy or coma. EEG recordings in coma patients carry information about the integrity of neural functions in the absence of consciousness, and can be used to predict the patients' outcome and chances of survival. However, there is a lack of automatic techniques for detecting pathological patterns of EEG responses to external stimuli during coma.
+One tool that is commonly used to measure neural functions is electroencephalography -EEG-. EEG is a non-invasive technique that measures time-series of electric activity of the brain, though electrodes placed on the scalp. EEG is used as a diagnostic tool in neurological disorders, like epilepsy or coma. EEG recordings in coma patients carry information about the integrity of neural functions in the absence of consciousness, and can be used to predict the patients' outcome and chances of survival. [Recent work](https://www.sciencedirect.com/science/article/pii/S1053811921009113) from our group has characterised patterns of EEG resposnes to sounds during the first day of coma. We showed that neural synchrony of EEG activity is predictive of patients' outcome 3 months later, and that neural complexity is indicative of consciousness levels. However, it is not known how the synchrony and complexity of neural responses evolve over time.
 
-This master thesis will use CNNs for classifying EEG responses of coma patients to sounds, and for linking those to patients' outcome. In our previous work, we have developped a CNN-based pipeline for classifying EEG resposnes of healthy volunteers. This master thesis will build upon this pipeline and will fine-tune its parameters and CNNs architecture for the specific case of EEG data of coma patients, whose EEG responses have higher variability than those of healthy participants. 
+This master thesis will use signal processing and machine learning techniques to analyse a rich EEG dataset of coma patients recorded over the first two days of coma. The goal is to evaluate how neural signals of coma patients evolve over time, and establish clinical predictors of their outcome. 
 
-The student working on this project will gain experience in deep learning algorithms for biomedical data, data augmentation techniques, and in the development of clinical biomarkers.
+The student working on this project will gain experience in signal processing of time series data, machine learning algorithms for biomedical data, and in the development of clinical biomarkers.
 
 For more infomration please contact:
 
-Florence Aellen: florence.aellen@inf.unibe.ch
+Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
 
@@ -61,16 +60,4 @@ For more infomration please contact:
 Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
-
-
-## Signal processing and classification techniques to analyze simultaneously acquired intracranial EEG data
-
-Electroencephalography (EEG) is a technique that measures electrical activity of the human brain, in invasive (iEEG) or non-invasive ways.
-
-Classification algorithms have been applied in the field of neuroscience to analyse EEG responses to external stimuli. However, in the majority of cases, EEG responses are analysed for each participant separately. This allows us to examine how the brain responds to external stimuli of the environment, but without the possibility to study interactions with other humans. In a innovative recording setup, we have acquired iEEG data from patients with refractory epilepsy, who were performing simultaneously a non-verbal communication task. Our goal is to study the neural underpinnings of communication and transfer of knowledge from one patient to another.
-
-This thesis will focus on analyzing an existing dataset of invasive electroencephalography recordings, using signal processing and machine learning techniques. The student working on this project will gain experience in advanced signal processing techniques for analyzing time-series data, invasive electroencephalography recordings and biomedical applications of classification algorithms.
-This project is in collaboration with [Dr. Anais Llorens](https://knightlab.neuro.berkeley.edu/post-docs/anais-llorens).
-
-Please contact Athina Tzovara: athina.tzovara@inf.unibe.ch or Anais Llorens: anais@berkeley.edu  
 
