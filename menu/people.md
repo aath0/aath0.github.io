@@ -9,7 +9,7 @@ title: Lab Members
 |<a href="https://aath0.github.io/menu/FAellen.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/FlorenceAellen_Picture.jpeg" alt="Smiley face"/> | **[Florence (Flo) Aellen](https://aath0.github.io/menu/FAellen.html)** <br/> **PhD Student**<br/><br/>Email: florence.aellen@inf.unibe.ch|
 |<a href="https://aath0.github.io/menu/salnes.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AlnesSigurd_Picture.jpg" alt="Smiley face"/> | **[Sigurd Lerkerød Alnes](https://aath0.github.io/menu/salnes.html)** <br/> **PhD Student**<br/><br/>Email: sigurd.alnes@inf.unibe.ch|
 |<a href="https://aath0.github.io/menu/pgoektepe.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/GoktepePinar_Picture.jpg" alt="Smiley face"/> | **[Pinar Göktepe](https://aath0.github.io/menu/pgoektepe.html)** <br/> **PhD Student**<br/><br/>Email: pinar.goektepe@students.unibe.ch|
- |<a href="https://aath0.github.io/menu/rcusinato.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/RiccardoCusinato_Picture.png" alt="Smiley face"/> | **[Riccardo Cusinato](https://aath0.github.io/menu/pgoektepe.html)** <br/> **PhD Student**<br/><br/>Email: riccardo.cusinato@inf.unibe.ch|
+ |<a href="https://aath0.github.io/menu/rcusinato.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/RiccardoCusinato_Picture.png" alt="Smiley face"/> | **[Riccardo Cusinato](https://aath0.github.io/menu/rcusinato.html)** <br/> **PhD Student**<br/><br/>Email: riccardo.cusinato@inf.unibe.ch|
 
 # Collaborators
 
