@@ -3,11 +3,11 @@ layout: page
 title: Open positions
 ---
 
-* [PhD and postdoc positions](#phd-and-postdoc-positions)
+* [Postdoc position](#postdoc-position)
 * [Master theses](#master-theses) 
  
 
-## PhD and Postdoc positions
+## Postdoc position
 
 ### Postdoc position in electrophysiology at the interface of Neuroscience and Neuro-engineering 
 
