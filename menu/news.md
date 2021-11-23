@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+* **November 2021**: New [paper](https://www.sciencedirect.com/science/article/pii/S1053811921009113) characterising neural signals in patients in a coma. We show that neural synchrony of EEG responses to sounds in the first day of coma is predictive of patients' outcome three months later. [Press release](http://www.inselgruppe.ch/de/aktuell/details/news/komapatienten-guenstige-prognose-bei-gleichtakt-der-hirnzellen/) from the University of Bern.
+
+* **September 2021**: New [paper](https://www.sciencedirect.com/science/article/pii/S0165027021003022) on deep learning for EEG signals. We explore deep learning algorithms based on covolutional neural networks for EEG data, and trial by trial changes in discriminatory features.
+
 * **July 2021**: Our new [perspective article](https://www.cell.com/neuron/pdf/S0896-6273(21)00417-7.pdf) dealing with gender bias in academia and proposing concrete solutions to increase the representation of women in science is published in Neuron. We additionally have a [press release and interview](https://news.berkeley.edu/2021/07/07/for-neuroscientists-a-checklist-for-eliminating-gender-bias/) through University of California Berkeley.
 
 * **June 2021**: Join our symposium on [Spatio-temporal Brain Dynamics Across Consciousness Levels in Clinical and Healthy Populations](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4060) at the annual meeting of the Organization for Human Brain Mapping!
