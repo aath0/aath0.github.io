@@ -21,10 +21,10 @@ title: Lab Members
 
 | | |
 |:---:|:---|
-|<img align="center" src="https://raw.githubusercontent.com/ccneuro/ccneuro.github.io/master/assets/img/posts/Brainy2.jpg" alt="Smiley face"/> | **<a href="https://aath0.github.io/">Corinne Alison Donnay</a>** <br/> **Research Assistant**<br/><br/> |
 |<a href="https://aath0.github.io/menu/qhu.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/QiyangHu_Picture.jpg" alt="Smiley face"/> | **[Dr. Qiyang Hu](https://aath0.github.io/menu/qhu.html)** <br/> **Research Associate**<br/><br/>|
  |<a href="https://aath0.github.io/menu/lbachlin.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/LeaBachlin_Picture.jpeg" alt="Smiley face"/> | **[Lea Zoe Meret Bächlin](https://aath0.github.io/menu/lbachlin.html)** <br/> **Research Assistant**<br/><br/>|
  |<a href="https://aath0.github.io/menu/amorf.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AnnaMorf_Picture.jpg" alt="Smiley face"/> | **[Anna Selina Morf](https://aath0.github.io/menu/amorf.html)** <br/> **Research Assistant**<br/><br/>|
+|<img align="center" src="https://raw.githubusercontent.com/ccneuro/ccneuro.github.io/master/assets/img/posts/Brainy2.jpg" alt="Smiley face"/> | **<a href="https://aath0.github.io/">Corinne Alison Donnay</a>** <br/> **Research Assistant**<br/><br/> |
 
 
 
