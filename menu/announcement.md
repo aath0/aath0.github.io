@@ -35,7 +35,7 @@ This sleep-epilepsy project will combine software development, EEG signal proces
 * Data analysis EEG – single units – 6 months
 * Scientific dissemination (conferences and papers)
 
-Please send us your complete application (CV, motivation letter, references, etc…) to:
+Please send us your complete application (CV, motivation letter, references, etc…) until January 14 2022 to:
 * Maxime Baud (Leader e-Lab, Inselspital), maxime.baud.neuro@gmail.com     
 * Athina Tzovara (Assistant Professor, Institute of Computer Science, University of Bern),  athina.tzovara@inf.unibe.ch
 
