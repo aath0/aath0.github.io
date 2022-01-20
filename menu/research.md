@@ -4,23 +4,27 @@ title: Research
 ---
 
 
-Our research uses computational and machine learning techniques to study cognition, in particular in cases where conscious access to the environment is lost, such as during sleep.
+Our research uses computational and machine learning techniques to study functions of the human brain in health and disease. Our work focuses on three main axes:
 
-To study how we learn from reoccuring environmental events, we use electrophysiological recordings (scalp, intracranial EEG and human single unit activity) in combination with computational modeling (multivariate decoding, learning models).
-
-* [Neural processing in the absence of consciousness](#neural-processing-in-the-absence-of-consciousness)
+* [Neural functions in coma and sleep](#neural-functions-in-coma-and-sleep)
 * [Learning and predictions](#learning-and-predictions)
-* [Machine learning for analysing physiological data](#machine-learning-for-analysing-physiological-data)
+* [Machine learning techniques for neuroscience](#machine-learning-for-analysing-physiological-data)
 <br/><br/>
-## Neural processing in the absence of consciousness
+## Neural functions in coma and sleep
 
-The brain operates as a predictive machine, constantly detecting patterns in the environment and generating predictions about future events before these occur. Neural predictions are implemented not only in active conditions, i.e. when they are relevant to our actions, but also when conscious access to incoming sensory stimuli can be excluded, i.e. during sleep or coma. <br/>
+When consciousness fades away we are not aware of our surroundings. However, our brains continue to process information from the environment, like sounds. <br/>
+In our work, we are investigating how the human brain responds to stimuli of the environment when consciousness is lost. Moreover, we are combining electrophysiological measurements of brain activity with computational techniques, like measures of neural synchrony and complexity, to identify predictors of awakening from a coma.<br/>
 
-Here, we are studying the neural mechanisms underlying learning of environmental regularities as a function of consciousness, using scalp and intracranial electroencephalography (EEG).
-
-![Modeling associative learning](https://raw.githubusercontent.com/ccneuro/ccneuro.github.io/master/assets/img/posts/Regularities.png)
-*Adapted from: Tzovara et al., 2016, Annals of Neurology, [doi: 10.1002/ana.24622]( https://doi.org/10.1002/ana.24622)*
+![Graphical Abstract Alnes et al., 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Alnes2021_GA.png)
+*[Alnes et al., 2021, Neuroimage]( https://www.sciencedirect.com/science/article/pii/S1053811921009113)*
 <br/><br/>
+
+#### Representative publications
+* Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**.
+* Tzovara A., Rossetti A.O., Juan E., Suys T., Viceic D., Rusca M., Oddo M., DeLucia M. (**2016**). [Prediction of awakening from hypothermic post anoxic comabased on auditory discrimination](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.24622), **Annals of Neurology**.
+* Tzovara A., Rossetti A.O., Murray M.M., Spierer L., Grivel J., Oddo M., De Lucia M. (**2013**). [Progression of auditory discrimination based on neural decoding predictsawakening from coma](https://academic.oup.com/brain/article/136/1/81/430538), **Brain**.
+
+
 ## Learning and predictions
 
 The world around us is full of rich sensory experiences, which often follow repetitive rules. For example, temporal
@@ -29,15 +33,16 @@ like the sound of a siren, could help us predict the arrival of an ambulance, or
 reoccurring events we are able to learn patterns and eventually form predictions about future events before these
 occur. <br/>
 
-To shed light in the neural computations that allow us to form predictions about future events, we are using machine learning and computational modeling techniques, to study activity of the [central](http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_00835) and [peripheral](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243) nervous system during learning of environmental rules.
+To shed light in the neural computations that allow us to form predictions about future events, we are using machine learning and computational modeling techniques, to study [neural activity](http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_00835) during learning of environmental rules.
 
 ![Modeling associative learning](https://raw.githubusercontent.com/ccneuro/ccneuro.github.io/master/assets/img/posts/Models.png)
 *Adapted from: Tzovara et al., 2018, PLoS Computational Biology, [doi: 10.1371/journal.pcbi.1006243]( https://doi.org/10.1371/journal.pcbi.1006243)*
 
 #### Representative publications
-* Chouiter L*, Tzovara A* et al. (2015) [Experience-based Auditory Predictions Modulate Brain Activity to Silence as Do Real Sounds.](http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_00835) J Cogn Neurosci. 27(10):1968-80. *equal contribution.
-* Tzovara A, Simonin A, Oddo M, Rossetti AO, De Lucia M. (2015) [Neural detection of complex sound sequences in the absence of consciousness.](https://academic.oup.com/brain/article/138/5/1160/406045/Neural-detection-of-complex-sound-sequences-in-the) Brain 138(Pt 5):1160-6.
-* Tzovara A, Korn C, Bach R.B. (2018) [Human Pavlovian fear conditioning conforms to probabilistic learning.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243) PLoS Computational Biology 14(8):e1006243.
+* Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
+* Tzovara A., Korn C.W. Bach D.R. (**2018**). [Human Pavlovian fear conditioning conforms to probabilistic learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243), **PLOS Computational Biology**.
+* Chouiter L.*,Tzovara A. *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). [Experience-based auditory predictions modulate brain activity to silence as do real sounds](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835), **J Cogn Neuroscience**. * Equal contribution
+* Tzovara A., Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). [Neural detection of complex sound sequences in the absence of consciousness](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041), **Brain**.
 
 <br/><br/>
 ## Machine learning for analysing physiological data
