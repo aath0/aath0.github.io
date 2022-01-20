@@ -2,6 +2,7 @@
 layout: page
 title: Lab Members
 ---
+
 |||
 |:---:|:---|
 |<a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/TzovaraAthina_Picture.jpg" alt="Smiley face"/></a> | **[Athina Tzovara](https://aath0.github.io/menu/atzovara.html)** <br/> **Head**<br/><br/><br/>Email: athina.tzovara@inf.unibe.ch|
@@ -11,6 +12,8 @@ title: Lab Members
 |<a href="https://aath0.github.io/menu/pgoektepe.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/GoktepePinar_Picture.jpg" alt="Smiley face"/> | **[Pinar Göktepe](https://aath0.github.io/menu/pgoektepe.html)** <br/> **PhD Student**<br/><br/>Email: pinar.goektepe@students.unibe.ch|
  |<a href="https://aath0.github.io/menu/rcusinato.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/RiccardoCusinato_Picture.png" alt="Smiley face"/> | **[Riccardo Cusinato](https://aath0.github.io/menu/rcusinato.html)** <br/> **PhD Student**<br/><br/>Email: riccardo.cusinato@inf.unibe.ch|
 
+![Group picture, summer 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CCN.png)
+*Group picture, summer 2021*
 
 # Former members
 
