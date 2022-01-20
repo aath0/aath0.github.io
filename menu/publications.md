@@ -4,15 +4,12 @@ title: Representative Publications
 ---
 
 Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**.
-![Graphical Abstract Alnes et al., 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Alnes2021_GA.png)
 
 Aellen FM, Kavis-Göktepe P, Apostolopoulos S, Tzovara A (**2021**). [Convolutional neural networks for decoding electroencephalography responses and visualizing trial by trial changes in discriminant features](https://www.sciencedirect.com/science/article/pii/S0165027021003022), **Journal of Neuroscience Methods**.
-![Deep learning pipeline](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2021.png)
 
 Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
 
 Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.
-![Sources of bias Norori et al., 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Norori2021.png)
 
 Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/fulltext/S0896-6273(21)00417-7), **Neuron**. * Equal contribution
 
