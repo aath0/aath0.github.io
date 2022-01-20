@@ -3,11 +3,11 @@ layout: page
 title: Representative Publications
 ---
 
-Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**, in press.
+Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**.
 
-Aellen FM, Kavis-Göktepe P, Apostolopoulos S, Tzovara A (**2021**). [Convolutional neural networks for decoding electroencephalography responses and visualizing trial by trial changes in discriminant features](https://www.sciencedirect.com/science/article/pii/S0165027021003022), **Journal of Neuroscience Methods**, in press.
+Aellen FM, Kavis-Göktepe P, Apostolopoulos S, Tzovara A (**2021**). [Convolutional neural networks for decoding electroencephalography responses and visualizing trial by trial changes in discriminant features](https://www.sciencedirect.com/science/article/pii/S0165027021003022), **Journal of Neuroscience Methods**.
 
-Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic Sensory Predictions: A Review of Predictive Mechanisms in the Brain and Their Link to Conscious Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
+Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
 
 Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.
 
@@ -41,13 +41,16 @@ Tzovara A., Rossetti A.O., Juan E., Suys T., Viceic D., Rusca M., Oddo M., DeLuc
 
 Tzovara A., Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). [Neural detection of complex sound sequences in the absence of consciousness](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041), **Brain**.
 
-Chouiter L.*,Tzovara A. *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). [Experience-based auditory predictions modulate brain activity tosilence as do real sounds](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835), **J Cogn Neuroscience**. * Equal contribution
+Chouiter L.*,Tzovara A. *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). [Experience-based auditory predictions modulate brain activity to silence as do real sounds](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835), **J Cogn Neuroscience**. * Equal contribution
 
 De Lucia M.,Tzovara A. (**2015**). [Decoding auditory EEG responses in healthy andclinical populations: A comparative study](https://www.sciencedirect.com/science/article/pii/S0165027014003872?via%3Dihub), **J Neurosci Methods**.
 
 Tzovara A., Rossetti A.O., Murray M.M., Spierer L., Grivel J., Oddo M., De Lucia M. (**2013**). [Progression of auditory discrimination based on neural decoding predictsawakening from coma](https://academic.oup.com/brain/article/136/1/81/430538), **Brain**.
 
 Tzovara A., Murray M.M., Bourdaud N., Chavarriaga R., Del R. Millan J., DeLucia M. (**2012**). [The timing of exploratory decision-making revealed by single-trialtopographic EEG analyses](https://www.sciencedirect.com/science/article/pii/S1053811912001632), **Neuroimage**.
+
+Tzovara A., Murray M.M., Plomp G., Herzog M.H., Michel C.M., De Lucia M. (**2012**) [Decoding stimulus-related information from single-trial EEG responses based on voltage topographies.](http://www.sciencedirect.com/science/article/pii/S0031320311001440) **Pattern Recognition**.
+
 
 Bernasconi F.*, De Lucia M.*,Tzovara A. *, Manuel A. L., Murray M.M., SpiererL. (**2011**). [Noise in brain activity engenders perception and influences discrimination sensitivity](http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=22159111), **J. of Neuroscience**. * Equal contribution
 
