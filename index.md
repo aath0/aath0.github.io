@@ -6,14 +6,14 @@ title: Aim
 
 ---
 
-Our lab studies human perception from a cognitive and computational neuroscience perspective. 
+Our group is using electrophysiological and computational techniques to study functions of the human brain in health and disease. 
 
-Our research interests focus in the following areas:
-* Investigating the neural underpinnings and computational contents of predictive processes of the human brain
-* Evaluating how these processes are modulated by the loss of consciousness
-* Developing novel computational and machine learning techniques for analyzing electrophysiological activity
+Research focus:
 
-To answer these questions we are using electrophysiological recordings in humans (scalp and intracranial electroencephalography -EEG- and measurements of single unit activity), in combination with machine learning algorithms.
+* Neural functions in coma and sleep
+* Neural correlates of sensory processing and predictions
+* Machine learning techniques for electrophysiological data
+
+To investigate these topics we are using electrophysiological recordings in humans (scalp EEG, intracranial EEG/ECoG, MEG, single unit measurements), in combination with machine learning algorithms (multivariate decoding for EEG signals, deep learning algorithms).
 
 We are located in the [Institute for Computer Science](https://www.inf.unibe.ch/index_eng.html), [University of Bern](https://www.inf.unibe.ch/index_eng.html).
-
