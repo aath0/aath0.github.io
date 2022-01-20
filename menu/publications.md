@@ -3,9 +3,11 @@ layout: page
 title: Representative Publications
 ---
 
-Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**.
+Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**. </br>
+![Graphical Abstract Alnes et al., 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Alnes2021_GA.png)
 
 Aellen FM, Kavis-Göktepe P, Apostolopoulos S, Tzovara A (**2021**). [Convolutional neural networks for decoding electroencephalography responses and visualizing trial by trial changes in discriminant features](https://www.sciencedirect.com/science/article/pii/S0165027021003022), **Journal of Neuroscience Methods**.
+![Deep learning pipeline](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2021.png)
 
 Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
 
