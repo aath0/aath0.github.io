@@ -11,9 +11,8 @@ Our research uses computational and machine learning techniques to study functio
 * [Machine learning for neuroscience](#machine-learning-for-neuroscience)
 <br/><br/>
 ## Neural functions in coma and sleep
-
 ![Graphical Abstract Alnes et al., 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Alnes2021_GA.png)
-*[Alnes et al., 2021, Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921009113)*
+*Figure from [Alnes et al., 2021, Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921009113)*
 
 When consciousness fades away we are not aware of our surroundings. However, our brains continue to process information from the environment, like sounds. <br/>
 In our work, we are investigating how the human brain responds to stimuli of the environment when consciousness is lost. Moreover, we are combining electrophysiological measurements of brain activity with computational techniques, like measures of neural synchrony and complexity, to identify predictors of awakening from a coma.<br/>
@@ -25,7 +24,6 @@ In our work, we are investigating how the human brain responds to stimuli of the
 
 
 ## Learning and predictions
-
 ![Modeling associative learning](https://raw.githubusercontent.com/ccneuro/ccneuro.github.io/master/assets/img/posts/Models.png)
 *Adapted from: Tzovara et al., 2018, PLoS Computational Biology, [doi: 10.1371/journal.pcbi.1006243]( https://doi.org/10.1371/journal.pcbi.1006243)*
 
@@ -45,10 +43,8 @@ To shed light in the neural computations that allow us to form predictions about
 
 <br/><br/>
 ## Machine learning for neuroscience
-
-![Single trial EEG analysis](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2021.png)
-
-*Adapted from: Tzovara et al., 2012, Develop. Neuropsychology, [doi: 110.1080/87565641.2011.636851](http://dx.doi.org/10.1080/87565641.2011.636851)*
+![Deep learning pipeline](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2021.png)
+*Figure from: [Aellen et al., 2021](https://www.sciencedirect.com/science/article/pii/S0165027021003022)
 
 As the amount of data in the field of neuroscience and neurology increases, it becomes imperative to have powerful algorithms for analysing them. Machine learning algorithms have revolutionized several fields, but their use in electrophysiological data remains limited. In our work, we are developing deep learning pipelines for analysing electrophysiological data, with emphasis on interpretability. Moreover, we are evaluating the effects of algorithmic bias when applying machine learning techniques on medical data. 
 
