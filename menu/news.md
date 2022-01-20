@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
 
+* **March 2022**: Florence Aellen will be presenting a workshop at the [Applied Machine Learning Days at EPFL](https://appliedmldays.org/events/amld-epfl-2022), on the topic of: [Algorithmic Decision-Making in Neuroscience: How Can We Improve Algorithmic Interpretability and Reduce Bias?](https://appliedmldays.org/events/amld-epfl-2022/workshops/algorithmic-decision-making-in-neuroscience-how-can-we-improve-algorithmic-interpretability-and-reduce-bias)
+ 
 * **November 2021**: New [paper](https://www.sciencedirect.com/science/article/pii/S1053811921009113) characterising neural signals in patients in a coma. We show that neural synchrony of EEG responses to sounds in the first day of coma is predictive of patients' outcome three months later. [Press release](http://www.inselgruppe.ch/de/aktuell/details/news/komapatienten-guenstige-prognose-bei-gleichtakt-der-hirnzellen/) from the University of Bern.
 
 * **September 2021**: New [paper](https://www.sciencedirect.com/science/article/pii/S0165027021003022) on deep learning for EEG signals. We explore deep learning algorithms based on covolutional neural networks for EEG data, and trial by trial changes in discriminatory features.
