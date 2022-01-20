@@ -3,7 +3,6 @@ layout: page
 title: Research
 ---
 
-
 Our research uses computational and machine learning techniques to study functions of the human brain in health and disease. Our work focuses on three main axes:
 
 * [Neural functions in coma and sleep](#neural-functions-in-coma-and-sleep)
