@@ -16,4 +16,4 @@ Research focus:
 
 To investigate these topics we are using electrophysiological recordings in humans (scalp EEG, intracranial EEG/ECoG, MEG, single unit measurements), in combination with machine learning algorithms (multivariate decoding for EEG signals, deep learning algorithms).
 
-We are located in the [Institute for Computer Science](https://www.inf.unibe.ch/index_eng.html), [University of Bern](https://www.inf.unibe.ch/index_eng.html).
+We are part of the [Institute of Computer Science](https://www.inf.unibe.ch/index_eng.html), at the [University of Bern](https://www.inf.unibe.ch/index_eng.html), in Switzerland.
