@@ -13,7 +13,7 @@ title: Open positions
 
 *Interested in doing a postdoctoral fellowship in translational neurology and contribute ideas and insights within a young and dynamic team of engineers, biologists, physicists, and neurologists?*
 
-At the University hospital of Bern (Inselspital) and Swiss Institute for Translational and Entrepreneurial Medicine (SITEM) we are looking for a passionate postdoc with desire to discover insights in incredibly rich intracranial EEG datasets recorded during wake and sleep. Start of project is in the first months of 2022 with a yearly, renewable contract. 
+At the University hospital of Bern (Inselspital) and Swiss Institute for Translational and Entrepreneurial Medicine (SITEM) we are looking for a passionate postdoc with desire to discover insights in incredibly rich intracranial EEG datasets recorded during wake and sleep.
 
 This sleep-epilepsy project will combine software development, EEG signal processing and machine learning skills. The candidate will be trained conjointly by a computational group (A. Tzovara; https://neuro.inf.unibe.ch/) and a neurologist (M. Baud) who both specialize in quantitative neuroscience research. The candidate will mostly work on computational problems, but, if language skills allow (German or French) will have opportunities to interact directly with chronic epilepsy patients in the neurology department for the acquisition of intracranial EEG recordings. The data will consist of intracranial EEG and single-neurons recorded directly from the human brain. 
 
@@ -28,14 +28,7 @@ This sleep-epilepsy project will combine software development, EEG signal proces
 * Experience with single-unit recordings or intracranial EEG
 * Experience with deep-learning, machine-learning or statistical model development
 
-**Your tasks over the first year**
-* Organization of retrospective icEEG data – 3 months
-* Software development and versioning – 3 months
-* Prospective data collection – ongoing
-* Data analysis EEG – single units – 6 months
-* Scientific dissemination (conferences and papers)
-
-Please send us your complete application (CV, motivation letter, references, etc…) until January 14 2022 to:
+Please send us your complete application (CV, motivation letter, references, etc…) to:
 * Maxime Baud (Leader e-Lab, Inselspital), maxime.baud.neuro@gmail.com     
 * Athina Tzovara (Assistant Professor, Institute of Computer Science, University of Bern),  athina.tzovara@inf.unibe.ch
 
