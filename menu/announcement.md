@@ -4,6 +4,7 @@ title: Open positions
 ---
 
 * [Postdoc position](#postdoc-position)
+* [Research assistant](#research-assistant)
 * [Master theses](#master-theses) 
  
 
@@ -33,6 +34,28 @@ Please send us your complete application (CV, motivation letter, references, etc
 * Athina Tzovara (Assistant Professor, Institute of Computer Science, University of Bern),  athina.tzovara@inf.unibe.ch
 
 Looking forward to your application!
+
+## Research Assistant
+
+### Part-time research assistant position
+
+At the Institute of Computer Science at the University of Bern, we are looking for a part-time research assistant.
+
+Our group is recording and analysing electrophysiological data (scalp and intracranial EEG), to study neural functions in health and disease. We are looking for a 20% research assistant to help us homogenize and store these rich datasets, and develop programming pipelines to analyze them. 
+
+**Required qualifications**
+* A masters degree in any engineering field, physics, computer science or neuroscience
+* Programming skills (primarily Python, or Matlab/R)
+
+**Preferred qualifications**
+* Experience with neuroscience, recording or analysis of EEG data
+* Experience with version control 
+
+If you are interested please send your CV to:
+* Athina Tzovara:  athina.tzovara@inf.unibe.ch
+
+Looking forward to your application!
+
 
 
 ## Master theses
