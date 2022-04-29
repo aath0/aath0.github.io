@@ -4,7 +4,6 @@ title: Open positions
 ---
 
 * [Postdoc position](#postdoc-position)
-* [Research assistant](#research-assistant)
 * [Master theses](#master-theses) 
  
 
@@ -35,36 +34,13 @@ Please send us your complete application (CV, motivation letter, references, etc
 
 Looking forward to your application!
 
-## Research Assistant
-
-### Part-time research assistant position
-
-At the Institute of Computer Science at the University of Bern, we are looking for a part-time research assistant.
-
-Our group is recording and analysing electrophysiological data (scalp and intracranial EEG), to study neural functions in health and disease. We are looking for a 20% research assistant to help us homogenize and store these rich datasets, and develop programming pipelines to analyze them. 
-
-**Required qualifications**
-* A masters degree in any engineering field, physics, computer science or neuroscience
-* Programming skills (primarily Python, or Matlab/R)
-
-**Preferred qualifications**
-* Experience with neuroscience, recording or analysis of EEG data
-* Experience with version control 
-
-If you are interested please send your CV to:
-* Athina Tzovara:  athina.tzovara@inf.unibe.ch
-
-Looking forward to your application!
-
-
 
 ## Master theses
 
 * [Deep learning techniques to study neural functions in coma patients](#deep-learning-techniques-to-study-neural-functions-in-coma-patients)
-* [Actigraphy analysis in rem sleep behavior disorder](actigraphy-analysis-in-rem-sleep-behavior-disorder)
+* [Actigraphy analysis in REM sleep behavior disorder](#actigraphy-analysis-in-rem-sleep-behavior-disorder)
 * [Clustering human single neuron data during sleep](#clustering-human-single-neuron-data-during-sleep)
 * [Information theory techniques to study neural functions in sleep](#information-theory-techniques-to-study-neural-functions-in-sleep)
-* 
 
 ## Deep learning techniques to study neural functions in coma patients
 
@@ -82,8 +58,7 @@ Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
 
-## Actigraphy analysis in rem sleep behavior disorder
-
+## Actigraphy analysis in REM sleep behavior disorder
 ### Potential follow-up tool and disease progression marker?!
 
 Isolated REM-sleep behavior disorder (iRBD) is an early stage of alpha-synucleinopathy and may occur in isolation more than 10 years before the diagnosis of PD or as part of its symptomatology, then termed secondary. Clinically, it is characterized by vivid dreams and their acting out during sleep. Currently, there is no available biomarker indicating disease progression of iRBD or its conversion to Parkinson's disease.
@@ -95,7 +70,7 @@ The goal of this master thesis is to analyze a rich actigraphy dataset. The stud
 The student that will work in this project will gain experience analyzing rich actigraphy datasets, and will have the opportunity to apply advanced data analysis methods on a clinical application. For more information, please contact:
 
 Dr. Carolin Schäfer, Oberärztin, SWEZ, Neurologie, Inselspital : Carolin.schaefer@insel.ch 
-or
+
 Prof. Athina Tzovara: athina.tzovara@inf.unibe.ch
 
 ## Clustering human single neuron data during sleep
