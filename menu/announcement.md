@@ -3,41 +3,17 @@ layout: page
 title: Open positions
 ---
 
-* [Postdoc position](#postdoc-position)
+* [Postdoc PhD positions](#postdoc-phd-positions)
 * [Master theses](#master-theses) 
  
-
-## Postdoc position
-
-### Postdoc position in electrophysiology at the interface of Neuroscience and Neuro-engineering 
-
-*Interested in doing a postdoctoral fellowship in translational neurology and contribute ideas and insights within a young and dynamic team of engineers, biologists, physicists, and neurologists?*
-
-At the University hospital of Bern (Inselspital) and Swiss Institute for Translational and Entrepreneurial Medicine (SITEM) we are looking for a passionate postdoc with desire to discover insights in incredibly rich intracranial EEG datasets recorded during wake and sleep.
-
-This sleep-epilepsy project will combine software development, EEG signal processing and machine learning skills. The candidate will be trained conjointly by a computational group (A. Tzovara; https://neuro.inf.unibe.ch/) and a neurologist (M. Baud) who both specialize in quantitative neuroscience research. The candidate will mostly work on computational problems, but, if language skills allow (German or French) will have opportunities to interact directly with chronic epilepsy patients in the neurology department for the acquisition of intracranial EEG recordings. The data will consist of intracranial EEG and single-neurons recorded directly from the human brain. 
-
-**Required qualifications**
-* A PhD and a quantitative background in any engineering field, physics, computer science or neuroscience
-* Interpersonal and communication skills in English (both oral and written)
-* Strong abilities in computer programming (Matlab and/or Python and/or R) 
-* Experience with neural time-series and frequency analysis (EEG > fMRI, etc.)
-
-**Preferred qualifications**
-* German speaking 
-* Experience with single-unit recordings or intracranial EEG
-* Experience with deep-learning, machine-learning or statistical model development
-
-Please send us your complete application (CV, motivation letter, references, etc…) to:
-* Maxime Baud (Leader e-Lab, Inselspital), maxime.baud.neuro@gmail.com     
-* Athina Tzovara (Assistant Professor, Institute of Computer Science, University of Bern),  athina.tzovara@inf.unibe.ch
-
-Looking forward to your application!
+## Postdoc PhD positions
+We do not have any open postdoc or PhD positions at the moment. Please contact [Athina Tzovara](athina.tzovara@inf.unibe.ch) for inquiries.
 
 
 ## Master theses
 
 * [Deep learning techniques to study neural functions in coma patients](#deep-learning-techniques-to-study-neural-functions-in-coma-patients)
+* [Forecasting epileptic seizures](#forecasting-epileptic-seizures)
 * [Actigraphy analysis in REM sleep behavior disorder](#actigraphy-analysis-in-rem-sleep-behavior-disorder)
 * [Clustering human single neuron data during sleep](#clustering-human-single-neuron-data-during-sleep)
 * [Information theory techniques to study neural functions in sleep](#information-theory-techniques-to-study-neural-functions-in-sleep)
@@ -57,6 +33,30 @@ For more infomration please contact:
 Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
+
+## Forecasting epileptic seizures
+Interested in doing a master thesis in computational neuroscience ? We are about to start a prospective trial of forecasting seizures for people with epilepsy and we need your help. Please convince us that you are the passionate student who can bring the required coding competences and motivation to crack an important clinical problem.
+
+At the University hospital of Bern (Inselspital) and the University of Geneva we are starting a new seizure forecasting project in 2022, duration 6-12 months, to be agreed upon. Part-time home-based work is possible, weekly meetings in Bern or Geneva are expected. The team is young and dynamic and includes engineers, biologists, physicists, and neurologists. The candidate will be trained conjointly by a computational neuroscientist (T. Proix; https://ndlab.ch/) and a neurologist (M. Baud, www.neuro-elab.com) who both specialize in quantitative neuroscience research. The candidate will mostly work on computational problems, but, if language skills allow (German or French) will have opportunities to interact directly with chronic epilepsy patients in the neurology department for the acquisition of intracranial EEG recordings. The task at hand will combine software development, EEG signal processing and machine learning.
+
+### Required qualifications
+* Ongoing studies in any quantitative / engineering field: physics, computer science or neuroscience
+* Strong abilities in computer programming (Matlab and/or Python)
+
+### Preferred qualifications
+* German speaking
+* Experience with deep-learning, machine-learning or statistical model development
+
+### Your tasks
+* Software development and versioning
+* Automatization of an analysis pipeline for prospective data collection
+* Forecast performance verification
+
+Please send us your complete application (CV, motivation letter, references, etc...) to:
+* Maxime Baud (Assistant Professor, Inselspital), maxime.baud.neuro@gmail.com,
+www.neuro-elab.com
+* Timothée Proix (Scientific associate, Fundamental neurosciences, University of
+Geneva, timothee.proix@unige.ch, https://ndlab.ch/)
 
 ## Actigraphy analysis in REM sleep behavior disorder
 ### Potential follow-up tool and disease progression marker?!
