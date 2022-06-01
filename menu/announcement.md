@@ -13,6 +13,7 @@ We do not have any open postdoc or PhD positions at the moment. Please contact [
 ## Master theses
 
 * [Deep learning techniques to study neural functions in coma patients](#deep-learning-techniques-to-study-neural-functions-in-coma-patients)
+* [Identifying neural fingerprints via deep learning](#identifying-neural-fingerprints-via-deep-learning)
 * [Forecasting epileptic seizures](#forecasting-epileptic-seizures)
 * [Actigraphy analysis in REM sleep behavior disorder](#actigraphy-analysis-in-rem-sleep-behavior-disorder)
 * [Clustering human single neuron data during sleep](#clustering-human-single-neuron-data-during-sleep)
@@ -33,6 +34,21 @@ For more infomration please contact:
 Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
+
+
+## Identifying neural fingerprints via deep learning
+
+Artificial neural networks have an enormous potential to detect complex features from various datasets. In neuroscience, convolutional neural networks are increasingly used to classify electroencephalography (EEG) data and detect patterns of neural activity. EEG is a non-invasive technique that measures time-series of electric activity of the brain, though electrodes placed on the scalp. EEG is used as a diagnostic tool in neurological disorders, like epilepsy or sleep disorders. 
+Several studies have suggested that EEG data can be exploited for biometric recognition, as they contain features that are unique to the identity of healthy volunteers. These findings raise questions about data anonymity and privacy. However, it remains unknown whether EEG data of patients (for example, patients with sleep disorders) whose disorders and EEG signals may change over time, might also contain biometric features.
+
+This master thesis will apply artificial neural networks and signal processing techniques on a rich clinical EEG dataset. The goal is to evaluate which facets of EEG signals may be reflecting neural 'fingerprints'.
+
+The student working on this project will gain experience with artificial neural networks applied on biomedical data, signal processing of time series data, and, if desired, neuroscience. 
+
+For more information please contact:
+
+Athina Tzovara: athina.tzovara@inf.unibe.ch
+
 
 ## Forecasting epileptic seizures
 Interested in doing a master thesis in computational neuroscience ? We are about to start a prospective trial of forecasting seizures for people with epilepsy and we need your help. Please convince us that you are the passionate student who can bring the required coding competences and motivation to crack an important clinical problem.
