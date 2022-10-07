@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Representative Publications
+title: Representative Publications & preprints
 ---
 
 
+Cusinato R, Alnes SL, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2022**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2), **biorxiv**. * Equal contribution.
 
 Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
-
 
 Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**.
 
