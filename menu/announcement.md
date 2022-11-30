@@ -15,7 +15,6 @@ We do not have any open postdoc or PhD positions at the moment. Please contact [
 * [Deep learning techniques to study neural functions in coma patients](#deep-learning-techniques-to-study-neural-functions-in-coma-patients)
 * [Forecasting epileptic seizures](#forecasting-epileptic-seizures)
 * [Actigraphy analysis in REM sleep behavior disorder](#actigraphy-analysis-in-rem-sleep-behavior-disorder)
-* [Clustering human single neuron data](#clustering-human-single-neuron-data)
 
 
 ## Studying how our brains process sounds via machine learning
@@ -90,17 +89,5 @@ Dr. Carolin Schäfer, Oberärztin, SWEZ, Neurologie, Inselspital : Carolin.schae
 
 Prof. Athina Tzovara: athina.tzovara@inf.unibe.ch
 
-## Clustering human single neuron data
 
-When we sleep, we process auditory stimuli from the environment around us. However, the neural mechanisms that allow the human brain to process stimuli during sleep are under-explored. We are collecting single-unit and local field potential (LFP) responses from patients with epilepsy, with intracranially implanted electrodes, with the aim of better characterizing how the auditory response is modulated by sleep.
-
-This project, suitable for a master or bachelors thesis, will primarily focus on spike sorting of single-unit data and analysing firing rates and local field potentials in response to auditory stimuli.
-
-The student working on it will gain experience with processing and analysis of a rich electrophysiological dataset and contribute to expanding the understanding of how information processing is altered by the absence of consciousness. This thesis will give experience with Python/matlab programming, processing and visualizing time-series signals.
-
-For more infomration please contact:
-
-Sigurd Alnes: sigurd.alnes@inf.unibe.ch
-
-Athina Tzovara: athina.tzovara@inf.unibe.ch
 
