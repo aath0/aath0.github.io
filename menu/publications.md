@@ -6,7 +6,7 @@ title: Representative Publications & preprints
 
 Cusinato R, Alnes SL, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2022**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2), **biorxiv**. * Equal contribution.
 
-Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **biorxiv**. * Equal contribution.
+Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **biorxiv**. 
 
 Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
 
