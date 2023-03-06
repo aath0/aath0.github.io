@@ -7,7 +7,7 @@ title: News
 
 * **January 2023**: Our latest [paper](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138) on how deep learning and auditory stimulation can be combined to predict the chances of a post-anoxic coma patient to regain consciousness was published online.
 
-* **June 2022**: PhD students Florence Aellen and Sigurd Alnes will be presenting their work at the annual meeting of the Organization for Human Brain Mapping!
+* **June 2022**: PhD students Florence Aellen and Sigurd Alnes will be presenting their work at the annual meeting of the Organization for Human Brain Mapping.
 
 * **March 2022**: Florence Aellen will be presenting a workshop at the [Applied Machine Learning Days at EPFL](https://appliedmldays.org/events/amld-epfl-2022), on the topic of: [Algorithmic Decision-Making in Neuroscience: How Can We Improve Algorithmic Interpretability and Reduce Bias?](https://appliedmldays.org/events/amld-epfl-2022/workshops/algorithmic-decision-making-in-neuroscience-how-can-we-improve-algorithmic-interpretability-and-reduce-bias)
  
