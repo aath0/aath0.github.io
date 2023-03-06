@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+* **March 2023**: Florence Aellen gave an interview on her PhD work at the Center for Artificial Intelligence in Medicine of the University of Bern. You can read the interview [here](https://www.caim.unibe.ch/about_us/people/interviews/florence_aellen/index_eng.html).
+
+* **January 2023**: Our latest [paper](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138) on how deep learning and auditory stimulation can be combined to predict the chances of a post-anoxic coma patient to regain consciousness was published online.
+
+* **June 2022**: PhD students Florence Aellen and Sigurd Alnes will be presenting their work at the annual meeting of the Organization for Human Brain Mapping!
+
 * **March 2022**: Florence Aellen will be presenting a workshop at the [Applied Machine Learning Days at EPFL](https://appliedmldays.org/events/amld-epfl-2022), on the topic of: [Algorithmic Decision-Making in Neuroscience: How Can We Improve Algorithmic Interpretability and Reduce Bias?](https://appliedmldays.org/events/amld-epfl-2022/workshops/algorithmic-decision-making-in-neuroscience-how-can-we-improve-algorithmic-interpretability-and-reduce-bias)
  
 * **November 2021**: New [paper](https://www.sciencedirect.com/science/article/pii/S1053811921009113) characterising neural signals in patients in a coma. We show that neural synchrony of EEG responses to sounds in the first day of coma is predictive of patients' outcome three months later. [Press release](http://www.inselgruppe.ch/de/aktuell/details/news/komapatienten-guenstige-prognose-bei-gleichtakt-der-hirnzellen/) from the University of Bern.
