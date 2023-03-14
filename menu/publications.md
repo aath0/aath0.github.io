@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Representative Publications & preprints
+title: Publications & preprints
 ---
 
 Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**, awac340.
 
 Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy, **Journal of Neuroscience**, accepted for publication, preprint available [here](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2). * Equal contribution.
 
-Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **biorxiv**. 
+Alnes S, Bächlin L, Schindler K, Tzovara A (**2023**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://www.authorea.com/doi/full/10.22541/au.167850558.84503257), **preprint**. 
+
+Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**
+
+Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **preprint**. 
 
 Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
 
