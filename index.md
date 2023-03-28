@@ -5,10 +5,10 @@ title: Aim
 
 
 ---
-![CoverFigure](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AellenAlnes_v2.jpg)
 
 Our group is using electrophysiological and computational techniques to study functions of the human brain in health and disease. 
 
+![CoverFigure](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AellenAlnes_v2.jpg)
 Research focus:
 
 * Neural functions in coma and sleep
