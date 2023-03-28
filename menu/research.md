@@ -45,8 +45,8 @@ To shed light into the neural mechanisms that support processing of environmenta
 * Tzovara A., Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). [Neural detection of complex sound sequences in the absence of consciousness](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041), **Brain**.
 
 ## Machine learning algorithms for neuroscience
-![Deep learning pipeline](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2021.png)
-*Figure from: [Aellen et al., 2021](https://www.sciencedirect.com/science/article/pii/S0165027021003022)
+![Deep learning pipeline](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2023.jpg)
+*Figure adapted from: [Aellen et al., 2023](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138)
 
 As the amount of data in the field of neuroscience and neurology increases, it becomes imperative to have powerful algorithms for analysing them. Machine learning algorithms have revolutionized several fields, but their use in electrophysiological data remains limited. In our work, we are developing deep learning pipelines for analysing electrophysiological data, with emphasis on interpretability, and clinical applications, such as predicting outcome from post anoxic coma. Moreover, we are evaluating the effects of algorithmic bias when applying machine learning techniques on medical data. 
 
