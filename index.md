@@ -19,4 +19,4 @@ To investigate these topics we are using electrophysiological recordings in huma
 
 We are part of the [Institute of Computer Science](https://www.inf.unibe.ch/index_eng.html) at the Faculty of Science, and of the Department of Neurology, at the Faculty of Medicine, at the [University of Bern](https://www.inf.unibe.ch/index_eng.html), in Switzerland.
 
-*Figure of Florence Aellen and Sigurd Alnes*
+*Figure created by Florence Aellen and Sigurd Alnes*
