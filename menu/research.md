@@ -5,11 +5,32 @@ title: Research
 
 Our research uses computational and machine learning techniques to study functions of the human brain in health and disease. Our work focuses on three main axes:
 
-* [Neural functions in coma and sleep](#neural-functions-in-coma-and-sleep)
 * [Auditory processing and predictions](#auditory-processing-and-predictions)
+* [Neural functions in coma and sleep](#neural-functions-in-coma-and-sleep)
 * [Machine learning algorithms for neuroscience](#machine-learning-algorithms-for-neuroscience)
 
 <br/><br/>
+
+## Auditory processing and predictions
+![Intrinsic neural timescales in the auditory system studied with iEEG](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CusinatoAlnes2023.jpg)
+*Figure from: Cusinato*, Alnes* et al., 2023, accepted and [preprint](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2)*
+
+The world around us is full of rich sensory experiences, which often follow repetitive rules. Environmental
+regularities can help us learn patterns from our environment and form predictions about future events before these
+occur. <br/>
+
+To shed light into the neural mechanisms that support processing of environmental stimuli and the formation of predictions about future events, we are using scalp and intracranial electroencephalography (EEG, iEEG), in combination with computational modeling techniques. 
+
+#### Representative publications
+* Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy, **Journal of Neuroscience**, accepted for publication, preprint available [here](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2). * Equal contribution.
+* Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **preprint**. 
+* Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
+* Tzovara A., Korn C.W. Bach D.R. (**2018**). [Human Pavlovian fear conditioning conforms to probabilistic learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243), **PLOS Computational Biology**.
+* Chouiter L.*,Tzovara A. *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). [Experience-based auditory predictions modulate brain activity to silence as do real sounds](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835), **J Cogn Neuroscience**. * Equal contribution
+* Tzovara A., Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). [Neural detection of complex sound sequences in the absence of consciousness](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041), **Brain**.
+
+<br/><br/>
+
 ## Neural functions in coma and sleep
 ![Graphical Abstract Alnes et al., 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Alnes2021_GA.png)
 *Figure from [Alnes et al., 2021, Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921009113)*
@@ -25,24 +46,6 @@ In our work, we are investigating how the human brain responds to stimuli of the
 * Tzovara A., Rossetti A.O., Murray M.M., Spierer L., Grivel J., Oddo M., De Lucia M. (**2013**). [Progression of auditory discrimination based on neural decoding predictsawakening from coma](https://academic.oup.com/brain/article/136/1/81/430538), **Brain**.
 
 <br/><br/>
-
-## Auditory processing and predictions
-![Modeling associative learning](https://raw.githubusercontent.com/ccneuro/ccneuro.github.io/master/assets/img/posts/Models.png)
-*Adapted from: Tzovara et al., 2018, PLoS Computational Biology, [doi: 10.1371/journal.pcbi.1006243]( https://doi.org/10.1371/journal.pcbi.1006243)*
-
-The world around us is full of rich sensory experiences, which often follow repetitive rules. Environmental
-regularities can help us learn patterns from our environment and form predictions about future events before these
-occur. <br/>
-
-To shed light into the neural mechanisms that support processing of environmental stimuli and the formation of predictions about future events, we are using scalp and intracranial electroencephalography (EEG), in combination with computational modeling techniques. 
-
-#### Representative publications
-* Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy, **Journal of Neuroscience**, accepted for publication, preprint available [here](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2). * Equal contribution.
-* Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **preprint**. 
-* Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
-* Tzovara A., Korn C.W. Bach D.R. (**2018**). [Human Pavlovian fear conditioning conforms to probabilistic learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243), **PLOS Computational Biology**.
-* Chouiter L.*,Tzovara A. *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). [Experience-based auditory predictions modulate brain activity to silence as do real sounds](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835), **J Cogn Neuroscience**. * Equal contribution
-* Tzovara A., Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). [Neural detection of complex sound sequences in the absence of consciousness](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041), **Brain**.
 
 ## Machine learning algorithms for neuroscience
 ![Deep learning pipeline](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2023.jpg)
