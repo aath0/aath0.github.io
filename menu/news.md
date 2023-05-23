@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 
-* **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing in [online](https://www.jneurosci.org/content/43/20/3696).
+* **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing is [online](https://www.jneurosci.org/content/43/20/3696).
 
 * **March 2023**: Florence Aellen successfully defended her PhD work. Congratulations!
 
