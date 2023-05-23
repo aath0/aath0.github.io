@@ -3,9 +3,9 @@ layout: page
 title: Publications & preprints
 ---
 
-Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.
-
 Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.jneurosci.org/content/early/2023/04/10/JNEUROSCI.1941-22.2023), **Journal of Neuroscience**. * Equal contribution.
+
+Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.
 
 Alnes S, Bächlin L, Schindler K, Tzovara A (**2023**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://www.authorea.com/doi/full/10.22541/au.167850558.84503257), **preprint**. 
 
