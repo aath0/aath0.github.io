@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+* **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing in [online](https://www.jneurosci.org/content/43/20/3696).
+
+* **March 2023**: Florence Aellen successfully defended her PhD work. Congratulations!
+
 * **March 2023**: Florence Aellen gave an interview on her PhD work at the Center for Artificial Intelligence in Medicine of the University of Bern. You can read the interview [here](https://www.caim.unibe.ch/about_us/people/interviews/florence_aellen/index_eng.html).
 
 * **January 2023**: Our latest [paper](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138) on how deep learning and auditory stimulation can be combined to predict the chances of a post-anoxic coma patient to regain consciousness was published online.
