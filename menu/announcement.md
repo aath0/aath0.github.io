@@ -12,8 +12,7 @@ We do not have any open postdoc or PhD positions at the moment. Please contact [
 
 ## Master theses
 * [Studying how our brains process sounds via machine learning](#studying-how-our-brains-process-sounds-via-machine-learning)
-* [Deep learning techniques to study neural functions in coma patients](#deep-learning-techniques-to-study-neural-functions-in-coma-patients)
-* [Forecasting epileptic seizures](#forecasting-epileptic-seizures)
+* [Deep learning to study sleep and epilepsy](#deep-learning-to-study-sleep-and-epilepsy)
 * [Actigraphy analysis in REM sleep behavior disorder](#actigraphy-analysis-in-rem-sleep-behavior-disorder)
 
 
@@ -33,46 +32,21 @@ Athina Tzovara: athina.tzovara@unibe.ch
 
 
 
-## Deep learning techniques to study neural functions in coma patients
+## Deep learning to study sleep and epilepsy
 
-Computational techniques are increasingly used in the field of neuroscience. Signal processing and machine learning have promising clinical applications in automating the detection and characterisation of pathological patterns of neural activiy.
+Artificial intelligence is increasingly used for studying brain functions in health and disease. AI techniques can assist with automating sleep scoring or detecting epileptic activity, via electrophysiological (EEG) recordings. 
 
-One tool that is commonly used to measure neural functions is electroencephalography -EEG-. EEG is a non-invasive technique that measures time-series of electric activity of the brain, though electrodes placed on the scalp. EEG is used as a diagnostic tool in neurological disorders, like epilepsy or coma. EEG recordings in coma patients carry information about the integrity of neural functions in the absence of consciousness, and can be used to predict the patients' outcome and chances of survival. [Recent work](https://www.sciencedirect.com/science/article/pii/S1053811921009113) from our group has characterised patterns of EEG resposnes to sounds during the first day of coma. We showed that neural synchrony of EEG activity is predictive of patients' outcome 3 months later, and that neural complexity is indicative of consciousness levels. However, it is not known how the synchrony and complexity of neural responses evolve over time.
+EEG is a non-invasive technique that measures time-series of electric activity of the brain, though electrodes placed on the scalp. EEG is used as a diagnostic tool in neurological disorders, like epilepsy, and also for monitoring sleep, via polysomnography recordings. Today, there are several techniques for automating sleep scoring, and for identifying epileptic spikes. However, these techniques are not yet used in the clinical practice, and need further validation.
 
-This master thesis will use signal processing and machine learning techniques to analyse a rich EEG dataset of coma patients recorded over the first two days of coma. The goal is to evaluate how neural signals of coma patients evolve over time, and establish clinical predictors of their outcome. 
+This master thesis will use signal processing and machine learning techniques to analyse rich EEG datasets of patients with epilepsy. The goals are to (a) validate existing techniques for detecting epileptic spikes with the use of AI, and (b) to validate existing AI algorithms for sleep scoring, for the case of sleep scoring in epilepsy patients, who have abnormal patterns of EEG signals.
 
-The student working on this project will gain experience in signal processing of time series data, machine learning algorithms for biomedical data, and in the development of clinical biomarkers.
+The student working on this project will gain experience in signal processing of time series data, machine learning for biomedical data, and in the development of clinical biomarkers.
 
 For more infomration please contact:
-
-Sigurd Alnes: sigurd.alnes@inf.unibe.ch
 
 Athina Tzovara: athina.tzovara@inf.unibe.ch
 
 
-## Forecasting epileptic seizures
-Interested in doing a master thesis in computational neuroscience ? We are about to start a prospective trial of forecasting seizures for people with epilepsy and we need your help. Please convince us that you are the passionate student who can bring the required coding competences and motivation to crack an important clinical problem.
-
-At the University hospital of Bern (Inselspital) and the University of Geneva we are starting a new seizure forecasting project in 2022, duration 6-12 months, to be agreed upon. Part-time home-based work is possible, weekly meetings in Bern or Geneva are expected. The team is young and dynamic and includes engineers, biologists, physicists, and neurologists. The candidate will be trained conjointly by a computational neuroscientist (T. Proix; https://ndlab.ch/) and a neurologist (M. Baud, www.neuro-elab.com) who both specialize in quantitative neuroscience research. The candidate will mostly work on computational problems, but, if language skills allow (German or French) will have opportunities to interact directly with chronic epilepsy patients in the neurology department for the acquisition of intracranial EEG recordings. The task at hand will combine software development, EEG signal processing and machine learning.
-
-### Required qualifications
-* Ongoing studies in any quantitative / engineering field: physics, computer science or neuroscience
-* Strong abilities in computer programming (Matlab and/or Python)
-
-### Preferred qualifications
-* German speaking
-* Experience with deep-learning, machine-learning or statistical model development
-
-### Your tasks
-* Software development and versioning
-* Automatization of an analysis pipeline for prospective data collection
-* Forecast performance verification
-
-Please send us your complete application (CV, motivation letter, references, etc...) to:
-* Maxime Baud (Assistant Professor, Inselspital), maxime.baud.neuro@gmail.com,
-www.neuro-elab.com
-* Timothée Proix (Scientific associate, Fundamental neurosciences, University of
-Geneva, timothee.proix@unige.ch, https://ndlab.ch/)
 
 ## Actigraphy analysis in REM sleep behavior disorder
 ### Potential follow-up tool and disease progression marker?!
