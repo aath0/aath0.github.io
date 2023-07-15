@@ -11,6 +11,8 @@ Alnes S, Bächlin L, Schindler K, Tzovara A (**2023**) [Neural complexity and th
 
 Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**
 
+Zubler F, Tzovara A (**2023**) [Deep learning for EEG-based prognostication after cardiac arrest: from current research to future clinical applications](https://www.frontiersin.org/articles/10.3389/fneur.2023.1183810/abstract), **Frontiers Neurology**.
+
 Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **preprint**. 
 
 Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
