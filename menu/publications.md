@@ -13,6 +13,8 @@ Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Basset
 
 Zubler F, Tzovara A (**2023**) [Deep learning for EEG-based prognostication after cardiac arrest: from current research to future clinical applications](https://www.frontiersin.org/articles/10.3389/fneur.2023.1183810/abstract), **Frontiers Neurology**.
 
+Deng Y, Van der Meer J, Tzovara A, Schmidt M, Bassetti CLA, Denecke K (**2023**) [Analysis of Semantic Drifting in Diagnostic Texts for Sleep Disorders]([https://www.frontiersin.org/articles/10.3389/fneur.2023.1183810/abstract](https://ieeexplore.ieee.org/abstract/document/10178762)), **IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)**.
+
 Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2022**) [Auditory prediction hierarchy in the human hippocampus and amygdala](https://www.biorxiv.org/content/10.1101/2022.11.16.516768v1), **preprint**. 
 
 Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
