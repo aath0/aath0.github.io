@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+* **July 2023**: Join us in Montreal, at the Organization for Human Brain Mapping annual meeting, where we'll be presenting our latest work!
+
+* **June 2023**: Congratulations to Dr. Florence Aellen for receiving a 2023 Swiss Society for Neuroscience [publication award](https://www.swissneuroscience.ch/Publication-Awards/)!
+
 * **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing is [online](https://www.jneurosci.org/content/43/20/3696).
 
 * **March 2023**: Florence Aellen successfully defended her PhD work. Congratulations!
@@ -11,7 +15,7 @@ title: News
 
 * **January 2023**: Our latest [paper](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138) on how deep learning and auditory stimulation can be combined to predict the chances of a post-anoxic coma patient to regain consciousness was published online.
 
-* **June 2022**: PhD students Florence Aellen and Sigurd Alnes will be presenting their work at the annual meeting of the Organization for Human Brain Mapping.
+* **June 2022**: Florence Aellen and Sigurd Alnes will be presenting their work at the annual meeting of the Organization for Human Brain Mapping.
 
 * **March 2022**: Florence Aellen will be presenting a workshop at the [Applied Machine Learning Days at EPFL](https://appliedmldays.org/events/amld-epfl-2022), on the topic of: [Algorithmic Decision-Making in Neuroscience: How Can We Improve Algorithmic Interpretability and Reduce Bias?](https://appliedmldays.org/events/amld-epfl-2022/workshops/algorithmic-decision-making-in-neuroscience-how-can-we-improve-algorithmic-interpretability-and-reduce-bias)
  
