@@ -7,7 +7,7 @@ Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A
 
 Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.
 
-Alnes S, Bächlin L, Schindler K, Tzovara A (**2023**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://www.authorea.com/doi/full/10.22541/au.167850558.84503257), **preprint**. 
+Alnes S, Bächlin L, Schindler K, Tzovara A (**2023**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. 
 
 Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**
 
@@ -16,7 +16,6 @@ Zubler F, Tzovara A (**2023**) [Deep learning for EEG-based prognostication afte
 Deng Y, Van der Meer J, Tzovara A, Schmidt M, Bassetti CLA, Denecke K (**2023**) [Analysis of Semantic Drifting in Diagnostic Texts for Sleep Disorders](https://ieeexplore.ieee.org/document/10178762), **IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)**.
 
 Aellen F., van der Meer J., Dietmann A., Schmidt M., Bassetti C.L.A. *, Tzovara A. *,  (**2023**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors
-
 
 Giuliana Monachino, Beatrice Zanchi, Luigi Fiorillo, Giulio Conte, Angelo Auricchio, Athina Tzovara, Francesca Dalia Faraci, (**2023**) [Deep Generative Models: The winning key for large and easily accessible ECG datasets?](https://www.sciencedirect.com/science/article/pii/S0010482523011204), **Computers in Biology and Medicine**
 
