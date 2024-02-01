@@ -3,8 +3,6 @@ layout: page
 title: News
 ---
 
-* **December 2023**: New SNF BRIDGE Discovery Grant awarded to predict the effects of new drugs on insomnia. [The press release can be found here](http://www.neurologie.insel.ch/de/aktuelles/details/news/snf-bridge-discovery-grant).
-
 * **December 2023**: Congratulations Sigurd Alnes for the new [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16203) on characterising the neural complexity and spectral slope of auditory responses in wakefulness and sleep. 
 
 * **July 2023**: Join us in Montreal, at the Organization for Human Brain Mapping annual meeting, where we'll be presenting our latest work!
