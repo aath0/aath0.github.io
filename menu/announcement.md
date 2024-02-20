@@ -7,12 +7,11 @@ title: Open positions
 * [Master theses](#master-theses) 
  
 ## Postdoc PhD positions
-We do not have any open postdoc or PhD positions at the moment. Please contact [Athina Tzovara](athina.tzovara@inf.unibe.ch) for inquiries.
+We do not have any open postdoc or PhD positions at the moment. Please contact [Athina Tzovara](athina.tzovara@unibe.ch) for inquiries.
 
 
 ## Master theses
 * [Studying how our brains process sounds via machine learning](#studying-how-our-brains-process-sounds-via-machine-learning)
-* [Deep learning to study sleep and epilepsy](#deep-learning-to-study-sleep-and-epilepsy)
 * [Actigraphy analysis in REM sleep behavior disorder](#actigraphy-analysis-in-rem-sleep-behavior-disorder)
 
 
@@ -29,23 +28,6 @@ For more information please contact:
 Riccardo Cusinato: riccardo.cusinato@unibe.ch
 
 Athina Tzovara: athina.tzovara@unibe.ch
-
-
-
-## Deep learning to study sleep and epilepsy
-
-Artificial intelligence is increasingly used for studying brain functions in health and disease. AI techniques can assist with automating sleep scoring or detecting epileptic activity, via electrophysiological (EEG) recordings. 
-
-EEG is a non-invasive technique that measures time-series of electric activity of the brain, though electrodes placed on the scalp. EEG is used as a diagnostic tool in neurological disorders, like epilepsy, and also for monitoring sleep, via polysomnography recordings. Today, there are several techniques for automating sleep scoring, and for identifying epileptic spikes. However, these techniques are not yet used in the clinical practice, and need further validation.
-
-This master thesis will use signal processing and machine learning techniques to analyse rich EEG datasets of patients with epilepsy. The goals are to (a) validate existing techniques for detecting epileptic spikes with the use of AI, and (b) to validate existing AI algorithms for sleep scoring, for the case of sleep scoring in epilepsy patients, who have abnormal patterns of EEG signals.
-
-The student working on this project will gain experience in signal processing of time series data, machine learning for biomedical data, and in the development of clinical biomarkers.
-
-For more infomration please contact:
-
-Athina Tzovara: athina.tzovara@inf.unibe.ch
-
 
 
 ## Actigraphy analysis in REM sleep behavior disorder
