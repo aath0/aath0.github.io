@@ -3,10 +3,10 @@ layout: page
 title: Open positions
 ---
 
-* [Postdoc PhD positions](#postdoc-phd-positions)
+* [PhD position](#phd-position)
 * [Master theses](#master-theses) 
  
-## PhD positions
+## PhD position
 
 **PhD student in neuroscience in Bern, Switzerland**
 
@@ -30,7 +30,9 @@ What we offer
 *	Interdisciplinary research environment 
 
 Applications
-* Applications will be accepted until the position is filled. The first review of applications will begin on 15th March 2024. To apply please send one pdf document including your CV, a brief statement of research interests, and the contact details of two referees to:  Athina Tzovara: athina.tzovara@unibe.ch
+
+Applications will be accepted until the position is filled. The first review of applications will begin on 15th March 2024. To apply please send one pdf document including your CV, a brief statement of research interests, and the contact details of two referees to:  Athina Tzovara: athina.tzovara@unibe.ch
+
 Informal inquiries are welcome
 
 
