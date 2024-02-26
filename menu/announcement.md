@@ -26,7 +26,7 @@ Your profile
 What we offer
 *	Funding and salary according to the regulations of the University of Bern
 *	Opportunity to work at the intersection of computational and fundamental research in neuroscience and get hands-on experience with data analysis and computational techniques
-*	Access to scalp and intracranial electroencephalography (EEG) data and recordings
+*	Access to scalp and intracranial EEG data and recordings
 *	Interdisciplinary research environment 
 
 Applications
