@@ -9,6 +9,8 @@ Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan
 
 Aellen F., van der Meer J., Dietmann A., Schmidt M., Bassetti C.L.A. *, Tzovara A. *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors
 
+Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A (**2024**). [Sleep research in the era of AI](https://doi.org/10.3390/ctn8010013), **Clinical and Translational Neuroscience**.
+
 Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.jneurosci.org/content/early/2023/04/10/JNEUROSCI.1941-22.2023), **Journal of Neuroscience**. * Equal contribution.
 
 Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.
