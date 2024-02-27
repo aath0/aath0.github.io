@@ -10,7 +10,7 @@ title: Open positions
 
 **PhD student in neuroscience in Bern, Switzerland**
 
-Applications are invited for a PhD student in neuroscience at the University of Bern, Switzerland. Our [group](https://neuro.inf.unibe.ch/) is investigating the neural mechanisms that support processing of environmental information and how these are altered when consciousness is diminished, for example during sleep or in patients in a coma. To this aim we are combining scalp and intracranial electroencephalography (EEG) recordings with computational analyses of EEG signals and machine learning algorithms. Examples of our recent work can be found [here](https://doi.org/10.1523/JNEUROSCI.1941-22.2023) and [here](https://doi.org/10.1093/brain/awac340). 
+Applications are invited for a PhD student in neuroscience at the University of Bern, Switzerland. Our [group](https://neuro.inf.unibe.ch/) is investigating the neural mechanisms that support processing of environmental information and how these are altered when consciousness is diminished, for example during sleep or in patients in a coma. To this aim we are combining scalp and intracranial electroencephalography (EEG) recordings with computational analyses of EEG signals and machine learning algorithms. 
 
 The open PhD position will investigate how auditory processing and sleep relate to memory and cognition. The selected student will have access to high-density scalp EEG recordings in healthy volunteers and intracranial EEG recordings in patients with epilepsy undergoing pre-surgical monitoring, in close collaboration with Inselspital, the University Hospital of Bern. The selected student will have the opportunity to design new experimental protocols and participate in data collection and analysis. 
 
@@ -21,7 +21,7 @@ Your profile
 *	Experience with scalp or intracranial EEG analysis and acquisition
 *	Programming skills and ability to independently program in Python, R, or Matlab
 *	Experience with or interest in learning how to apply computational methods for EEG data analysis
-*	Interest in the study of neural functions related to audition, learning, or sleep
+*	Proficient in English and basic knowledge of German is advantageous
 
 What we offer
 *	Funding and salary according to the regulations of the University of Bern
