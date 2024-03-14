@@ -31,7 +31,7 @@ What we offer
 
 Applications
 
-Applications will be accepted until the position is filled. The first review of applications will begin on 15th March 2024. To apply please send one pdf document including your CV, a brief statement of research interests, and the contact details of two referees to:  Athina Tzovara: athina.tzovara@unibe.ch
+Applications will be accepted until the position is filled. Ideal starting date is in spring/summer 2024. To apply please send one pdf document including your CV, a brief statement of research interests, and the contact details of two referees to:  Athina Tzovara: athina.tzovara@unibe.ch
 
 Informal inquiries are welcome
 
