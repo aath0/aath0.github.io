@@ -3,6 +3,10 @@ layout: page
 title: News
 ---
 
+* **March 2024**: Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"!
+
+* **January 2024**: Florence and Athina are delighted to received the [Pfizer Reserach prize on Neuroscience and Neurology](https://www.pfizerresearchprize.ch/2024-awardees/research-projects/using-artificial-intelligence-to-predict-chances-of-recovery-from-a-coma) for their work using artificial intelligence to predict chances of recovery from a coma.
+
 * **December 2023**: Congratulations Sigurd Alnes for the new [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16203) on characterising the neural complexity and spectral slope of auditory responses in wakefulness and sleep. 
 
 * **July 2023**: Join us in Montreal, at the Organization for Human Brain Mapping annual meeting, where we'll be presenting our latest work!
