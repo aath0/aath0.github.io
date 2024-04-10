@@ -5,6 +5,8 @@ title: Publications & preprints
 
 Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. 
 
+Lee K+, Borghesani V+, Pacheco de Moraes FH, Pozzobon A, Olsen RK*, Kam J*, Tzovara A*, Badhwar A* (**2024**). [Brain Mappers of Tomorrow: an international multilingual initiative for neuroscience dissemination](https://osf.io/preprints/psyarxiv/42x3v). **PsyArxiv**, + Co-first authors, * Co-senior authors
+
 Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://osf.io/preprints/psyarxiv/dr5hg). **PsyArxiv**
 
 Aellen F., van der Meer J., Dietmann A., Schmidt M., Bassetti C.L.A. *, Tzovara A. *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors
