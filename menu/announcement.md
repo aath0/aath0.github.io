@@ -3,37 +3,12 @@ layout: page
 title: Open positions
 ---
 
-* [PhD position](#phd-position)
+* [PhD and postdoc positions](#phd-and-postdoc-positions)
 * [Master theses](#master-theses) 
  
-## PhD position
+## PhD and postdoc positions
 
-**PhD student in neuroscience in Bern, Switzerland**
-
-Applications are invited for a PhD student in neuroscience at the University of Bern, Switzerland. Our [group](https://neuro.inf.unibe.ch/) is investigating the neural mechanisms that support processing of environmental information and how these are altered when consciousness is diminished, for example during sleep or in patients in a coma. To this aim we are combining scalp and intracranial electroencephalography (EEG) recordings with computational analyses of EEG signals and machine learning algorithms. 
-
-The open PhD position will investigate how auditory processing and sleep relate to memory and cognition. The selected student will have access to high-density scalp EEG recordings in healthy volunteers and intracranial EEG recordings in patients with epilepsy undergoing pre-surgical monitoring, in close collaboration with Inselspital, the University Hospital of Bern. The selected student will have the opportunity to design new experimental protocols and participate in data collection and analysis. 
-
-Our group is part of the [Institute of Computer Science](https://www.inf.unibe.ch/index_eng.html) and [Experimental Neurology Center](http://www.neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel), at the University of Bern, Switzerland. The selected student will be integrated in an interdisciplinary and international research environment and will be supervised by Athina Tzovara.
-
-Your profile
-*	Master in neuroscience, biology, biomedical engineering, or a related discipline 
-*	Experience with scalp or intracranial EEG analysis and acquisition
-*	Programming skills and ability to independently program in Python, R, or Matlab
-*	Experience with or interest in learning how to apply computational methods for EEG data analysis
-*	Proficient in English and basic knowledge of German is advantageous
-
-What we offer
-*	Funding and salary according to the regulations of the University of Bern
-*	Opportunity to work at the intersection of computational and fundamental research in neuroscience and get hands-on experience with data analysis and computational techniques
-*	Access to scalp and intracranial EEG data and recordings
-*	Interdisciplinary research environment 
-
-Applications
-
-Applications will be accepted until the position is filled. Ideal starting date is in spring/summer 2024. To apply please send one pdf document including your CV, a brief statement of research interests, and the contact details of two referees to:  Athina Tzovara: athina.tzovara@unibe.ch
-
-Informal inquiries are welcome
+At the moment we do not have an open position. Informal inquiries for future possibilities are welcome.
 
 
 ## Master theses
