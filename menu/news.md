@@ -2,6 +2,10 @@
 layout: page
 title: News
 ---
+  
+* **June 2024**: Welcome to Alex Christopoulos who joined us as a PhD student!
+
+* **May 2024**: Congratulations to Dr. Sigurd Alnes for defending his PhD thesis!
 
 * **March 2024**: Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"!
 
