@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Publications & preprints
+title: Representative publications
 ---
 
-# Representative publications
 Aellen F., van der Meer J., Dietmann A., Schmidt M., Bassetti C.L.A. *, Tzovara A. *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors
 
 Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. 
+
+Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**.
 
 Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.jneurosci.org/content/early/2023/04/10/JNEUROSCI.1941-22.2023), **Journal of Neuroscience**. * Equal contribution.
 
@@ -32,8 +33,6 @@ Lee K+, Borghesani V+, Pacheco de Moraes FH, Pozzobon A, Olsen RK *, Kam J *, Tz
 
 van Maren E, Alnes SL, da Cruz JR, Sobolewski A, Friedrichs-Mader C, Wohler K, Barlatey S, Feruglio S, Fuchs M, Vlachos I, Zimmermann J, Berolote T, ZâĂŹGraggen WJ,
 Tzovara A, Donoghue JP, Kouvas G, Schindler K, Pollo C, Baud MO. [Full-head sub-scalp EEG via minimally-invasive electrode implantation, a first-in-human trial](https://doi.org/10.1212/WNL.0000000000209428). **Neurology**.
-
-Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**
 
 Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A (**2024**). [Sleep research in the era of AI](https://www.mdpi.com/2514-183X/8/1/13), **Clinical and Translational Neuroscience**.
 
