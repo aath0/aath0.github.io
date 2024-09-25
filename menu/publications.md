@@ -3,15 +3,10 @@ layout: page
 title: Publications & preprints
 ---
 
-Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. 
-
-Lee K+, Borghesani V+, Pacheco de Moraes FH, Pozzobon A, Olsen RK*, Kam J*, Tzovara A*, Badhwar A* (**2024**). [Brain Mappers of Tomorrow: an international multilingual initiative for neuroscience dissemination](https://osf.io/preprints/psyarxiv/42x3v). **PsyArxiv**, + Co-first authors, * Co-senior authors
-
-Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**
-
+# Representative publications
 Aellen F., van der Meer J., Dietmann A., Schmidt M., Bassetti C.L.A. *, Tzovara A. *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors
 
-Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A (**2024**). [Sleep research in the era of AI](https://www.mdpi.com/2514-183X/8/1/13), **Clinical and Translational Neuroscience**.
+Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. 
 
 Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.jneurosci.org/content/early/2023/04/10/JNEUROSCI.1941-22.2023), **Journal of Neuroscience**. * Equal contribution.
 
@@ -19,15 +14,7 @@ Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2
 
 Alnes S, Bächlin L, Schindler K, Tzovara A (**2023**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. 
 
-Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**
-
 Zubler F, Tzovara A (**2023**) [Deep learning for EEG-based prognostication after cardiac arrest: from current research to future clinical applications](https://www.frontiersin.org/articles/10.3389/fneur.2023.1183810/abstract), **Frontiers Neurology**.
-
-Deng Y, Van der Meer J, Tzovara A, Schmidt M, Bassetti CLA, Denecke K (**2023**) [Analysis of Semantic Drifting in Diagnostic Texts for Sleep Disorders](https://ieeexplore.ieee.org/document/10178762), **IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)**.
-
-Giuliana Monachino, Beatrice Zanchi, Luigi Fiorillo, Giulio Conte, Angelo Auricchio, Athina Tzovara, Francesca Dalia Faraci, (**2023**) [Deep Generative Models: The winning key for large and easily accessible ECG datasets?](https://www.sciencedirect.com/science/article/pii/S0010482523011204), **Computers in Biology and Medicine**
-
-Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
 
 Alnes S, De Lucia M, Rossetti AO, Tzovara A (**2021**). [Complementary roles of neural synchrony and complexity for indexing consciousness and chances of surviving in acute coma](https://www.sciencedirect.com/science/article/pii/S1053811921009113), **Neuroimage**.
 
@@ -38,6 +25,28 @@ Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a re
 Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.
 
 Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/fulltext/S0896-6273(21)00417-7), **Neuron**. * Equal contribution
+
+# Other publications
+
+Lee K+, Borghesani V+, Pacheco de Moraes FH, Pozzobon A, Olsen RK *, Kam J *, Tzovara A *, Badhwar A * (**2024**). [Brain Mappers of Tomorrow: an international multilingual initiative for neuroscience dissemination](https://apertureneuro.org/article/123400-brain-mappers-of-tomorrow-an-international-multilingual-initiative-for-neuroscience-dissemination). **Aperture Neuro**, + Co-first authors, * Co-senior authors
+
+van Maren E, Alnes SL, da Cruz JR, Sobolewski A, Friedrichs-Mader C, Wohler K, Barlatey S, Feruglio S, Fuchs M, Vlachos I, Zimmermann J, Berolote T, ZâĂŹGraggen WJ,
+Tzovara A, Donoghue JP, Kouvas G, Schindler K, Pollo C, Baud MO. [Full-head sub-scalp EEG via minimally-invasive electrode implantation, a first-in-human trial](https://doi.org/10.1212/WNL.0000000000209428). **Neurology**.
+
+Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**
+
+Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A (**2024**). [Sleep research in the era of AI](https://www.mdpi.com/2514-183X/8/1/13), **Clinical and Translational Neuroscience**.
+
+Bechny M., Monachino G, Fiorillo L, van der Meer J, Schmidt M, Bassetti CLA, Tzovara A., Faraci FD. [Bridging AI and clinical practice: integrating automated sleep scor-
+ing algorithm with uncertainty-guided physician review](https://doi.org/10.2147/NSS.S455649). Nature and science of sleep,
+
+Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**
+
+Deng Y, Van der Meer J, Tzovara A, Schmidt M, Bassetti CLA, Denecke K (**2023**) [Analysis of Semantic Drifting in Diagnostic Texts for Sleep Disorders](https://ieeexplore.ieee.org/document/10178762), **IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)**.
+
+Giuliana Monachino, Beatrice Zanchi, Luigi Fiorillo, Giulio Conte, Angelo Auricchio, Athina Tzovara, Francesca Dalia Faraci, (**2023**) [Deep Generative Models: The winning key for large and easily accessible ECG datasets?](https://www.sciencedirect.com/science/article/pii/S0010482523011204), **Computers in Biology and Medicine**
+
+Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
 
 Schindler K.A., Nef T., Baud M.O., Tzovara A., Yilmaz G., Tinkhauser G., Gerber S.M., Gnarra O., Warncke J.D., Schütz N., Knobel S.E.J., Schmidt M.H., Krack P., Fröhlich F., Sznitman R., Rothen S., Bassetti C.L.A. (**2021**). [NeuroTec Sitem-Insel Bern: Closing the Last Mile in Neurology](https://www.mdpi.com/2514-183X/5/2/13), **Clinical and Translational Neuroscience**.
 
