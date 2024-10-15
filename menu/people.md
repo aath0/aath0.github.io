@@ -3,8 +3,8 @@ layout: page
 title: Lab Members
 ---
 
-# CCN group 2024
-![CCN group spring 2024](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CCN_Photo.jpg)
+## CCN group 2024
+![CCN group spring 2024](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CCN_Photo.png)
 
 
 |||
