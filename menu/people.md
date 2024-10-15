@@ -2,6 +2,11 @@
 layout: page
 title: Lab Members
 ---
+
+# CCN group 2024
+![CCN group spring 2024](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CCN_Photo.jpg)
+
+
 |||
 |:---:|:---|
 |<a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AthinaTzovara.JPG" alt="Smiley face"/></a> | **[Athina Tzovara](https://aath0.github.io/menu/atzovara.html)** <br/> **Assistant Professor**<br/><br/>Email: athina.tzovara@inf.unibe.ch|
