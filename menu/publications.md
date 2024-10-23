@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Representative publications
+title: Representative publications and preprints
 ---
 
 Cusinato R, Seiler A, Schindler K, Tzovara A, (**2024**) [Sleep modulates neural timescales and spatiotemporal integration in the human cortex](https://www.biorxiv.org/content/10.1101/2024.09.26.614972v1), **biorxiv**.
@@ -32,6 +32,8 @@ Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK,
 # Other publications
 
 Lee K+, Borghesani V+, Pacheco de Moraes FH, Pozzobon A, Olsen RK *, Kam J *, Tzovara A *, Badhwar A * (**2024**). [Brain Mappers of Tomorrow: an international multilingual initiative for neuroscience dissemination](https://apertureneuro.org/article/123400-brain-mappers-of-tomorrow-an-international-multilingual-initiative-for-neuroscience-dissemination). **Aperture Neuro**, + Co-first authors, * Co-senior authors
+
+Quiroga-Martinez DR, Rubio GF, Bonetti L, Achyutuni KG, Tzovara A, Knight RT, Vuust P (**2024**) [Decoding reveals the neural representation of perceived and imagined musical sounds](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002858), **PLOS Biology**.
 
 van Maren E, Alnes SL, da Cruz JR, Sobolewski A, Friedrichs-Mader C, Wohler K, Barlatey S, Feruglio S, Fuchs M, Vlachos I, Zimmermann J, Berolote T, ZâĂŹGraggen WJ,
 Tzovara A, Donoghue JP, Kouvas G, Schindler K, Pollo C, Baud MO. [Full-head sub-scalp EEG via minimally-invasive electrode implantation, a first-in-human trial](https://doi.org/10.1212/WNL.0000000000209428). **Neurology**.
