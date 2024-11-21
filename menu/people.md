@@ -18,7 +18,7 @@ title: Lab Members
 
 # Former members
  * [Dr. Sigurd Alnes](https://aath0.github.io/menu/salnes.html), PhD student, 2019 - 2024 and postdoctoral fellow, 2024
- * [Pinar Göktepe-Kavis](https://aath0.github.io/menu/pgoektepe.html), PhD student, 2020-2024
+ * [Dr. Pinar Göktepe-Kavis](https://aath0.github.io/menu/pgoektepe.html), PhD student, 2020-2024
  * Dr. Ruxandra Tivadar, Postdoctoral fellow, 2020 - 2023
  * Dr. Thomas Rusterholz, Data Scientist, 2022 - 2023
  * Florence Aellen, PhD student, 2019 - 2023
