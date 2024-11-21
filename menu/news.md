@@ -3,6 +3,8 @@ layout: page
 title: News
 ---
   
+* **September 2024**: Pinar Göktepe-Kavis defended her PhD thesis, congratulations!
+
 * **August 2024**: Dr. Florence Aellen is starting her [Venture Fellowship](https://www.unibe.ch/research/services/innovation/stories/venture_fellows_2024/index_eng.html), awarded to her by the University of Bern to work on AI tools to predict coma outcome. Congratulations Florence!
 
 * **June 2024**: Welcome to Alex Christopoulos who joined us as a PhD student!
