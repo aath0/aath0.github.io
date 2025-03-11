@@ -2,7 +2,13 @@
 layout: page
 title: News
 ---
-  
+
+* **March 2025**: Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-anoxic coma!
+
+* **February 2025**: We have a new [publication](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), led by Riccardo Cusinato, on neural timescales and spatiotemporal integration during sleep, assessed with intracranial EEG recordings!
+
+* **December 2024**: New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval.
+
 * **September 2024**: Pinar Göktepe-Kavis defended her PhD thesis, congratulations!
 
 * **August 2024**: Dr. Florence Aellen is starting her [Venture Fellowship](https://www.unibe.ch/research/services/innovation/stories/venture_fellows_2024/index_eng.html), awarded to her by the University of Bern to work on AI tools to predict coma outcome. Congratulations Florence!
