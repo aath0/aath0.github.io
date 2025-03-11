@@ -13,8 +13,6 @@ At the moment we do not have an open position. Informal inquiries for future pos
 
 ## Master theses
 * [Studying how our brains process sounds via machine learning](#studying-how-our-brains-process-sounds-via-machine-learning)
-* [Actigraphy analysis in REM sleep behavior disorder](#actigraphy-analysis-in-rem-sleep-behavior-disorder)
-
 
 ## Studying how our brains process sounds via machine learning
 
@@ -29,22 +27,6 @@ For more information please contact:
 Riccardo Cusinato: riccardo.cusinato@unibe.ch
 
 Athina Tzovara: athina.tzovara@unibe.ch
-
-
-## Actigraphy analysis in REM sleep behavior disorder
-### Potential follow-up tool and disease progression marker?!
-
-Isolated REM-sleep behavior disorder (iRBD) is an early stage of alpha-synucleinopathy and may occur in isolation more than 10 years before the diagnosis of PD or as part of its symptomatology, then termed secondary. Clinically, it is characterized by vivid dreams and their acting out during sleep. Currently, there is no available biomarker indicating disease progression of iRBD or its conversion to Parkinson's disease.
-In analogy to Alzheimer's disease, we know that a disturbance of the sleep-wake rhythm and circadian regulation occurs before the onset of full-blown Parkinson's disease. 
-
-A method that can detect subtle early signs is actigraphy. Actigraphy uses continuous measurement of movement (acceleration moments) per minute over several days. Advantages of this method are numerous: on one hand its clinical reliability as well as good acceptance by patients, and on the other hand, the objective reliability and subsequent statistical evaluation of the measured values.
-
-The goal of this master thesis is to analyze a rich actigraphy dataset. The student will then use this method retrospectively in a mixed cohort of patients with isolated and secondary RBD in order to examine the analysis results of the clinical subgroups in comparison to the control group and, in the case of several measurements of individual patients, to analyze the data over the course of the disease follow up. For this project programming skills in Python, Matlab or R are needed and interest in analyzing actigraphy data, recorded from wearable devices.
-The student that will work in this project will gain experience analyzing rich actigraphy datasets, and will have the opportunity to apply advanced data analysis methods on a clinical application. For more information, please contact:
-
-Dr. Carolin Schäfer, Oberärztin, SWEZ, Neurologie, Inselspital : Carolin.schaefer@insel.ch 
-
-Prof. Athina Tzovara: athina.tzovara@inf.unibe.ch
 
 
 
