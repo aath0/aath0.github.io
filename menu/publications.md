@@ -35,23 +35,28 @@ Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK,
 
 # Other publications
 
+Zanchi B, Monachino G, Fiorillo L, Conte G, Auricchio A, Tzovara A, Faraci FD (**2025**). [Synthetic ECG signals generation: A scoping review](https://www.sciencedirect.com/science/article/pii/S0010482524015385). **Computers in Biology and Medicine**
+
+Pelentritou A, Cataldi J, Zubler F, Iten M, Haenggi M, Ben-Hamouda N, Rossetti AO, Tzovara A, De Lucia M (**2025**). [Complex auditory regularity processing across levels of consciousness in coma: Stage 1 Registered Report](https://academic.oup.com/braincomms/article/7/1/fcae466/7930295). **Brain Communications**
+
 Lee K+, Borghesani V+, Pacheco de Moraes FH, Pozzobon A, Olsen RK *, Kam J *, Tzovara A *, Badhwar A * (**2024**). [Brain Mappers of Tomorrow: an international multilingual initiative for neuroscience dissemination](https://apertureneuro.org/article/123400-brain-mappers-of-tomorrow-an-international-multilingual-initiative-for-neuroscience-dissemination). **Aperture Neuro**, + Co-first authors, * Co-senior authors
+
+Tzovara A, Andrillon T, Preller KH, Sarasso S (**2024**). [New Trends in the Empirical Study of Consciousness: Measures and Mechanisms](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16606), **European Journal of Neuroscience**.
 
 Quiroga-Martinez DR, Rubio GF, Bonetti L, Achyutuni KG, Tzovara A, Knight RT, Vuust P (**2024**) [Decoding reveals the neural representation of perceived and imagined musical sounds](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002858), **PLOS Biology**.
 
-van Maren E, Alnes SL, da Cruz JR, Sobolewski A, Friedrichs-Mader C, Wohler K, Barlatey S, Feruglio S, Fuchs M, Vlachos I, Zimmermann J, Berolote T, ZâĂŹGraggen WJ,
-Tzovara A, Donoghue JP, Kouvas G, Schindler K, Pollo C, Baud MO. [Full-head sub-scalp EEG via minimally-invasive electrode implantation, a first-in-human trial](https://doi.org/10.1212/WNL.0000000000209428). **Neurology**.
+van Maren E, Alnes SL, da Cruz JR, Sobolewski A, Friedrichs-Mader C, Wohler K, Barlatey S, Feruglio S, Fuchs M, Vlachos I, Zimmermann J, Berolote T, ZâĂŹGraggen WJ, Tzovara A, Donoghue JP, Kouvas G, Schindler K, Pollo C, Baud MO (**2024**) [Full-head sub-scalp EEG via minimally-invasive electrode implantation, a first-in-human trial](https://doi.org/10.1212/WNL.0000000000209428). **Neurology**.
 
 Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A (**2024**). [Sleep research in the era of AI](https://www.mdpi.com/2514-183X/8/1/13), **Clinical and Translational Neuroscience**.
 
 Bechny M., Monachino G, Fiorillo L, van der Meer J, Schmidt M, Bassetti CLA, Tzovara A., Faraci FD. [Bridging AI and clinical practice: integrating automated sleep scor-
 ing algorithm with uncertainty-guided physician review](https://doi.org/10.2147/NSS.S455649). Nature and science of sleep,
 
-Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**
+Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**.
 
 Deng Y, Van der Meer J, Tzovara A, Schmidt M, Bassetti CLA, Denecke K (**2023**) [Analysis of Semantic Drifting in Diagnostic Texts for Sleep Disorders](https://ieeexplore.ieee.org/document/10178762), **IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS)**.
 
-Giuliana Monachino, Beatrice Zanchi, Luigi Fiorillo, Giulio Conte, Angelo Auricchio, Athina Tzovara, Francesca Dalia Faraci, (**2023**) [Deep Generative Models: The winning key for large and easily accessible ECG datasets?](https://www.sciencedirect.com/science/article/pii/S0010482523011204), **Computers in Biology and Medicine**
+Giuliana Monachino, Beatrice Zanchi, Luigi Fiorillo, Giulio Conte, Angelo Auricchio, Athina Tzovara, Francesca Dalia Faraci, (**2023**) [Deep Generative Models: The winning key for large and easily accessible ECG datasets?](https://www.sciencedirect.com/science/article/pii/S0010482523011204), **Computers in Biology and Medicine**.
 
 Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
 
