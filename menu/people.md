@@ -9,7 +9,7 @@ title: Lab Members
 
 |||
 |:---:|:---|
-|<a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AthinaTzovara.JPG" alt="Smiley face"/></a> | **[Prof. Dr. Athina Tzovara](https://aath0.github.io/menu/atzovara.html)** <br/> <br/><br/>Email: athina.tzovara@inf.unibe.ch|
+|<a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="/assets/img/AthinaTzovara.JPG" alt="Smiley face"/></a> | **[Prof. Dr. Athina Tzovara](https://aath0.github.io/menu/atzovara.html)** <br/> <br/><br/>Email: athina.tzovara@inf.unibe.ch|
 |<a href="https://aath0.github.io/menu/FAellen.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/FlorenceAellen_Picture.jpeg" alt="Smiley face"/> | **[Dr. Florence Aellen](https://aath0.github.io/menu/FAellen.html)** <br/> **Postdoctoral fellow**<br/><br/>Email: florence.aellen@inf.unibe.ch|
  |<a href="https://aath0.github.io/menu/cmignardot.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CamilleMignardot.jpg" alt="Smiley face"/> | **[Dr. Camille Mignardot](https://aath0.github.io/menu/cmignardot.html)** <br/> **Clinical and Research Engineer**<br/><br/>Email: camille.mignardot.inselspital@gmail.com |
  |<a href="https://aath0.github.io/menu/rcusinato.html"><img align="center" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/RiccardoCusinato_Picture.png" alt="Smiley face"/> | **[Riccardo Cusinato](https://aath0.github.io/menu/rcusinato.html)** <br/> **PhD Student**<br/><br/>Email: riccardo.cusinato@unibe.ch|
