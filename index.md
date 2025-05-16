@@ -8,7 +8,7 @@ title: Aim
 
 Our group is using electrophysiological and computational techniques to study functions of the human brain in health and disease. 
 
-![CCNGroup](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CCN_Photo.jpg)
+![CCNGroup](/assets/img/CCN_Photo.jpg)
 
 Research focus:
 
@@ -16,7 +16,7 @@ Research focus:
 * Neural correlates of auditory processing and predictions
 * Machine learning algorithms for electrophysiological data
 
-![CoverFigure](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AellenAlnes_v2.jpg)
+![CoverFigure](/assets/img/AellenAlnes_v2.jpg)
 *Figure created by Florence Aellen and Sigurd Alnes*
 
 To investigate these topics we are using electrophysiological recordings in humans (scalp EEG, intracranial EEG/ECoG, MEG, single unit measurements), in combination with machine learning algorithms (multivariate decoding for EEG signals, deep learning algorithms).
