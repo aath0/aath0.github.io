@@ -20,7 +20,7 @@ The human brain is characterized by rich neural dynamics, which are the result o
 
 Computational techniques are increasingly employed to analyze the large amounts of data that are generated from invasive recordings of neural activity of the human brain. In this project, we will employ machine learning and simulation techniques to analyse neural signals, with the goal of better understanding how our brains react to sounds. These signals come with incredible temporal and spatial resolution and are thus ideal to study brain processes at the micro- and mesoscopic levels.
  
-The project is suitable for a Master thesis project. The student working on it should be motivated to program in Python for analyzing rich datasets. This project will give experience with machine learning, signal processing, neuroscience and working with human data. No prior experience with neural signals analysis is required.
+The project is suitable for a Master thesis project. The student working on it should be motivated to program indepentently in Python for analyzing rich datasets. This project will give experience with machine learning, signal processing, neuroscience and working with human data. No prior experience with neural signals analysis is required.
 
 For more information please contact:
 
