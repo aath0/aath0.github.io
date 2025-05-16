@@ -12,7 +12,7 @@ Our research uses computational and machine learning techniques to study functio
 <br/><br/>
 
 ## Auditory processing and predictions
-![Intrinsic timescales in the auditory system](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/CusinatoAlnes2023.jpg)
+![Intrinsic timescales in the auditory system](/assets/img/CusinatoAlnes2023.jpg)
 *Figure from: [Cusinato, Alnes et al., 2023](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2)*
 
 The world around us is full of rich sensory experiences, which often follow repetitive rules. Environmental
@@ -29,7 +29,7 @@ To shed light into the neural mechanisms that support processing of environmenta
 <br/><br/>
 
 ## Neural functions in coma and sleep
-![Graphical Abstract Alnes et al., 2021](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Alnes2021_GA.png)
+![Graphical Abstract Alnes et al., 2021](/assets/img/Alnes2021_GA.png)
 *Figure from [Alnes et al., 2021, Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921009113)*
 
 When consciousness fades away we are not aware of our surroundings. However, our brains continue to process information from the environment, like sounds. <br/>
@@ -43,7 +43,7 @@ In our work, we are investigating how the human brain responds to stimuli of the
 <br/><br/>
 
 ## Machine learning algorithms for neuroscience
-![Deep learning pipeline](https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/Aellen2023.jpg)
+![Deep learning pipeline](/assets/img/Aellen2023.jpg)
 *Figure adapted from: [Aellen et al., 2023](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138)*
 
 As the amount of data in the field of neuroscience and neurology increases, it becomes imperative to have powerful algorithms for analysing them. Machine learning algorithms have revolutionized several fields, but their use in electrophysiological data remains limited. In our work, we are developing deep learning pipelines for analysing electrophysiological data, with emphasis on interpretability, and clinical applications, such as predicting outcome from post anoxic coma. Moreover, we are evaluating the effects of algorithmic bias when applying machine learning techniques on medical data. 
