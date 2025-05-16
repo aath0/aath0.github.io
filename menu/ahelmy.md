@@ -5,7 +5,7 @@ title: Annina Helmy
 
 
 
-<img align="left" style="display:inline" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/AnninaHelmy.jpg" alt="Smiley face" style="padding:25px"/> <br/> <br/>
+<img align="left" style="display:inline" src="/assets/img/AnninaHelmy.jpg" alt="Smiley face" style="padding:25px"/> <br/> <br/>
 Email: annina.helmy@students.unibe.ch<br/>
 <br/>
 <br/>
