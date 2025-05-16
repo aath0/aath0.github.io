@@ -5,7 +5,7 @@ title: Sophie Caroni
 
 
 
-<img align="left" style="display:inline" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/SophieCaroni.jpg" alt="Smiley face" style="padding:25px"/> <br/> <br/>
+<img align="left" style="display:inline" src="/assets/img/SophieCaroni.jpg" alt="Smiley face" style="padding:25px"/> <br/> <br/>
 Email: sophie.caroni@unibe.ch<br/>
 <br/>
 <br/>
