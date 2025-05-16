@@ -3,7 +3,7 @@ layout: page
 title: Pinar Göktepe
 ---
 
-<img align="left" style="display:inline" src="https://raw.githubusercontent.com/aath0/aath0.github.io/master/assets/img/GoktepePinar_Picture.jpg" alt="Picture of Pinar" style="padding:25px"/> <br/> <br/>
+<img align="left" style="display:inline" src="/assets/img/GoktepePinar_Picture.jpg" alt="Picture of Pinar" style="padding:25px"/> <br/> <br/>
 Email: pinar.goektepe@students.unibe.ch<br/>
 <br/>
 <br/>
