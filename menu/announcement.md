@@ -76,8 +76,6 @@ The project is suitable for a Master thesis project. The student working on it s
 
 For more information please contact:
 
-Riccardo Cusinato: riccardo.cusinato@unibe.ch
-
 Athina Tzovara: athina.tzovara@unibe.ch
 
 
