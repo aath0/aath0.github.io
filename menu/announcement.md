@@ -6,6 +6,7 @@ title: Open positions
 * [Postdoc positions](#postdoc-positions)
 * [PhD positions](#phd-positions)
 * [Master theses](#master-theses) 
+* [Bachelor theses](#bachelor-theses) 
  
 ## Postdoc positions
 
@@ -73,6 +74,20 @@ The human brain is characterized by rich neural dynamics, which are the result o
 Computational techniques are increasingly employed to analyze the large amounts of data that are generated from invasive recordings of neural activity of the human brain. In this project, we will employ machine learning and simulation techniques to analyse neural signals, with the goal of better understanding how our brains react to sounds. These signals come with incredible temporal and spatial resolution and are thus ideal to study brain processes at the micro- and mesoscopic levels.
  
 The project is suitable for a Master thesis project. The student working on it should be motivated to program indepentently in Python for analyzing rich datasets. This project will give experience with machine learning, signal processing, neuroscience and working with human data. No prior experience with neural signals analysis is required.
+
+For more information please contact:
+
+Athina Tzovara: athina.tzovara@unibe.ch
+
+
+## Bachelor theses
+* [Analysing audio files to study sound perception in patients with epilepsy](#analyzing-audio-files-to-study-sound-perception-in-patients-with-epilepsy)
+
+## Analysing audio files to study sound perception in the human brain
+
+Our brains have the fascinating ability to process multiple sources of sounds from the environment. In our work we are studying how speech is processed in the human brain with the use of intracranial electroencephalography (iEEG) recordings in patients with epilepsy. To achieve this, we need to align the audio signals that patients heard to their recorded iEEG data. For this project, suitable for a bachelor thesis, we will employ different signal processing techniques to analyse speech signals and align them to iEEG data, in a large cohort of 50 patients. 
+ 
+The student working on this project should be motivated to program indepentently in Python and to work with a large dataset consisting of recorded auditory waveforms. They will employ and compare different signal processing techniques to analyse those waveforms and align them with the recorded iEEG signals. This project will give experience with signal processing, neuroscience and working with a large dataset. No prior experience with neural signals analysis is required.
 
 For more information please contact:
 
