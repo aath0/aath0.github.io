@@ -90,15 +90,23 @@ Athina Tzovara: athina.tzovara@unibe.ch
 
 ## Bachelor theses
 * [Analysing audio files to study sound perception in patients with epilepsy](#analyzing-audio-files-to-study-sound-perception-in-patients-with-epilepsy)
+* [Processing physiological signals to study sleep disorders](#processing-physiological-signals-to-study-sleep-disorders)
 
 ## Analysing audio files to study sound perception in the human brain
 
 Our brains have the fascinating ability to process multiple sources of sounds from the environment. In our work we are studying how speech is processed in the human brain with the use of intracranial electroencephalography (iEEG) recordings in patients with epilepsy. To achieve this, we need to align the audio signals that patients heard to their recorded iEEG data. For this project, suitable for a bachelor thesis, we will employ different signal processing techniques to analyse speech signals and align them to iEEG data, in a large cohort of 50 patients. 
  
-The student working on this project should be motivated to program indepentently in Python and to work with a large dataset consisting of recorded auditory waveforms. They will employ and compare different signal processing techniques to analyse those waveforms and align them with the recorded iEEG signals. This project will give experience with signal processing, neuroscience and working with a large dataset. No prior experience with neural signals analysis is required.
+The student working on this project should be motivated to program indepentently in Python and to work with a large dataset consisting of recorded auditory waveforms. They will employ and compare different signal processing techniques to analyse those waveforms and align them with the recorded iEEG signals. This project will give experience with signal processing, neuroscience and working with a large dataset.
 
 For more information please contact:
 Athina Tzovara: athina.tzovara@unibe.ch
 
+## Processing physiological signals to study sleep disorders
 
+Sleep disorders affect a large part of the human population, posing a major public health concern. However, diagnosing and treating sleep disorders remains today challenging. Polysomnography (PSG) allows us to study sleep, by recording signals of the brain via electroencephalography (EEG) and also of the heart (ECG) or respiration. The goal of this bachelor thesis is to assist in the analysis of a large dataset of PSG recordings in patients with central disorders of hypersomnolence and healthy controls.
+
+The student working in this project will acquire experience with signal processing, analysing time series, sleep research, and working with a large and rich dataset. For this bachelor thesis you are expected to be able to program independently in Python. 
+
+For more information please contact:
+Athina Tzovara: athina.tzovara@unibe.ch
 
