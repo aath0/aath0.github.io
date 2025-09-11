@@ -36,7 +36,7 @@ The selected candidates will be integrated in the collaborative and internationa
 * Funding and salary for 3 years according to regulations of the Swiss National Science Foundation
 
 ### Applications:
-Applications will be accepted until July 31st. The positions can start on September 1st or upon agreement. To apply please send one pdf document including your CV, publication list, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. Please also indicate which of the two positions you are interested in. Informal inquiries are welcome.
+Applications will be accepted until the positions are filled. To apply please send one pdf document including your CV, publication list, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. Please also indicate which of the two positions you are interested in. Informal inquiries are welcome.
 
 ## PhD positions
 
@@ -60,7 +60,7 @@ To further strengthen our group, we are looking for a motivated PhD candidate to
 
 ### Applications
 
-Applications will be accepted until July 31st or until the position is filled. To apply please send one pdf document including your CV, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. Informal inquiries are welcome.
+Applications will be accepted until the position is filled. To apply please send one pdf document including your CV, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. Informal inquiries are welcome.
 
 
 
