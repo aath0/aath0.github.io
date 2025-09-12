@@ -65,16 +65,15 @@ Applications will be accepted until the position is filled. To apply please send
 
 
 ## Master theses
-* [Studying how our brains process sounds via machine learning](#studying-how-our-brains-process-sounds-via-machine-learning)
+* [Identifying biomarkers of insomnia drug action](#identifying-biomarkers-of-insomnia-drug-action)
 * [Neural dynamics of patients in a coma](#neural-dynamics-of-patients-in-a-coma)
 
-## Studying how our brains process sounds via machine learning
+## Identifying biomarkers of insomnia drug action
 
-The human brain is characterized by rich neural dynamics, which are the result of coordinated electrical neural activity. Stimuli from our environment, like sounds, trigger strong reactions in distributed brain regions. In our recent [work](https://www.biorxiv.org/content/10.1101/2022.09.27.509695v2), we are studying how the human brain processes sounds from the environment via rich recordings of neural activity in patients with epilepsy. 
+Insomnia disorder is very prevalent worldwide and especially the elderly population suffers increasingly. The pitfalls of current insomnia medications is manifold, such as addiction and altered wakefulness. Increasingly these drugs have also been associated with unnatural sleep.
 
-Computational techniques are increasingly employed to analyze the large amounts of data that are generated from invasive recordings of neural activity of the human brain. In this project, we will employ machine learning and simulation techniques to analyse neural signals, with the goal of better understanding how our brains react to sounds. These signals come with incredible temporal and spatial resolution and are thus ideal to study brain processes at the micro- and mesoscopic levels.
- 
-The project is suitable for a Master thesis project. The student working on it should be motivated to program indepentently in Python for analyzing rich datasets. This project will give experience with machine learning, signal processing, neuroscience and working with human data. No prior experience with neural signals analysis is required.
+This master thesis will be integrated into a bigger project trying to better understand how and why these drugs alter sleep and wakefulness and to what extent. Specifically this project will use signal processing and established analysis techniques to characterise a dataset of overnight human electroencephalography (EEG) data of participants following administration of sleep drugs.
+Students will gain experience in data analysis, signal processing and sleep research.
 
 For more information please contact:
 Athina Tzovara: athina.tzovara@unibe.ch
