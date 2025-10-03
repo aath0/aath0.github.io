@@ -7,20 +7,35 @@ title: News
 |||
 |:---:|:---|
 |<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face" width="600"/> | **September 2025**: Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
+|||
 |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face" width="600"/> |**August 2025** Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |
+|||
 |<img align="center" src="/assets/img/AlnesAellen2025.png" alt="Smiley face" width="600"/> | **March 2025**: Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma|
+|||
 | <img align="center" src="/assets/img/Cusinato2025.png" alt="Smiley face" width="600"/> |**February 2025**: We have a new [publication](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), led by Riccardo Cusinato, on neural timescales and spatiotemporal integration during sleep, assessed with intracranial EEG recordings |
+|||
 |<img align="center" src="/assets/img/GoektepeKavis2024.png" alt="Smiley face" width="600"/> | **December 2024** New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval |
+|||
 | | **September 2024**: Pinar Göktepe-Kavis defended her PhD thesis, congratulations!| 
+|||
 | | **August 2024**: Dr. Florence Aellen is starting her [Venture Fellowship](https://www.unibe.ch/research/services/innovation/stories/venture_fellows_2024/index_eng.html), awarded to her by the University of Bern to work on AI tools to predict coma outcome. Congratulations Florence! |
+|||
 | |**June 2024**: Welcome to Alex Christopoulos who joined us as a PhD student!|
+|||
 |<img align="center" src="/assets/img/SigurdPhD.JPG" alt="Smiley face" width="600"/> | **May 2024**: Congratulations to Dr. Sigurd Alnes for defending his PhD thesis! |
+|||
 | <img align="center" src="/assets/img/AMLD2024.jpg" alt="Smiley face" width="600"/> |**March 2024**: Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"! |
+|||
 |<img align="center" src="/assets/img/AellenTzovara2024.png" alt="Smiley face" width="600"/> |**January 2024**: Florence and Athina are delighted to received the [Pfizer Reserach prize on Neuroscience and Neurology](https://www.pfizerresearchprize.ch/2024-awardees/research-projects/using-artificial-intelligence-to-predict-chances-of-recovery-from-a-coma) for their work using artificial intelligence to predict chances of recovery from a coma. |
+|||
 | <img align="center" src="/assets/img/Alnes2023.png" alt="Smiley face" width="600"/> | **December 2023**: Congratulations Sigurd Alnes for the new [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16203) on characterising the neural complexity and spectral slope of auditory responses in wakefulness and sleep. |
+|||
 |<img align="center" src="/assets/img/OHBM2023.jpg" alt="Smiley face" width="600"/> | **July 2023**: The CCN group was in Montreal, at the 2023 Organization for Human Brain Mapping meeting |
+|||
 |<img align="center" src="/assets/img/SSN2023.jpg" alt="Smiley face" width="600"/> | **June 2023**: Congratulations to Dr. Florence Aellen for receiving a 2023 Swiss Society for Neuroscience [publication award](https://www.swissneuroscience.ch/Publication-Awards/)! |
+|||
 |<img align="center" src="/assets/img/Cusinato2023.png" alt="Smiley face" width="600"/> | **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing is [online](https://www.jneurosci.org/content/43/20/3696) |
+|||
 
 ## Older news
 * **March 2023**: Florence Aellen successfully defended her PhD work. Congratulations!
