@@ -348,7 +348,8 @@ table, th, td {
 
 th, td {
   padding: 0px;
-  padding-right: 0px;
+  padding-right: 1px;
+  padding-left: 2px;
   padding-top: 2px;
   font-size: 1em;
   text-align: left;
