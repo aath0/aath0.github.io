@@ -19,7 +19,7 @@ title: News
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/AlnesAellen.png" alt="Smiley face"/></a> | Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma!
+|<img align="center" src="/assets/img/AlnesAellen2025.png" alt="Smiley face"/></a> | Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma!
 |
 
 
