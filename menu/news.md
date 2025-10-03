@@ -18,6 +18,7 @@ title: News
 |**March 2024**: Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"! | <img align="center" src="/assets/img/AMLD2024.jpg" alt="Smiley face" width="600"/> |
 ||**January 2024**: Florence and Athina are delighted to received the [Pfizer Reserach prize on Neuroscience and Neurology](https://www.pfizerresearchprize.ch/2024-awardees/research-projects/using-artificial-intelligence-to-predict-chances-of-recovery-from-a-coma) for their work using artificial intelligence to predict chances of recovery from a coma. |
 | * **December 2023**: Congratulations Sigurd Alnes for the new [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16203) on characterising the neural complexity and spectral slope of auditory responses in wakefulness and sleep. |<img align="center" src="/assets/img/Alnes2023.png" alt="Smiley face" width="600"/> |
+|<img align="center" src="/assets/img/OHBM2023.jpg" alt="Smiley face" width="600"/> | **July 2023**: The CCN group was in Montreal, at the 2023 Organization for Human Brain Mapping meeting |
 
 * **July 2023**: Join us in Montreal, at the Organization for Human Brain Mapping annual meeting, where we'll be presenting our latest work!
 
