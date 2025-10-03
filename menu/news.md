@@ -7,31 +7,31 @@ title: News
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face"/> | Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
+|<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face" width="600"/> | Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
 
 **August 2025**
 
 |||
 |:---:|:---|
-|Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face"/> |
+|Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face" width="600"/> |
 
 **March 2025**
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/AlnesAellen2025.png" alt="Smiley face"/> | Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma|
+|<img align="center" src="/assets/img/AlnesAellen2025.png" alt="Smiley face" width="600"/> | Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma|
 
 **February 2025**
 
 |||
 |:---:|:---|
-| We have a new [publication](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), led by Riccardo Cusinato, on neural timescales and spatiotemporal integration during sleep, assessed with intracranial EEG recordings |<img align="center" src="/assets/img/Cusinato2025.png" alt="Smiley face"/> |
+| We have a new [publication](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), led by Riccardo Cusinato, on neural timescales and spatiotemporal integration during sleep, assessed with intracranial EEG recordings |<img align="center" src="/assets/img/Cusinato2025.png" alt="Smiley face" width="600"/> |
 
 **December 2024**
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/GoektepeKavis2024.png" alt="Smiley face"/> | New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval |
+|<img align="center" src="/assets/img/GoektepeKavis2024.png" alt="Smiley face" width="600"/> | New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval |
 
 
 
@@ -45,16 +45,14 @@ title: News
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/SigurdPhD.JPG" alt="Smiley face"/> | Congratulations to Dr. Sigurd Alnes for defending his PhD thesis! |
+|<img align="center" src="/assets/img/SigurdPhD.JPG" alt="Smiley face" width="600"/> | Congratulations to Dr. Sigurd Alnes for defending his PhD thesis! |
 
 **March 2024**
 
 |||
 |:---:|:---|
-|Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"! | <img align="center" src="/assets/img/AMLD2024.jpg" alt="Smiley face"/> |
+|Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"! | <img align="center" src="/assets/img/AMLD2024.jpg" alt="Smiley face" width="600"/> |
 
-
-* **March 2024**: Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"!
 
 * **January 2024**: Florence and Athina are delighted to received the [Pfizer Reserach prize on Neuroscience and Neurology](https://www.pfizerresearchprize.ch/2024-awardees/research-projects/using-artificial-intelligence-to-predict-chances-of-recovery-from-a-coma) for their work using artificial intelligence to predict chances of recovery from a coma.
 
