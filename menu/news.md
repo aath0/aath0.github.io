@@ -8,16 +8,9 @@ title: News
 |:---:|:---|
 |<a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face"/></a> | Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
 
-**August 2025**
-|||
-|:---:|:---|
-|Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland | <a href="https://aath0.github.io/menu/atzovara.html"><img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face"/></a> | 
-
 
 * **September 2025**: Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD! <img align="left" style="display:inline" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face" style="padding:25px" width="50%"/> <br/> <br/>
 
-* **August 2025**: We took part to the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese countryside
-<img align="left" style="display:inline" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face" style="padding:25px" width="50%"/> <br/> <br/>
 
 * **March 2025**: Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma!
 
