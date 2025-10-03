@@ -34,7 +34,6 @@ title: News
 |<img align="center" src="/assets/img/GoektepeKavis2024.png" alt="Smiley face"/> | New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval |
 
 
-* **December 2024**: New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval.
 
 * **September 2024**: Pinar Göktepe-Kavis defended her PhD thesis, congratulations!
 
@@ -42,7 +41,18 @@ title: News
 
 * **June 2024**: Welcome to Alex Christopoulos who joined us as a PhD student!
 
-* **May 2024**: Congratulations to Dr. Sigurd Alnes for defending his PhD thesis!
+**May 2024**
+
+|||
+|:---:|:---|
+|<img align="center" src="/assets/img/SigurdPhD.JPG" alt="Smiley face"/> | Congratulations to Dr. Sigurd Alnes for defending his PhD thesis! |
+
+**March 2024**
+
+|||
+|:---:|:---|
+|Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"! | <img align="center" src="/assets/img/AMLD2024.jpg" alt="Smiley face"/> |
+
 
 * **March 2024**: Join us at the [Applied Machine Learning Days](https://2024.appliedmldays.org/) at EPFL for our track on "AI & Sleep from Everyday Applications to Sleep Disorders: Can AI Lead to a Better Sleep?"!
 
