@@ -20,12 +20,9 @@ title: News
 | **December 2023**: Congratulations Sigurd Alnes for the new [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16203) on characterising the neural complexity and spectral slope of auditory responses in wakefulness and sleep. |<img align="center" src="/assets/img/Alnes2023.png" alt="Smiley face" width="600"/> |
 |<img align="center" src="/assets/img/OHBM2023.jpg" alt="Smiley face" width="600"/> | **July 2023**: The CCN group was in Montreal, at the 2023 Organization for Human Brain Mapping meeting |
 | **June 2023**: Congratulations to Dr. Florence Aellen for receiving a 2023 Swiss Society for Neuroscience [publication award](https://www.swissneuroscience.ch/Publication-Awards/)! |<img align="center" src="/assets/img/SSN2023.jpg" alt="Smiley face" width="600"/> |
+|<img align="center" src="/assets/img/Cusinato2023.png" alt="Smiley face" width="600"/> | **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing is [online](https://www.jneurosci.org/content/43/20/3696) |
 
-
-* **June 2023**: Congratulations to Dr. Florence Aellen for receiving a 2023 Swiss Society for Neuroscience [publication award](https://www.swissneuroscience.ch/Publication-Awards/)!
-
-* **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing is [online](https://www.jneurosci.org/content/43/20/3696).
-
+## Older news
 * **March 2023**: Florence Aellen successfully defended her PhD work. Congratulations!
 
 * **March 2023**: Florence Aellen gave an interview on her PhD work at the Center for Artificial Intelligence in Medicine of the University of Bern. You can read the interview [here](https://www.caim.unibe.ch/about_us/people/interviews/florence_aellen/index_eng.html).
