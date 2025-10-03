@@ -3,17 +3,11 @@ layout: page
 title: News
 ---
 
-**September 2025**
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face" width="600"/> | Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
-
-**August 2025**
-
-|||
-|:---:|:---|
-|Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face" width="600"/> |
+|<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face" width="600"/> | **September 2025**: Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
+|**August 2025** Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face" width="600"/> |
 
 **March 2025**
 
