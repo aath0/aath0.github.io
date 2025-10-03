@@ -7,28 +7,32 @@ title: News
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face"/></a> | Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
+|<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face"/> | Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
 
 **August 2025**
 
 |||
 |:---:|:---|
-|Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face"/></a> |
+|Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face"/> |
 
 **March 2025**
 
 |||
 |:---:|:---|
-|<img align="center" src="/assets/img/AlnesAellen2025.png" alt="Smiley face"/></a> | Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma|
+|<img align="center" src="/assets/img/AlnesAellen2025.png" alt="Smiley face"/> | Congratulations to Dr. Sigurd Alnes and Dr. Florence Aellen and team for their new [paper](https://www.sciencedirect.com/science/article/pii/S0300957225000437) on the temporal dynamics of neural synchrony and complexity in auditory EEG responses during post-hypoxic ischemic coma|
 
 **February 2025**
 
 |||
 |:---:|:---|
-| We have a new [publication](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), led by Riccardo Cusinato, on neural timescales and spatiotemporal integration during sleep, assessed with intracranial EEG recordings |<img align="center" src="/assets/img/Cusinato2025.png" alt="Smiley face"/></a> |
+| We have a new [publication](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), led by Riccardo Cusinato, on neural timescales and spatiotemporal integration during sleep, assessed with intracranial EEG recordings |<img align="center" src="/assets/img/Cusinato2025.png" alt="Smiley face"/> |
 
+**December 2024**
 
-* **February 2025**: We have a new [publication](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), led by Riccardo Cusinato, on neural timescales and spatiotemporal integration during sleep, assessed with intracranial EEG recordings!
+|||
+|:---:|:---|
+|<img align="center" src="/assets/img/GoektepeKavis2024.png" alt="Smiley face"/> | New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval |
+
 
 * **December 2024**: New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval.
 
