@@ -16,7 +16,7 @@ title: News
 |||
 |<img align="center" src="/assets/img/GoektepeKavis2024.png" alt="Smiley face" width="600"/> | **December 2024** New [paper](https://academic.oup.com/cercor/article/34/12/bhae483/7930328) by Dr. Pinar Göktepe-Kavis and colleagues on how decision context changes prospective outcome retrieval |
 |||
-| | **September 2024**: Pinar Göktepe-Kavis defended her PhD thesis, congratulations!| 
+|<img align="center" src="/assets/img/PhDPinar.jpg" alt="Smiley face" width="600"/>  | **September 2024**: Pinar Göktepe-Kavis defended her PhD thesis, congratulations!| 
 |||
 | | **August 2024**: Dr. Florence Aellen is starting her [Venture Fellowship](https://www.unibe.ch/research/services/innovation/stories/venture_fellows_2024/index_eng.html), awarded to her by the University of Bern to work on AI tools to predict coma outcome. Congratulations Florence! |
 |||
