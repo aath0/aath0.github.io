@@ -6,9 +6,10 @@ title:
 
 ---
 
-Our group is using electrophysiological and computational techniques to study functions of the human brain in health and disease. 
+Our group studies functions of the human brain and their alterations when consciousness diminishes. To achieve this, we combine cutting-edge recordings of electrophysiological activity in humans (high-density scalp EEG, intracranial EEG/ECoG, single unit activity) with artificial intelligence algorithms.
 
 ![CCNGroup](/assets/img/Lab_Sept2025.jpg)
+
 
 Research focus:
 
@@ -16,8 +17,6 @@ Research focus:
 * Neural correlates of auditory processing and predictions
 * Machine learning algorithms for electrophysiological data
 
-![CoverFigure](/assets/img/AellenAlnes_v2.jpg)
-*Figure created by Florence Aellen and Sigurd Alnes*
 
 To investigate these topics we are using electrophysiological recordings in humans (scalp EEG, intracranial EEG/ECoG, single unit activity), in combination with machine learning algorithms (multivariate decoding for EEG signals, deep learning algorithms).
 
