@@ -3,8 +3,6 @@ layout: page
 title: Lab Members
 ---
 
-![CCN group spring 2024](/assets/img/CCN_Photo.png)
-
 ## CCN members
 
 |||
