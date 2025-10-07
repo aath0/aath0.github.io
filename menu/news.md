@@ -36,13 +36,14 @@ title: News
 |||
 |<img align="center" src="/assets/img/Cusinato2023.png" alt="Smiley face" width="600"/> | **May 2023**: Our latest paper on intrinsic neural timescales and auditory processing is [online](https://www.jneurosci.org/content/43/20/3696) |
 |||
+|<img align="center" src="/assets/img/PhDFlo.JPG" alt="Smiley face" width="600"/> | **March 2023**: Florence Aellen successfully defended her PhD work. Congratulations! |
+|||
+|<img align="center" src="/assets/img/FlorenceAellen_computer.jpg" alt="Smiley face" width="600"/> | **March 2023**: Florence Aellen gave an interview on her PhD work at the Center for Artificial Intelligence in Medicine of the University of Bern. You can read the interview [here](https://www.caim.unibe.ch/about_us/people/interviews/florence_aellen/index_eng.html). |
+|||
+|<img align="center" src="/assets/img/Aellen2023_B.jpg" alt="Smiley face" width="600"/> | **January 2023**: Our latest [paper](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138) on how deep learning and auditory stimulation can predict the chances of a post-anoxic coma patient to regain consciousness was published. |
+
 
 ## Older news
-* **March 2023**: Florence Aellen successfully defended her PhD work. Congratulations!
-
-* **March 2023**: Florence Aellen gave an interview on her PhD work at the Center for Artificial Intelligence in Medicine of the University of Bern. You can read the interview [here](https://www.caim.unibe.ch/about_us/people/interviews/florence_aellen/index_eng.html).
-
-* **January 2023**: Our latest [paper](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138) on how deep learning and auditory stimulation can be combined to predict the chances of a post-anoxic coma patient to regain consciousness was published online.
 
 * **June 2022**: Florence Aellen and Sigurd Alnes will be presenting their work at the annual meeting of the Organization for Human Brain Mapping.
 
