@@ -3,66 +3,36 @@ layout: page
 title: Open positions
 ---
 
-* [Postdoc positions](#postdoc-positions)
-* [PhD positions](#phd-positions)
+* [PhD and Postdoc positions in neuroscience](#phd-and-postdoc-positions-in-neuroscience)
 * [Master theses](#master-theses) 
 * [Bachelor theses](#bachelor-theses) 
  
-## Postdoc positions
+## PhD and Postdoc positions in neuroscience
 
-Applications are invited for two 3-year postdocs in neuroscience at the University of Bern, Switzerland. Our group is investigating the neural mechanisms that support processing of auditory information and how these are altered during sleep. We are particularly interested in how intrinsic neural timescales and neural oscillations support auditory and predictive processing in the human brain, and how those are reorganized from wakefulness to sleep. To answer these questions, we have open positions for two postdoctoral researchers, one with an experimental and one with a computational focus, motivated to contribute to our line of research.
+We are looking for motivated PhD students or postdoctoral fellows in neuroscience to join our group in Bern. Our group is investigating neural functions when consciousness is diminished, for example during sleep or coma. To this aim, we perform invasive and non-invasive electrophysiological recordings in humans (scalp and intracranial EEG) and computational techniques (signal processing and machine learning). 
 
-The selected candidate with experimental focus will have the possibility to design new electroencephalography (EEG) experiments, record, and analyse scalp and/or intracranial EEG data to study links between neural timescales and auditory processing in the awake and sleeping brain. The selected candidate with computational background will have the chance to analyse rich intracranial EEG recordings from patients with epilepsy undergoing pre-surgical monitoring to study the organization of neural oscillations and connectivity patterns in sleep and wakefulness along the auditory network. 
+Our group is part of the Center for Experimental Neurology (ZEN) and the Institute of Computer Science. The ZEN is a unique translational research center in the Department of Neurology at the Inselspital University Hospital Bern, in Switzerland. The ZEN fosters strong collaborations between clinical and experimental laboratories with long-standing expertise in sleep research. 
 
-The selected candidates will be integrated in the collaborative and international research environment of the [Center for Experimental Neurology](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) (ZEN) and will be supervised by Prof. Athina Tzovara.
+To further strengthen our group, we are seeking new PhD students or postdoctoral fellows to complement our research in one of the following directions: auditory processing in wakefulness and sleep; study of neural functions in coma; novel machine learning techniques to analyse EEG data.
 
-### Profile for postdoctoral position I
-* Phd in neuroscience 
-* Experience with designing cognitive neuroscience experiments and recording scalp or intracranial EEG data
-* Experience with analysis of EEG/iEEG/ECOG data, signal processing and statistics
-* Ability to independently program in Python or R
-* Additional experience with one or more of the following: auditory and predictive processing, analysis of neural timescales and neural oscillations, sleep research
-
-### Profile for postdoctoral position II
-
-* PhD in neuroscience, biomedical engineering, physics or a related discipline 
-* Ability to independently analyse iEEG/ECOG data (time-frequency analyses, connectivity, modeling of neural oscillations, etc)
-* Strong programming skills in Python or R
-* Additional experience with one or more of the following is a plus: sleep research, analysis of single neuron recordings or machine learning for iEEG signals
-
-### What we offer:
-* Interdisciplinary and collaborative research team
-* International research environment
-* Funding and salary for 3 years according to regulations of the Swiss National Science Foundation
-
-### Applications:
-Applications will be accepted until the positions are filled. To apply please send one pdf document including your CV, publication list, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. Please also indicate which of the two positions you are interested in. Informal inquiries are welcome.
-
-## PhD positions
-
-Applications are invited for a PhD student in neuroscience. The Center for Experimental Neurology (ZEN) is a unique translational research center in the Department of Neurology at the Inselspital University Hospital Bern, in Switzerland. The ZEN fosters strong collaborations between clinical and experimental laboratories with long-standing expertise in sleep research.
-
-To further strengthen our group, we are looking for a motivated PhD candidate to investigate novel sleep biomarkers and new insomnia drugs with the use of artificial intelligence (AI). The selected candidate will have the chance to analyse large amounts of electrophysiological data (EEG, calcium imaging) with signal processing techniques and novel AI algorithms. 
-
-### Your profile
-
-* Master in neuroscience, biomedical engineering, physics, or a related discipline
-* Strong interest in neuroscience, neuro-engineering
-* Experience with one or more of the following: developing AI models in PyTorch or Tensorflow; analysis of EEG data and signal processing; sleep research; statistical analyses
+### Your profile:
+* Master or PhD in neuroscience, biomedical engineering, physics, or a related discipline
+* Strong interest in neuroscience
 * Ability to independently program in Python
 * Solid English skills
+* Experience with one or more of the following:
+* Recording of scalp or intracranial EEG data
+* Designing experiments with auditory stimuli
+* Sleep research
+* Analysis of EEG or intracranial EEG data and signal processing
 
-### What we offer
-
+### What we offer:
 * Interdisciplinary and collaborative research team of experimental and computational neuroscientists
 * International research environment
 * Salary according to regulations of the Swiss National Science Foundation
 
 ### Applications
-
-Applications will be accepted until the position is filled. To apply please send one pdf document including your CV, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. Informal inquiries are welcome.
-
-
+Applications will be accepted until the positions are filled. To apply please send one pdf document including your CV, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. Informal inquiries are welcome.
 
 ## Master theses
 * [Identifying biomarkers of insomnia drug action](#identifying-biomarkers-of-insomnia-drug-action)
