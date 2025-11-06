@@ -6,6 +6,10 @@ title: News
 
 |||
 |:---:|:---|
+|<img align="center" src="/assets/img/Alnes2025.png" alt="Smiley face" width="600"/> | **November 2025**: New [paper from our group](https://www.sciencedirect.com/science/article/pii/S0301008225001340): we study how slow wave sleep affects auditory processing with iEEG recordings. Congratulations to Sigurd and to the entire team!|
+|||
+|<img align="center" src="/assets/img/PhD_Michal.jpg" alt="Smiley face" width="600"/> | **October 2025**: Michal Bechny, affiliated PhD student with the group successfully defending his PhD, congrtulations!|
+|||
 |<img align="center" src="/assets/img/PhD_Giuliana.jpg" alt="Smiley face" width="600"/> | **September 2025**: Congratulations to Giuliana Monachino, affiliated PhD student for successfully defending her PhD!|
 |||
 |<img align="center" src="/assets/img/Lab_Sept2025.jpg" alt="Smiley face" width="600"/> |**August 2025** Snapshot from the [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in the Bernese Oberland |
