@@ -3,6 +3,9 @@ layout: page
 title: Representative publications and preprints
 ---
 
+
+Alnes SL, van Maren E, Mignardot CG, Boccalaro I, Waldleben T, Ledergerber D, Stieglitz LM, Schmidt M, Adamantidis A, Imbach L, Schindler K, Baud MO, Tzovara A, (**2025**) [Auditory responses in the temporal lobe are modulated by slow waves of sleep](https://www.sciencedirect.com/science/article/pii/S0301008225001340), **Progress in Neurobiology**.
+
 Alnes SL, Aellen FM, Rusterholz T, Pelentritou A, Hänggi M, Rossetti AO, Zubler F, De Lucia M, Tzovara A, (**2025**) [Temporal dynamics of neural synchrony and complexity of auditory EEG responses in post-hypoxic ischemic coma](https://www.sciencedirect.com/science/article/pii/S0300957225000437), **Resuscitation**.
 
 Cusinato R, Seiler A, Schindler K, Tzovara A, (**2025**) [Sleep modulates neural timescales and spatiotemporal integration in the human cortex](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), **Journal of Neuroscience**.
