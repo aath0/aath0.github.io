@@ -5,7 +5,7 @@ title: Alexia Duriez
 
 
 
-<img align="left" style="display:inline" src="/assets/img/Alexia.png" alt="Smiley face" style="padding:25px"/> <br/> <br/>
+<img align="left" style="display:inline" src="/assets/img/Duriez.png" alt="Smiley face" style="padding:25px"/> <br/> <br/>
 Email: alexia.duriez@unibe.ch<br/>
 <br/>
 <br/>
