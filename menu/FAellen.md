@@ -6,7 +6,8 @@ title: Dr. Florence Aellen
 
 
 <img align="left" style="display:inline" src="/assets/img/FlorenceAellen_Picture.jpeg" alt="Smiley face" style="padding:25px"/> <br/> <br/>
-Email: florence.aellen@inf.unibe.ch<br/>
+Email: florence.aellen@unibe.ch<br/>
+<a href="https://scholar.google.com/citations?user=FHb6YycAAAAJ&hl=en">Google Scholar</a><br/>
 <br/>
 <br/>
 <br/>
@@ -18,6 +19,8 @@ Email: florence.aellen@inf.unibe.ch<br/>
 I have a PhD in Computer Science, a bachelor degree in mathematics and a master of science in theoretical physics all from the University of Bern. Now I am a postdoctoral fellow working on analysis of neurological data and developing new methods using deep learning.
 
 #### Publications
+
+Alnes SL*, Aellen FM*, Rusterholz T, Pelentritou A, Hänggi M, Rossetti AO, Zubler F, De Lucia M, Tzovara A, (**2025**) [Temporal dynamics of neural synchrony and complexity of auditory EEG responses in post-hypoxic ischemic coma](https://www.sciencedirect.com/science/article/pii/S0300957225000437), **Resuscitation**. * equal contribution
 
 Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.
 
