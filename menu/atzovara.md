@@ -8,7 +8,6 @@ Email: athina.tzovara@unibe.ch<br/>
 Tel: <br/>
 <a href="https://scholar.google.com/citations?user=XdOdIKYAAAAJ&hl=en">Google Scholar</a><br/>
 <a href="https://orcid.org/0000-0002-7588-1418">ORCID</a><br/>
-<a href="https://twitter.com/AthinaTzovara">Twitter</a>
 <br/>
 <br/>
 <br/>
