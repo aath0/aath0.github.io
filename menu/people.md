@@ -14,6 +14,7 @@ title: Lab Members
  |<a href="https://aath0.github.io/menu/rcusinato.html"><img align="center" src="/assets/img/RiccardoCusinato_Picture.png" alt="Smiley face"/> | **[Riccardo Cusinato](https://aath0.github.io/menu/rcusinato.html)** <br/> **PhD Student**<br/><br/>Email: riccardo.cusinato@unibe.ch|
   |<a href="https://aath0.github.io/menu/achristopoulos.html"><img align="center" src="/assets/img/AlexandrosChristopoulos.jpg" alt="Smiley face"/> | **[Alexandros Christopoulos](https://aath0.github.io/menu/AChristopoulos.html)** <br/> **PhD Student**<br/><br/>Email: alexandros.christopoulos@unibe.ch|
   |<a href="https://aath0.github.io/menu/aduriez"><img align="center" src="/assets/img/Duriez.png" alt="Smiley face"/> | **[Alexia Duriez](https://aath0.github.io/menu/aduriez.html)** <br/> **PhD student**<br/><br/>Email: alexia.duriez@unibe.ch|
+  |<a href="https://aath0.github.io/menu/hportmann"><img align="center" src="/assets/img/Hannah.jpg" alt="Smiley face"/> | **[Hannah Portmann](https://aath0.github.io/menu/hportmann.html)** <br/> **PhD student**<br/><br/>Email: tbd|
   |<a href="https://aath0.github.io/menu/aduriez"><img align="center" src="/assets/img/AnninaHelmy.jpg" alt="Smiley face"/> | **[Annina Helmy](https://aath0.github.io/menu/ahelmy.html)** <br/> **Co-supervised PhD student**<br/><br/>Email: annina.helmy@students.unibe.ch|
 
 
