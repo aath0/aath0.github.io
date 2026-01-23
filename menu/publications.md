@@ -3,22 +3,28 @@ layout: page
 title: Representative publications and preprints
 ---
 
+|||
+|:---:|:---|
+|<img align="center" src="/assets/img/Alnes2025.png" alt="Smiley face" width="600"/> |Alnes SL, van Maren E, Mignardot CG, Boccalaro I, Waldleben T, Ledergerber D, Stieglitz LM, Schmidt M, Adamantidis A, Imbach L, Schindler K, Baud MO, Tzovara A, (**2025**) [Auditory responses in the temporal lobe are modulated by slow waves of sleep](https://www.sciencedirect.com/science/article/pii/S0301008225001340), **Progress in Neurobiology**.|
+|||
+|<img align="center" src="/assets/img/AlnesAellen2025.png" alt="Smiley face" width="600"/> |Alnes SL, Aellen FM, Rusterholz T, Pelentritou A, Hänggi M, Rossetti AO, Zubler F, De Lucia M, Tzovara A, (**2025**) [Temporal dynamics of neural synchrony and complexity of auditory EEG responses in post-hypoxic ischemic coma](https://www.sciencedirect.com/science/article/pii/S0300957225000437), **Resuscitation**.|
+|||
+|<img align="center" src="/assets/img/Cusinato2025.png" alt="Smiley face" width="600"/> |Cusinato R, Seiler A, Schindler K, Tzovara A, (**2025**) [Sleep modulates neural timescales and spatiotemporal integration in the human cortex](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), **Journal of Neuroscience**.|
+|||
+|<img align="center" src="/assets/img/Pinar2025a.jpg" alt="Smiley face" width="600"/> |Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A, (**2025**) [What does my network learn? Assessing interpretability of deep learning for EEG Open Access ]([https://academic.oup.com/cercor/article/34/12/bhae483/7930328](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1033/133934)), **Imaging Neuroscience**. |
+|||
+|<img align="center" src="/assets/img/GoektepeKavis2024.png" alt="Smiley face" width="600"/> |Göktepe-Kavis P, Aellen FM, Cortese A, Castegnetti G, de Martino B, Tzovara A, (**2024**) [Context changes retrieval of prospective outcomes during decision deliberation](https://academic.oup.com/cercor/article/34/12/bhae483/7930328), **Cerebral Cortex**.|
+|||
+|<img align="center" src="/assets/img/Alnes2023.png" alt="Smiley face" width="600"/> |Alnes S, Bächlin L, Schindler K, Tzovara A (**2024**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. |
+|||
+|<img align="center" src="/assets/img/Kam2024.png" alt="Smiley face" width="600"/> |Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**. |
+|||
+|<img align="center" src="/assets/img/Aellen2024.jpg" alt="Smiley face" width="600"/> |Aellen F, van der Meer J, Dietmann A, Schmidt M, Bassetti CLA *, Tzovara A *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors.|
+|||
 
-Alnes SL, van Maren E, Mignardot CG, Boccalaro I, Waldleben T, Ledergerber D, Stieglitz LM, Schmidt M, Adamantidis A, Imbach L, Schindler K, Baud MO, Tzovara A, (**2025**) [Auditory responses in the temporal lobe are modulated by slow waves of sleep](https://www.sciencedirect.com/science/article/pii/S0301008225001340), **Progress in Neurobiology**.
 
-Alnes SL, Aellen FM, Rusterholz T, Pelentritou A, Hänggi M, Rossetti AO, Zubler F, De Lucia M, Tzovara A, (**2025**) [Temporal dynamics of neural synchrony and complexity of auditory EEG responses in post-hypoxic ischemic coma](https://www.sciencedirect.com/science/article/pii/S0300957225000437), **Resuscitation**.
 
-Cusinato R, Seiler A, Schindler K, Tzovara A, (**2025**) [Sleep modulates neural timescales and spatiotemporal integration in the human cortex](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), **Journal of Neuroscience**.
 
-Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A, (**2025**) [ What does my network learn? Assessing interpretability of deep learning for EEG Open Access ]([https://academic.oup.com/cercor/article/34/12/bhae483/7930328](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1033/133934)), **Imaging Neuroscience**.
-
-Göktepe-Kavis P, Aellen FM, Cortese A, Castegnetti G, de Martino B, Tzovara A, (**2024**) [Context changes retrieval of prospective outcomes during decision deliberation](https://academic.oup.com/cercor/article/34/12/bhae483/7930328), **Cerebral Cortex**.
-
-Alnes S, Bächlin L, Schindler K, Tzovara A (**2024**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. 
-
-Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**.
-
-Aellen F, van der Meer J, Dietmann A, Schmidt M, Bassetti CLA *, Tzovara A *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors.
 
 Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. 
 
