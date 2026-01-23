@@ -10,6 +10,8 @@ Alnes SL, Aellen FM, Rusterholz T, Pelentritou A, Hänggi M, Rossetti AO, Zubler
 
 Cusinato R, Seiler A, Schindler K, Tzovara A, (**2025**) [Sleep modulates neural timescales and spatiotemporal integration in the human cortex](https://www.jneurosci.org/content/early/2025/02/14/JNEUROSCI.1845-24.2025.abstract), **Journal of Neuroscience**.
 
+Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A, (**2025**) [ What does my network learn? Assessing interpretability of deep learning for EEG Open Access ]([https://academic.oup.com/cercor/article/34/12/bhae483/7930328](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1033/133934)), **Imaging Neuroscience**.
+
 Göktepe-Kavis P, Aellen FM, Cortese A, Castegnetti G, de Martino B, Tzovara A, (**2024**) [Context changes retrieval of prospective outcomes during decision deliberation](https://academic.oup.com/cercor/article/34/12/bhae483/7930328), **Cerebral Cortex**.
 
 Alnes S, Bächlin L, Schindler K, Tzovara A (**2024**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. 
