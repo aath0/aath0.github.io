@@ -15,7 +15,7 @@ title: Representative publications and preprints
 |||
 |<img align="center" src="/assets/img/Goektepe2024.jpeg" alt="Smiley face" width="600"/> | Göktepe-Kavis P, Aellen FM, Cortese A, Castegnetti G, de Martino B, Tzovara A, (**2024**) [Context changes retrieval of prospective outcomes during decision deliberation](https://academic.oup.com/cercor/article/34/12/bhae483/7930328), **Cerebral Cortex**.|
 |||
-|<img align="center" src="/assets/img/Alnes2023.png" alt="Smiley face" width="600"/> | Alnes S, Bächlin L, Schindler K, Tzovara A (**2024**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. |
+|<img align="center" src="/assets/img/Alnes2023b.jpg" alt="Smiley face" width="600"/> | Alnes S, Bächlin L, Schindler K, Tzovara A (**2024**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. |
 |||
 |<img align="center" src="/assets/img/Aellen2024.jpg" alt="Smiley face" width="600"/> | Aellen F, van der Meer J, Dietmann A, Schmidt M, Bassetti CLA *, Tzovara A *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors.|
 |||
