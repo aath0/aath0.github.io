@@ -31,8 +31,6 @@ title: Representative publications and preprints
 |||
 |<img align="center" src="/assets/img/Norrori2021.jpg" alt="Smiley face" width="600"/> | Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.|
 |||
-|<img align="center" src="/assets/img/Norrori2021.jpg" alt="Smiley face" width="600"/> | Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.|
-|||
 |<img align="center" src="/assets/img/LlorensTzovara2021.jpg" alt="Smiley face" width="600"/> | Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/fulltext/S0896-6273(21)00417-7), **Neuron**. * Equal contribution
 |
 |||
