@@ -21,14 +21,15 @@ title: Representative publications and preprints
 |||
 |<img align="center" src="/assets/img/Aellen2024.jpg" alt="Smiley face" width="600"/> |Aellen F, van der Meer J, Dietmann A, Schmidt M, Bassetti CLA *, Tzovara A *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors.|
 |||
+|<img align="center" src="/assets/img/tzovara2023.jpeg" alt="Smiley face" width="600"/> |Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. |
+|||
+|<img align="center" src="/assets/img/Cusinato2023.jpg" alt="Smiley face" width="600"/> |Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.jneurosci.org/content/early/2023/04/10/JNEUROSCI.1941-22.2023), **Journal of Neuroscience**. * Equal contribution.|
+|||
 
 
 
 
 
-Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. 
-
-Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.jneurosci.org/content/early/2023/04/10/JNEUROSCI.1941-22.2023), **Journal of Neuroscience**. * Equal contribution.
 
 Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.
 
