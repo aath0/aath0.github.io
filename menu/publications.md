@@ -25,13 +25,10 @@ title: Representative publications and preprints
 |||
 |<img align="center" src="/assets/img/Cusinato2023.jpg" alt="Smiley face" width="600"/> |Cusinato R *, Alnes SL *, van Maren E, Boccalaro I, Ledergerber D, Adamantidis A, Imbach LL, Schindler K, Baud MO, Tzovara A (**2023**) [Intrinsic neural timescales in the temporal lobe support an auditory processing hierarchy](https://www.jneurosci.org/content/early/2023/04/10/JNEUROSCI.1941-22.2023), **Journal of Neuroscience**. * Equal contribution.|
 |||
+|<img align="center" src="/assets/img/Aellen2023.jpeg" alt="Smiley face" width="600"/> |Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.|
+|||
 
 
-
-
-
-
-Aellen FM, Alnes SL, Loosli F, Rossetti AO, Zubler F, De Lucia M, Tzovara A (**2023**) [Auditory stimulation and deep learning predict awakening from coma after cardiac arrest](https://academic.oup.com/brain/advance-article/doi/10.1093/brain/awac340/6987138), **Brain**.
 
 Zubler F, Tzovara A (**2023**) [Deep learning for EEG-based prognostication after cardiac arrest: from current research to future clinical applications](https://www.frontiersin.org/articles/10.3389/fneur.2023.1183810/abstract), **Frontiers Neurology**.
 
