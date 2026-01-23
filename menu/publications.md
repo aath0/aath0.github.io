@@ -29,18 +29,14 @@ title: Representative publications and preprints
 |||
 |<img align="center" src="/assets/img/Aellen2021.jpg" alt="Smiley face" width="600"/> | Aellen FM, Kavis-Göktepe P, Apostolopoulos S, Tzovara A (**2021**). [Convolutional neural networks for decoding electroencephalography responses and visualizing trial by trial changes in discriminant features](https://www.sciencedirect.com/science/article/pii/S0165027021003022), **Journal of Neuroscience Methods**.|
 |||
+|<img align="center" src="/assets/img/Norrori2021.jpg" alt="Smiley face" width="600"/> | Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.|
+|||
+|<img align="center" src="/assets/img/Norrori2021.jpg" alt="Smiley face" width="600"/> | Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.|
+|||
+|<img align="center" src="/assets/img/LlorensTzovara2021.jpg" alt="Smiley face" width="600"/> | Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/fulltext/S0896-6273(21)00417-7), **Neuron**. * Equal contribution
+|
+|||
 
-
-
-
-
-
-
-Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
-
-Norori N, Hu Q, Aellen F, Faraci F, Tzovara A (**2021**). [Addressing bias in big data and AI for health care: A call for open science](https://www.cell.com/patterns/fulltext/S2666-3899(21)00202-6), **Patterns**.
-
-Llorens A *, Tzovara A *, Bellier L, Bhaya-Grossman I, Bidet-Caulet A, Chang WK, Cross ZR, Dominguez-Faus R, Flinker A, Fonken Y, Gorenstein MA, Holdgraf C, Hoy CW, Ivanova MV, Jimenez RT, Jun S, Kam JWY, Kidd C, Marcelle E, Marciano D, Martin S, Myers NE, Ojala K, Perry A, Pinheiro-Chagas P, Riès SK, Saez I, Skelin I, Slama K, Staveland B, Bassett DS, Buffalo EA, Fairhall AL, Kopell NJ, Kray LJ, Lin JJ, Nobre AC, Riley D, Solbakk AK, Wallis JD, Wang XJ, Yuval-Greenberg S, Kastner S, Knight RT, Dronkers NF. (**2021**). [Gender bias in academia: A lifetime problem that needs solutions](https://www.cell.com/neuron/fulltext/S0896-6273(21)00417-7), **Neuron**. * Equal contribution
 
 # Other publications
 
@@ -73,6 +69,8 @@ Deng Y, Van der Meer J, Tzovara A, Schmidt M, Bassetti CLA, Denecke K (**2023**)
 Giuliana Monachino, Beatrice Zanchi, Luigi Fiorillo, Giulio Conte, Angelo Auricchio, Athina Tzovara, Francesca Dalia Faraci, (**2023**) [Deep Generative Models: The winning key for large and easily accessible ECG datasets?](https://www.sciencedirect.com/science/article/pii/S0010482523011204), **Computers in Biology and Medicine**.
 
 Ojala KE *, Tzovara A *, Poser BA, Lutti A, Bach DR (**2022**) [Asymmetric representation of aversive prediction errors in Pavlovian threat conditioning](https://www.sciencedirect.com/science/article/pii/S1053811922006942), **Neuroimage**. * Equal contribution.
+
+Tivadar R, Knight RT, Tzovara A (**2021**). [Automatic sensory predictions: a review of predictive mechanisms in the brain and their link to conscious processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.702520/full), **Frontiers in Human Neuroscience**.
 
 Schindler K.A., Nef T., Baud M.O., Tzovara A., Yilmaz G., Tinkhauser G., Gerber S.M., Gnarra O., Warncke J.D., Schütz N., Knobel S.E.J., Schmidt M.H., Krack P., Fröhlich F., Sznitman R., Rothen S., Bassetti C.L.A. (**2021**). [NeuroTec Sitem-Insel Bern: Closing the Last Mile in Neurology](https://www.mdpi.com/2514-183X/5/2/13), **Clinical and Translational Neuroscience**.
 
