@@ -6,6 +6,10 @@ title: News
 
 |||
 |:---:|:---|
+|<img align="center" src="/assets/img/Pinar2025a.jpg" alt="Smiley face" width="600"/> | **December 2025**: Curious about what do deep learning algorithms learn from EEG data? Read our [latest paper](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1033/133934) to find out!|
+|||
+|<img align="center" src="/assets/img/Radka_phd.jpg" alt="Smiley face" width="600"/> | **November 2025**: Congratulations to Radoslava Svihrova, affiliated PhD student, for successfully defending her PhD thesis!|
+|||
 |<img align="center" src="/assets/img/Alnes2025.png" alt="Smiley face" width="600"/> | **November 2025**: New [paper from our group](https://www.sciencedirect.com/science/article/pii/S0301008225001340): we study how slow wave sleep affects auditory processing with iEEG recordings. Congratulations to Sigurd and to the entire team!|
 |||
 |<img align="center" src="/assets/img/PhD_Michal.jpg" alt="Smiley face" width="600"/> | **October 2025**: Michal Bechny, affiliated PhD student with the group successfully defending his PhD, congrtulations!|
