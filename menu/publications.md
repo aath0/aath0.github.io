@@ -17,8 +17,6 @@ title: Representative publications and preprints
 |||
 |<img align="center" src="/assets/img/Alnes2023.png" alt="Smiley face" width="600"/> |Alnes S, Bächlin L, Schindler K, Tzovara A (**2024**) [Neural complexity and the spectral slope characterize auditory processing in wakefulness and sleep](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16203), **European Journal of Neuroscience**. |
 |||
-|<img align="center" src="/assets/img/Kam2024.png" alt="Smiley face" width="600"/> |Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**. |
-|||
 |<img align="center" src="/assets/img/Aellen2024.jpg" alt="Smiley face" width="600"/> |Aellen F, van der Meer J, Dietmann A, Schmidt M, Bassetti CLA *, Tzovara A *,  (**2024**) [Disentangling the complex landscape of sleep-wake disorders with data-driven phenotyping: A study of the Bernese center](https://onlinelibrary.wiley.com/doi/10.1111/ene.16026), **European Journal of Neurology**, * Co-senior authors.|
 |||
 |<img align="center" src="/assets/img/tzovara2023.jpeg" alt="Smiley face" width="600"/> |Tzovara A, Fedele T, Sarnthein J, Ledergerber D, Lin JJ, Knight RT (**2024**) [Predictable and unpredictable deviance detection in the human hippocampus and amygdala](https://doi.org/10.1093/cercor/bhad532), **Cerebral Cortex**. |
@@ -59,7 +57,9 @@ van Maren E, Alnes SL, da Cruz JR, Sobolewski A, Friedrichs-Mader C, Wohler K, B
 Göktepe-Kavis P, Aellen FM, Alnes SL, Tzovara A (**2024**). [Sleep research in the era of AI](https://www.mdpi.com/2514-183X/8/1/13), **Clinical and Translational Neuroscience**.
 
 Bechny M., Monachino G, Fiorillo L, van der Meer J, Schmidt M, Bassetti CLA, Tzovara A., Faraci FD. [Bridging AI and clinical practice: integrating automated sleep scor-
-ing algorithm with uncertainty-guided physician review](https://doi.org/10.2147/NSS.S455649). Nature and science of sleep,
+ing algorithm with uncertainty-guided physician review](https://doi.org/10.2147/NSS.S455649). **Nature and science of sleep**.
+
+Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather T, Tan DGH, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Uddin LQ, Yanes JA, Tzovara A (**2024**). [Creating diverse and inclusive scientific practices for research datasets and dissemination](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00216/122597). **Imaging Neuroscience**.
 
 Fiorillo L, Monachino G, van der Meer J, Pesce M, Warncke JD, Schmidt MH, Bassetti CLA, Tzovara A, Favaro P, Faraci FD (**2023**) [U-Sleep’s resilience to AASM guidelines](https://www.nature.com/articles/s41746-023-00784-0), **npj Digital Medicine**.
 
