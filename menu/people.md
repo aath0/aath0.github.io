@@ -11,7 +11,6 @@ title: Lab Members
 |<a href="https://aath0.github.io/menu/FAellen.html"><img align="center" src="/assets/img/FlorenceAellen_Picture.jpeg" alt="Smiley face"/> | **[Dr. Florence Aellen](https://aath0.github.io/menu/FAellen.html)** <br/> **Postdoctoral fellow**<br/><br/>Email: florence.aellen@inf.unibe.ch|
  |<a href="https://aath0.github.io/menu/mkachlicka"><img align="center" src="/assets/img/Magdalena.jpg" alt="Smiley face"/> | **[Dr. Magdalena Kachlicka](https://aath0.github.io/menu/mkachlicka.html)** <br/> **Postdoctoral fellow**<br/><br/>Email: magdalena.kachlicka@unibe.ch |
  |<a href="https://aath0.github.io/menu/cmignardot.html"><img align="center" src="/assets/img/CamilleMignardot.jpg" alt="Smiley face"/> | **[Dr. Camille Mignardot](https://aath0.github.io/menu/cmignardot.html)** <br/> **Clinical and Research Engineer**<br/><br/>Email: camille.mignardot.inselspital@gmail.com |
- |<a href="https://aath0.github.io/menu/rcusinato.html"><img align="center" src="/assets/img/RiccardoCusinato_Picture.png" alt="Smiley face"/> | **[Riccardo Cusinato](https://aath0.github.io/menu/rcusinato.html)** <br/> **PhD Student**<br/><br/>Email: riccardo.cusinato@unibe.ch|
   |<a href="https://aath0.github.io/menu/AChristopoulos.html"><img align="center" src="/assets/img/AlexandrosChristopoulos.jpg" alt="Smiley face"/> | **[Alexandros Christopoulos](https://aath0.github.io/menu/AChristopoulos.html)** <br/> **PhD Student**<br/><br/>Email: alexandros.christopoulos@unibe.ch|
   |<a href="https://aath0.github.io/menu/aduriez.html"><img align="center" src="/assets/img/Duriez.png" alt="Smiley face"/> | **[Alexia Duriez](https://aath0.github.io/menu/aduriez.html)** <br/> **PhD student**<br/><br/>Email: alexia.duriez@unibe.ch|
   |<a href="https://aath0.github.io/menu/hportmann.html"><img align="center" src="/assets/img/Hannah.jpg" alt="Smiley face"/> | **[Hannah Portmann](https://aath0.github.io/menu/hportmann.html)** <br/> **PhD student**<br/><br/>Email: tbd|
@@ -19,6 +18,7 @@ title: Lab Members
 
 
 # Former members
+ * Dr. Riccardo Cusinato, PhD student, 2021 - 2025
  * Sophie Caroni, Researcher, 2024-2025
  * Dr. Sigurd Alnes, PhD student, 2019 - 2024 and postdoctoral fellow, 2024
  * Dr. Pinar Göktepe-Kavis, PhD student, 2020-2024
