@@ -3,9 +3,11 @@ layout: page
 title: Hannah Portmann
 ---
 
-<img align="left" style="display:inline" src="/assets/img/Hannah.jpg" alt="Smiley face" style="padding:25px"/> <br/>
-Email: tbd<br/>
+<img align="left" style="display:inline" src="/assets/img/Hannah.jpeg" alt="Smiley face" style="padding:25px"/> <br/>
+Email: hannah.portmann@students.unibe.ch<br/>
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
