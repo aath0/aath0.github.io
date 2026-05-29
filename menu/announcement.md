@@ -95,6 +95,18 @@ Athina Tzovara: athina.tzovara@unibe.ch
 
 ## Bachelor theses
 * [Processing physiological signals to study sleep disorders](#processing-physiological-signals-to-study-sleep-disorders)
+* [Comparing methods for estimating intrinsic neural timescales in neural signals](#comparing-methods-for-estimating-intrinsic-neural-timescales-in-neural-signals)
+
+## Comparing methods for estimating intrinsic neural timescales in neural signals
+
+Intrinsic neural timescales can be understood as the characteristic durations over which neural activity remains correlated with itself. Timescales have emerged as a key organising principle of cortical computation, yet the methods used to estimate them vary in their assumptions and sensitivity. In this project, we will implement and systematically compare several timescale estimation methods (e.g. autocorrelation function, spectral methods), assessing their reliability, validity, and sensitivity to methodological choices.
+
+The student working on this project should be motivated to program independently in Python and to analyse EEG and/or iEEG data. The project will develop practical skills in neural data analysis, reliability metrics, and model comparison.
+
+For more information please contact:
+Athina Tzovara: athina.tzovara@unibe.ch
+Magdalena Kachlicka: magdalena.kachlicka@unibe.ch
+
 
 ## Processing physiological signals to study sleep disorders
 
