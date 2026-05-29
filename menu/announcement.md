@@ -62,6 +62,17 @@ Applications will be accepted until the positions are filled. To apply please se
 ## Master theses
 * [Identifying biomarkers of insomnia drug action](#identifying-biomarkers-of-insomnia-drug-action)
 * [Neural dynamics of patients in a coma](#neural-dynamics-of-patients-in-a-coma)
+* [Understanding music perception through neural signal analysis](#understanding-music-perception-through-neural-signal-analysis) 
+  
+## Understanding music perception through neural signal analysis
+
+How does the brain make sense of music? This project investigates the neural mechanisms underlying auditory perception by combining acoustic signal processing with analysis of brain activity recordings. To understand how the brain processes music, we will apply a range of signal processing and feature extraction methods to describe and annotate music. These representations will then be used within encoding and/or decoding models to analyse iEEG data, revealing how different sound properties are processed across the brain. 
+
+The student joining this project should be comfortable programming independently in Python and have some familiarity with basic signal processing techniques and/or time-series analysis. The project will develop practical skills in neural data analysis, acoustic signal processing, and encoding/decoding models.
+
+For more information please contact:
+Athina Tzovara: athina.tzovara@unibe.ch
+Magdalena Kachlicka: magdalena.kachlicka@unibe.ch
 
 ## Identifying biomarkers of insomnia drug action
 
