@@ -94,17 +94,7 @@ For more information please contact:
 Athina Tzovara: athina.tzovara@unibe.ch
 
 ## Bachelor theses
-* [Analysing audio files to study sound perception in patients with epilepsy](#analyzing-audio-files-to-study-sound-perception-in-patients-with-epilepsy)
 * [Processing physiological signals to study sleep disorders](#processing-physiological-signals-to-study-sleep-disorders)
-
-## Analysing audio files to study sound perception in the human brain
-
-Our brains have the fascinating ability to process multiple sources of sounds from the environment. In our work we are studying how speech is processed in the human brain with the use of intracranial electroencephalography (iEEG) recordings in patients with epilepsy. To achieve this, we need to align the audio signals that patients heard to their recorded iEEG data. For this project, suitable for a bachelor thesis, we will employ different signal processing techniques to analyse speech signals and align them to iEEG data, in a large cohort of 50 patients. 
- 
-The student working on this project should be motivated to program indepentently in Python and to work with a large dataset consisting of recorded auditory waveforms. They will employ and compare different signal processing techniques to analyse those waveforms and align them with the recorded iEEG signals. This project will give experience with signal processing, neuroscience and working with a large dataset.
-
-For more information please contact:
-Athina Tzovara: athina.tzovara@unibe.ch
 
 ## Processing physiological signals to study sleep disorders
 
