@@ -8,6 +8,8 @@ title: News
 |:---:|:---|
 |<img align="center" src="/assets/img/Helmy2026.png" alt="Smiley face" width="600"/> | **June 2026**: New [review paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.70661) led by Annina Helmy on how machine learning is used to diagnose central disorders of hypersomnolence. Congratulations to Annina and team!|
 |||
+| | **January 2026**: Congratulations to Riccardo Cusinato for defending his PhD thesis!! |
+
 |<img align="center" src="/assets/img/Pinar2025a.jpg" alt="Smiley face" width="600"/> | **December 2025**: Curious about what do deep learning algorithms learn from EEG data? Read our [latest paper](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1033/133934) to find out!|
 |||
 |<img align="center" src="/assets/img/Radka_phd.jpg" alt="Smiley face" width="600"/> | **November 2025**: Congratulations to Radoslava Svihrova, affiliated PhD student, for successfully defending her PhD thesis!|
