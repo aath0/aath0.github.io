@@ -24,7 +24,7 @@ title: Lab Members
  * Dr. Pinar Göktepe-Kavis, PhD student, 2020-2024
  * Dr. Ruxandra Tivadar, Postdoctoral fellow, 2020 - 2023
  * Dr. Thomas Rusterholz, Data Scientist, 2022 - 2023
- * Florence Aellen, PhD student, 2019 - 2023
+ * Dr. Florence Aellen, PhD student, 2019 - 2023
  * Dr. Qiyang Hu, Research Associate, 2020
  * Anna Selina Morf, Research Assistant, 2020-2021
  * Lea Zoe Meret Bächlin, Research Assistant, 2019-2021
