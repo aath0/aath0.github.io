@@ -5,6 +5,8 @@ title: Representative publications and preprints
 
 |||
 |:---:|:---|
+|<img align="center" src="/assets/img/Helmy2026.png" alt="Smiley face" width="600"/> |Helmy A, Fregolente LG, von Gernler M, Morand R, van der Meer J, Schmidt M, Mougiakakou S, Tzovara A *, Bassetti CLA * (**2026**) [Machine Learning for Diagnosis and Differentiation of Central Disorders of Hypersomnolence: A Systematic Review](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.70661), **European Journal of Neurology**, * co-senior authors.|
+|||
 |<img align="center" src="/assets/img/Alnes2025.png" alt="Smiley face" width="600"/> | Alnes SL, van Maren E, Mignardot CG, Boccalaro I, Waldleben T, Ledergerber D, Stieglitz LM, Schmidt M, Adamantidis A, Imbach L, Schindler K, Baud MO, Tzovara A, (**2025**) [Auditory responses in the temporal lobe are modulated by slow waves of sleep](https://www.sciencedirect.com/science/article/pii/S0301008225001340), **Progress in Neurobiology**.|
 |||
 |<img align="center" src="/assets/img/AlnesAellen2025.jpg" alt="Smiley face" width="600"/> | Alnes SL, Aellen FM, Rusterholz T, Pelentritou A, Hänggi M, Rossetti AO, Zubler F, De Lucia M, Tzovara A, (**2025**) [Temporal dynamics of neural synchrony and complexity of auditory EEG responses in post-hypoxic ischemic coma](https://www.sciencedirect.com/science/article/pii/S0300957225000437), **Resuscitation**.|
