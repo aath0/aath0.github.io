@@ -6,6 +6,8 @@ title: News
 
 |||
 |:---:|:---|
+|<img align="center" src="/assets/img/OHBM2026.png" alt="Smiley face" width="600"/> | **June 2026**: Annina and Alex are presenting their work at the OHBM meeting, on intracranial correlates of auditory processing and self-supervised learning to study sleep.|
+|||
 |<img align="center" src="/assets/img/Helmy2026.png" alt="Smiley face" width="600"/> | **June 2026**: New [review paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.70661) led by Annina Helmy on how machine learning is used to diagnose central disorders of hypersomnolence. Congratulations to Annina and team!|
 |||
 |<img align="center" src="/assets/img/iEEG2026.JPG" alt="Smiley face" width="600"/> | **January 2026**: Kick-off meeting in Bern for our new joint project grant with Prof Maxime Baud and the [e-lab](https://www.neuro-elab.com/) to study connectivity in the human brain via iEEG recordings|
