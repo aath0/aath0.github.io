@@ -9,8 +9,12 @@ University of Bern <br/>
 Schützenmattstrasse 14 <br/>
 CH-3012 Bern <br/>
 
-[Map](https://goo.gl/maps/t41SiP6Tq4PVcJa26)
+and
+
+Neurotec - Sitem <br/>
+Freiburgstrasse 3 <br/>
+CH-3010 Bern <br/>
 
 #### Email:
 
-athina.tzovara@inf.unibe.ch
+athina.tzovara@unibe.ch
