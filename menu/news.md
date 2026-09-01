@@ -6,6 +6,8 @@ title: News
 
 |||
 |:---:|:---|
+|<img align="center" src="/assets/img/ZEN26.jpg" alt="Smiley face" width="600"/> | **August 2026**: Annual [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in Leissigen |
+|||
 |<img align="center" src="/assets/img/OHBM2026.png" alt="Smiley face" width="600"/> | **June 2026**: Annina and Alex are presenting their work at the OHBM meeting, on intracranial correlates of auditory processing and self-supervised learning to study sleep.|
 |||
 |<img align="center" src="/assets/img/Helmy2026.png" alt="Smiley face" width="600"/> | **June 2026**: New [review paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.70661) led by Annina Helmy on how machine learning is used to diagnose central disorders of hypersomnolence. Congratulations to Annina and team!|
