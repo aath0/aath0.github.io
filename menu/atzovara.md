@@ -5,7 +5,6 @@ title: Prof. Dr. Athina Tzovara
 
 <img align="left" style="display:inline" src="/assets/img/AthinaTzovara.JPG" alt="Smiley face" style="padding:25px"/> <br/>
 Email: athina.tzovara@unibe.ch<br/>
-Tel: <br/>
 <a href="https://scholar.google.com/citations?user=XdOdIKYAAAAJ&hl=en">Google Scholar</a><br/>
 <a href="https://orcid.org/0000-0002-7588-1418">ORCID</a><br/>
 <br/>
