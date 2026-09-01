@@ -9,8 +9,7 @@ title: Flavia Davidhi
 Email: flavia.davidhi@unibe.ch<br/>
 <br/>
 <br/>
-<br/>
-<br/>
+<a href="https://scholar.google.com/citations?user=FpDe7GUAAAAJ&hl=en">Google Scholar</a><br/><br/>
 <br/>
 
 ---
