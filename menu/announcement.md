@@ -3,32 +3,14 @@ layout: page
 title: Open positions
 ---
 
-* [PhD position on EEG and auditory processing in wakefulness and sleep](#phd-position-on-eeg-and-auditory-processing-in-wakefulness-and-sleep)
+* [PhD students and Postdocs](#phd-students-and-postdocs)
 * [Master theses](#master-theses) 
 * [Bachelor theses](#bachelor-theses) 
 
  
-## PhD position on EEG and auditory processing in wakefulness and sleep
+## PhD students and postdocs
 
-Applications are invited for a PhD student in neuroscience at the University of Bern, Switzerland. Our group is investigating the neural mechanisms that support processing of auditory information and how those are altered when consciousness diminishes. To this aim we are conducting studies using invasive and non-invasive electrophysiological recordings of brain activity in humans (scalp EEG and intracranial EEG).
-We are currently seeking a motivated PhD student to join our group and study neural representations of auditory information in wakefulness and sleep, how those are altered by task demands and how they are shaped by spontaneous neural dynamics. The selected candidate will have the chance to perform EEG experiments in healthy volunteers and will be supported in data collection and analysis. They will be integrated in the collaborative and international research environment of the Center for Experimental Neurology (ZEN), comprising cognitive, clinical, and computational neuroscience groups and the Institute of Computer Science of the University of Bern.
-
-### Your profile
-* Masters degree in neuroscience or a related discipline
-* Experience with EEG recordings and analysis
-* Ability to independently program in Python or R
-* Experience with one or more of the following is a strong plus: signal processing and statistics (time-frequency analyses, multivariate decoding, etc); experience performing EEG experiments; cognitive or auditory neuroscience; experience with sleep research
-
-
-### What we offer
-* Interdisciplinary and collaborative research team bridging cognitive, clinical, and computational neuroscience
-International research environment
-* Funding and salary according to regulations of the Swiss National Science Foundation
-
-### Applications
-Applications will be evaluated on a continuous basis as they are received. The position can start as soon as possible. 
-
-To apply please send one pdf document including your CV, publication list, a brief statement of research interests and the contact details of two referees to Athina Tzovara: athina.tzovara@unibe.ch. 
+For information on PhD and postdoc positions in our group please contact Athina Tzovara: athina.tzovara@unibe.ch, including your CV.
 
 ## Master theses
 * [Identifying biomarkers of insomnia drug action](#identifying-biomarkers-of-insomnia-drug-action)
