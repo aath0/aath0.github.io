@@ -6,6 +6,8 @@ title: News
 
 |||
 |:---:|:---|
+|<img align="center" src="/assets/img/Helmy2026b.png" alt="Smiley face" width="600"/> | **September 2026**: Did you ever wonder how Foundation Models can impact sleep research? Annina Helmy and colleagues are discussing opportunities and limitations in our most [recent article](https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsag225/8796016).|
+|||
 |<img align="center" src="/assets/img/ZEN26.jpg" alt="Smiley face" width="600"/> | **August 2026**: Annual [ZEN](https://neurologie.insel.ch/de/lehre-und-forschung/forschung/research-resources/standard-titel) retreat in Leissigen |
 |||
 |<img align="center" src="/assets/img/OHBM2026.png" alt="Smiley face" width="600"/> | **June 2026**: Annina and Alex are presenting their work at the OHBM meeting, on intracranial correlates of auditory processing and self-supervised learning to study sleep.|
