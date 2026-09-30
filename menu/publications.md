@@ -5,6 +5,8 @@ title: Representative publications and preprints
 
 |||
 |:---:|:---|
+|<img align="center" src="/assets/img/Helmy2026b.png" alt="Smiley face" width="600"/> |Helmy A, Morand R, Calzoni A, Dei Rossi A, Fiorillo L, Bassetti CLA, Faraci F *, Mougiakakou S *, Tzovara A *, Schmidt M * (**2026**) [Foundation models in sleep research: opportunities and limitations](https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsag225/8796016), **Sleep**, * co-senior authors.|
+|||
 |<img align="center" src="/assets/img/Helmy2026.png" alt="Smiley face" width="600"/> |Helmy A, Fregolente LG, von Gernler M, Morand R, van der Meer J, Schmidt M, Mougiakakou S, Tzovara A *, Bassetti CLA * (**2026**) [Machine Learning for Diagnosis and Differentiation of Central Disorders of Hypersomnolence: A Systematic Review](https://onlinelibrary.wiley.com/doi/full/10.1111/ene.70661), **European Journal of Neurology**, * co-senior authors.|
 |||
 |<img align="center" src="/assets/img/Alnes2025.png" alt="Smiley face" width="600"/> | Alnes SL, van Maren E, Mignardot CG, Boccalaro I, Waldleben T, Ledergerber D, Stieglitz LM, Schmidt M, Adamantidis A, Imbach L, Schindler K, Baud MO, Tzovara A, (**2025**) [Auditory responses in the temporal lobe are modulated by slow waves of sleep](https://www.sciencedirect.com/science/article/pii/S0301008225001340), **Progress in Neurobiology**.|
